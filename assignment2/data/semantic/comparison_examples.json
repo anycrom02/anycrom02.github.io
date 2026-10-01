@@ -1,0 +1,1695 @@
+{
+  "same_ipc": [
+    {
+      "ipc": "G06F",
+      "total_fractional_weight": 286.98214285714295,
+      "nonnoise_clusters": 27,
+      "groups": [
+        {
+          "cluster": 6,
+          "fractional_weight": 43.25000000000002,
+          "ipc_share_pct": 15.070624105531705,
+          "examples": [
+            {
+              "application_number": "1020150033809",
+              "title": "문서 보안 방법 및 장치(Method and Apparatus for Document Secure)",
+              "ipc": [
+                "G06F"
+              ]
+            },
+            {
+              "application_number": "1020010035501",
+              "title": "디지털 정보 보안 방법 및 그 시스템(METHOD OF PROTECTING DIGITAL INFORMATION AND SYSTEMTHEREOF)",
+              "ipc": [
+                "G06F",
+                "H04L"
+              ]
+            },
+            {
+              "application_number": "1020110092953",
+              "title": "디지털 콘텐트 유출 방지 시스템 및 방법(System and Method for Preventing The Leaking of Digital Content)",
+              "ipc": [
+                "G06F"
+              ]
+            }
+          ]
+        },
+        {
+          "cluster": 4,
+          "fractional_weight": 38.93333333333334,
+          "ipc_share_pct": 13.566465476116395,
+          "examples": [
+            {
+              "application_number": "1020237015212",
+              "title": "신경망 프로세싱 유닛(NEURAL NETWORK PROCESSING UNIT)",
+              "ipc": [
+                "G06F",
+                "G06N"
+              ]
+            },
+            {
+              "application_number": "1020227004135",
+              "title": "신경망 프로세싱 유닛(NEURAL NETWORK PROCESSING UNIT)",
+              "ipc": [
+                "G06F",
+                "G06N"
+              ]
+            },
+            {
+              "application_number": "1020237023587",
+              "title": "신경 프로세싱 유닛 및 이의 동작 방법(NEURAL PROCESSING UNIT AND OPERATION METHOD THEREOF)",
+              "ipc": [
+                "G06F",
+                "G06N"
+              ]
+            }
+          ]
+        },
+        {
+          "cluster": 7,
+          "fractional_weight": 26.249999999999996,
+          "ipc_share_pct": 9.146910584282244,
+          "examples": [
+            {
+              "application_number": "1020210112012",
+              "title": "학습 데이터 관리 방법(METHOD FOR MANAGING TRAINING DATA)",
+              "ipc": [
+                "G06F",
+                "G06N"
+              ]
+            },
+            {
+              "application_number": "1020190067175",
+              "title": "학습 데이터 관리 방법(METHOD FOR MANAGING TRAINING DATA)",
+              "ipc": [
+                "G06F",
+                "G06N"
+              ]
+            },
+            {
+              "application_number": "1020220167774",
+              "title": "인공지능 학습을 위한 데이터 관리 시스템 및 방법(DATA MANAGEMENT SYSTEM AND METHOD FOR MACHINE LEARNING)",
+              "ipc": [
+                "G06F",
+                "H04L"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ipc": "G06N",
+      "total_fractional_weight": 252.07619047619048,
+      "nonnoise_clusters": 21,
+      "groups": [
+        {
+          "cluster": 4,
+          "fractional_weight": 77.91666666666666,
+          "ipc_share_pct": 30.90996675230467,
+          "examples": [
+            {
+              "application_number": "1020237015212",
+              "title": "신경망 프로세싱 유닛(NEURAL NETWORK PROCESSING UNIT)",
+              "ipc": [
+                "G06F",
+                "G06N"
+              ]
+            },
+            {
+              "application_number": "1020227004135",
+              "title": "신경망 프로세싱 유닛(NEURAL NETWORK PROCESSING UNIT)",
+              "ipc": [
+                "G06F",
+                "G06N"
+              ]
+            },
+            {
+              "application_number": "1020237023587",
+              "title": "신경 프로세싱 유닛 및 이의 동작 방법(NEURAL PROCESSING UNIT AND OPERATION METHOD THEREOF)",
+              "ipc": [
+                "G06F",
+                "G06N"
+              ]
+            }
+          ]
+        },
+        {
+          "cluster": 7,
+          "fractional_weight": 56.150000000000006,
+          "ipc_share_pct": 22.27501133444159,
+          "examples": [
+            {
+              "application_number": "1020210112012",
+              "title": "학습 데이터 관리 방법(METHOD FOR MANAGING TRAINING DATA)",
+              "ipc": [
+                "G06F",
+                "G06N"
+              ]
+            },
+            {
+              "application_number": "1020190067175",
+              "title": "학습 데이터 관리 방법(METHOD FOR MANAGING TRAINING DATA)",
+              "ipc": [
+                "G06F",
+                "G06N"
+              ]
+            },
+            {
+              "application_number": "1020230056383",
+              "title": "자동 학습 기반의 데이터 라벨링 방법, 장치 및 컴퓨터 판독가능 저장 매체(AUTOMATED TRAINING BASED DATA LABELING METHOD, APPARATUS AND COMPUTER READABLE STORAGE MEDIUM)",
+              "ipc": [
+                "G06F",
+                "G06N"
+              ]
+            }
+          ]
+        },
+        {
+          "cluster": 14,
+          "fractional_weight": 27.366666666666656,
+          "ipc_share_pct": 10.856505969472567,
+          "examples": [
+            {
+              "application_number": "1020210035692",
+              "title": "어노테이션 작업 제어 방법 및 이를 실행하기 위하여 기록매체에 기록된 컴퓨터 프로그램(Method for controlling annotation work, and computer program recorded on record-medium for executing method therefor)",
+              "ipc": [
+                "G06F",
+                "G06N"
+              ]
+            },
+            {
+              "application_number": "1020210183370",
+              "title": "지점 지정을 통한 어노테이션 방법 및 이를 실행하기 위하여 기록매체에 기록된 컴퓨터 프로그램(Annotation method through point designation and a computer program recorded on a recording medium to execute it)",
+              "ipc": [
+                "G06N",
+                "G06V"
+              ]
+            },
+            {
+              "application_number": "1020210183372",
+              "title": "객체 추출이 용이한 어노테이션 방법 및 이를 실행하기 위하여 기록매체에 기록된 컴퓨터 프로그램(Annotation method for easy object extraction and a computer program recorded on a recording medium to execute the annotation method)",
+              "ipc": [
+                "G06N",
+                "G06T"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ipc": "G06T",
+      "total_fractional_weight": 249.85952380952386,
+      "nonnoise_clusters": 23,
+      "groups": [
+        {
+          "cluster": 0,
+          "fractional_weight": 63.78333333333337,
+          "ipc_share_pct": 25.52767745685672,
+          "examples": [
+            {
+              "application_number": "1020210183557",
+              "title": "객체 검출 방법 및 그 장치(Method for detecting object and apparatus thereof)",
+              "ipc": [
+                "G06N",
+                "G06T",
+                "G06V"
+              ]
+            },
+            {
+              "application_number": "1020210135451",
+              "title": "객체 검출 방법(METHOD TO DETECT OBJECT)",
+              "ipc": [
+                "G06N",
+                "G06T",
+                "G06V"
+              ]
+            },
+            {
+              "application_number": "1020210023316",
+              "title": "객체 추적 방법 및 장치(METHOD AND APPARATUS FOR TRACKING OBJECT)",
+              "ipc": [
+                "G06N",
+                "G06T",
+                "G06V"
+              ]
+            }
+          ]
+        },
+        {
+          "cluster": 23,
+          "fractional_weight": 24.75,
+          "ipc_share_pct": 9.90556598469616,
+          "examples": [
+            {
+              "application_number": "1020210078660",
+              "title": "3D 점군 데이터 일괄 처리 방법(Batch processing method of 3D points group, and computer program recorded on record-medium for executing method thereof)",
+              "ipc": [
+                "G01S",
+                "G06N",
+                "G06T"
+              ]
+            },
+            {
+              "application_number": "1020240055470",
+              "title": "3차원 바운딩 박스 데이터 생성 방법 및 시스템(METHOD AND SYSTEM FOR GENERATING 3-DIMENTIONAL BOUNDING BOX DATA)",
+              "ipc": [
+                "G06T"
+              ]
+            },
+            {
+              "application_number": "1020240063998",
+              "title": "3차원 모델 생성 장치 및 방법(Apparatus and method for generating three-dimensional model)",
+              "ipc": [
+                "G06T"
+              ]
+            }
+          ]
+        },
+        {
+          "cluster": 13,
+          "fractional_weight": 24.666666666666664,
+          "ipc_share_pct": 9.872213910673613,
+          "examples": [
+            {
+              "application_number": "1020170012401",
+              "title": "워터마크 삽입 방법 및 장치, 및 시스템(WATERMARK EMBEDDING METHOD AND APPARATUS, AND SYSTEM)",
+              "ipc": [
+                "G06T",
+                "H04N"
+              ]
+            },
+            {
+              "application_number": "1020220109902",
+              "title": "디지털 워터마크의 삽입 및 검출을 위한 방법 및 장치(METHOD AND APPARATUS FOR DIGITAL WATERMARK EMBEDDING AND EXTRACTING)",
+              "ipc": [
+                "G06T",
+                "H04N"
+              ]
+            },
+            {
+              "application_number": "1020240125188",
+              "title": "디지털 워터마크의 삽입 및 검출을 위한 방법 및 장치(METHOD AND APPARATUS FOR DIGITAL WATERMARK EMBEDDING AND EXTRACTING)",
+              "ipc": [
+                "G06T",
+                "H04N"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ipc": "G01S",
+      "total_fractional_weight": 206.7095238095238,
+      "nonnoise_clusters": 22,
+      "groups": [
+        {
+          "cluster": 5,
+          "fractional_weight": 71.11666666666667,
+          "ipc_share_pct": 34.40415582022162,
+          "examples": [
+            {
+              "application_number": "1020190093992",
+              "title": "라이다 장치(LIDAR DEVICE)",
+              "ipc": [
+                "G01S",
+                "G02B",
+                "G05D"
+              ]
+            },
+            {
+              "application_number": "1020210190526",
+              "title": "라이다 장치(LIDAR DEVICE)",
+              "ipc": [
+                "G01S",
+                "G02B"
+              ]
+            },
+            {
+              "application_number": "1020210190527",
+              "title": "라이다 장치(LIDAR DEVICE)",
+              "ipc": [
+                "G01S",
+                "G02B"
+              ]
+            }
+          ]
+        },
+        {
+          "cluster": 15,
+          "fractional_weight": 45.11666666666667,
+          "ipc_share_pct": 21.826119007579077,
+          "examples": [
+            {
+              "application_number": "1020220138604",
+              "title": "위성항법 신호의 추적을 위한 장치(Apparatus for Tracking a Satellite Navigation Signal)",
+              "ipc": [
+                "G01S",
+                "H03M"
+              ]
+            },
+            {
+              "application_number": "1020220127730",
+              "title": "위성항법 신호의 획득을 위한 장치(Apparatus for Acquisition of a Satellite Navigation Signal)",
+              "ipc": [
+                "G01S",
+                "H03M"
+              ]
+            },
+            {
+              "application_number": "1020160162522",
+              "title": "위성 항법 시스템의 재밍 처리 장치 및 재밍 처리 방법(ANTI-JAMMING APPARATUS FOR GLOBAL NAVIGATION SATELLITE SYSTEM AND ANTI-JAMMING METHOD FOR GLOBAL NAVIGATION SATELLITE SYSTEM)",
+              "ipc": [
+                "G01S"
+              ]
+            }
+          ]
+        },
+        {
+          "cluster": 30,
+          "fractional_weight": 11.583333333333334,
+          "ipc_share_pct": 5.603676656914465,
+          "examples": [
+            {
+              "application_number": "1020120016975",
+              "title": "거리 측정 장치(Distance measuring apparatus)",
+              "ipc": [
+                "G01S"
+              ]
+            },
+            {
+              "application_number": "1020190169501",
+              "title": "거리 측정 장치(DISTANCE MEASURING DEVICE)",
+              "ipc": [
+                "B60W",
+                "G01S",
+                "H01S"
+              ]
+            },
+            {
+              "application_number": "1020190171660",
+              "title": "거리 측정 장치(DISTANCE MEASURING DEVICE)",
+              "ipc": [
+                "G01S",
+                "H01S"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ipc": "H04N",
+      "total_fractional_weight": 190.90000000000003,
+      "nonnoise_clusters": 22,
+      "groups": [
+        {
+          "cluster": 0,
+          "fractional_weight": 48.800000000000026,
+          "ipc_share_pct": 25.563122053431126,
+          "examples": [
+            {
+              "application_number": "1020200017666",
+              "title": "영상처리장치 및 그 장치의 구동방법(Apparatus for Processing Images and Driving Method Thereof)",
+              "ipc": [
+                "G06F",
+                "G08B",
+                "H04N"
+              ]
+            },
+            {
+              "application_number": "1020210165616",
+              "title": "영상 기반 유기물 탐지 방법 및 장치(IMAGE-BASED ABANDONMENT DETECTION METHOD AND APPARATUS)",
+              "ipc": [
+                "G06V",
+                "H04N"
+              ]
+            },
+            {
+              "application_number": "1020240024498",
+              "title": "영상촬영장치(Image Photographing apparatus)",
+              "ipc": [
+                "G03B",
+                "H04N"
+              ]
+            }
+          ]
+        },
+        {
+          "cluster": 13,
+          "fractional_weight": 32.833333333333336,
+          "ipc_share_pct": 17.19923170944648,
+          "examples": [
+            {
+              "application_number": "1020170012401",
+              "title": "워터마크 삽입 방법 및 장치, 및 시스템(WATERMARK EMBEDDING METHOD AND APPARATUS, AND SYSTEM)",
+              "ipc": [
+                "G06T",
+                "H04N"
+              ]
+            },
+            {
+              "application_number": "1020220109902",
+              "title": "디지털 워터마크의 삽입 및 검출을 위한 방법 및 장치(METHOD AND APPARATUS FOR DIGITAL WATERMARK EMBEDDING AND EXTRACTING)",
+              "ipc": [
+                "G06T",
+                "H04N"
+              ]
+            },
+            {
+              "application_number": "1020240125188",
+              "title": "디지털 워터마크의 삽입 및 검출을 위한 방법 및 장치(METHOD AND APPARATUS FOR DIGITAL WATERMARK EMBEDDING AND EXTRACTING)",
+              "ipc": [
+                "G06T",
+                "H04N"
+              ]
+            }
+          ]
+        },
+        {
+          "cluster": 33,
+          "fractional_weight": 20.5,
+          "ipc_share_pct": 10.738606600314299,
+          "examples": [
+            {
+              "application_number": "1020190143653",
+              "title": "비디오 메타데이터 증대를 위한 장치 또는 방법(Apparatus or Method for Enhancing Video Metadata)",
+              "ipc": [
+                "G06T",
+                "H04N"
+              ]
+            },
+            {
+              "application_number": "1020240162151",
+              "title": "영상 데이터 전송을 위한 데이터 변환 방법 및 그를 위한 장치(Method and Apparatus for Converting Data for Video Data Transmission)",
+              "ipc": [
+                "H04N"
+              ]
+            },
+            {
+              "application_number": "1020230082838",
+              "title": "관심비디오 동시재생 장치 및 방법(Apparatus and Method for Simultaneous Playback of Interest Video)",
+              "ipc": [
+                "H04N"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ipc": "H04R",
+      "total_fractional_weight": 184.98333333333332,
+      "nonnoise_clusters": 8,
+      "groups": [
+        {
+          "cluster": 2,
+          "fractional_weight": 141.83333333333331,
+          "ipc_share_pct": 76.6735741958735,
+          "examples": [
+            {
+              "application_number": "1020180030334",
+              "title": "마이크로 스피커 구조(Micro speaker structure)",
+              "ipc": [
+                "H04R"
+              ]
+            },
+            {
+              "application_number": "2020050005897",
+              "title": "마이크로스피커의 프레임 구조(Frame structure of microspeaker)",
+              "ipc": [
+                "H04R"
+              ]
+            },
+            {
+              "application_number": "1020200064238",
+              "title": "마이크로스피커의 물 배출 구조(Water drainage structure for microspeaker)",
+              "ipc": [
+                "H04R"
+              ]
+            }
+          ]
+        },
+        {
+          "cluster": 25,
+          "fractional_weight": 26.28333333333333,
+          "ipc_share_pct": 14.208487251103701,
+          "examples": [
+            {
+              "application_number": "1020030089088",
+              "title": "전기-음향변환장치의 진동체 제조방법(METHOD FOR FABRICATING BIVRATOR OF ELECTRO-ACOUSTICTRANSDUCER)",
+              "ipc": [
+                "H04R"
+              ]
+            },
+            {
+              "application_number": "2020030017584",
+              "title": "전기-음향변환장치(ELECTRIC-ACOUSTIC TRNSDUCER)",
+              "ipc": [
+                "H04R"
+              ]
+            },
+            {
+              "application_number": "1020020004655",
+              "title": "전기음향변환장치(ELECTRO-ACOUSTIC TRANSDUCER)",
+              "ipc": [
+                "H04R"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ipc": "G06Q",
+      "total_fractional_weight": 110.48571428571428,
+      "nonnoise_clusters": 22,
+      "groups": [
+        {
+          "cluster": 3,
+          "fractional_weight": 26.899999999999995,
+          "ipc_share_pct": 24.347039048357896,
+          "examples": [
+            {
+              "application_number": "1020080113939",
+              "title": "개인화된 무선 인터넷 서비스 제공 시스템(SYSTEM FOR PROVIDING PERSONALIZED MOBILE INTERNET SERVICE)",
+              "ipc": [
+                "G06F",
+                "G06Q",
+                "H04M",
+                "H04W"
+              ]
+            },
+            {
+              "application_number": "1020130008101",
+              "title": "광고 제공 시스템 및 방법(SYSTEM AND METHOD FOR PROVIDING ADVERTISEMENT)",
+              "ipc": [
+                "G06Q"
+              ]
+            },
+            {
+              "application_number": "1020120031618",
+              "title": "광고 제공 시스템 및 방법(SYSTEM AND METHOD FOR PROVIDING ADVERTISEMENT)",
+              "ipc": [
+                "G06Q"
+              ]
+            }
+          ]
+        },
+        {
+          "cluster": 6,
+          "fractional_weight": 13.166666666666668,
+          "ipc_share_pct": 11.917076114128095,
+          "examples": [
+            {
+              "application_number": "1020160132927",
+              "title": "전자문서 내용기반의 위변조 방지 장치와 시스템 및 그 방법(APPARATUS AND SYSTEM FOR PREVENTING PRODUCT FALSIFICATION BASED ON ELECTRONIC DOCUMENTS CONTENT AND METHOD THEREOF)",
+              "ipc": [
+                "G06F",
+                "G06Q",
+                "H04L"
+              ]
+            },
+            {
+              "application_number": "1020030036268",
+              "title": "개인 컨텐츠 원격 관리 시스템 및 방법(System And Method For Remote Management Of PersonalContents)",
+              "ipc": [
+                "G06Q",
+                "H04M",
+                "H04N",
+                "H04W"
+              ]
+            },
+            {
+              "application_number": "1020070121057",
+              "title": "전자문서 자동 위변조 검증 시스템(System for electronic document verification modulation)",
+              "ipc": [
+                "G06F",
+                "G06K",
+                "G06Q"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ipc": "H10H",
+      "total_fractional_weight": 105.53333333333335,
+      "nonnoise_clusters": 7,
+      "groups": [
+        {
+          "cluster": 17,
+          "fractional_weight": 42.66666666666667,
+          "ipc_share_pct": 40.429564118761846,
+          "examples": [
+            {
+              "application_number": "1020190161050",
+              "title": "반도체 발광소자를 제조하는 방법(METHOD OF MANUFACTURING A LIGHT EMITTING DEVICE)",
+              "ipc": [
+                "H10H"
+              ]
+            },
+            {
+              "application_number": "1020190161052",
+              "title": "반도체 발광소자를 제조하는 방법(METHOD OF MANUFACTURING A LIGHT EMITTING DEVICE)",
+              "ipc": [
+                "H10H"
+              ]
+            },
+            {
+              "application_number": "1020240018705",
+              "title": "반도체 발광소자를 제조하는 방법(METHOD OF MANUFACTURING A LIGHT EMITTING DEVICE)",
+              "ipc": [
+                "H10H"
+              ]
+            }
+          ]
+        },
+        {
+          "cluster": 31,
+          "fractional_weight": 32.0,
+          "ipc_share_pct": 30.32217308907138,
+          "examples": [
+            {
+              "application_number": "1020250052764",
+              "title": "마이크로디스플레이 패널 및 그 제조 방법(MICRODISPLAY PANEL AND MANUFACTURING METHOD THEREOF)",
+              "ipc": [
+                "H10H"
+              ]
+            },
+            {
+              "application_number": "1020250052765",
+              "title": "마이크로디스플레이 패널 및 그 제조 방법(MICRODISPLAY PANEL AND MANUFACTURING METHOD THEREOF)",
+              "ipc": [
+                "H10H"
+              ]
+            },
+            {
+              "application_number": "1020250052766",
+              "title": "마이크로디스플레이 패널 및 그 제조 방법(MICRODISPLAY PANEL AND MANUFACTURING METHOD THEREOF)",
+              "ipc": [
+                "H10H"
+              ]
+            }
+          ]
+        },
+        {
+          "cluster": 12,
+          "fractional_weight": 10.666666666666668,
+          "ipc_share_pct": 10.107391029690461,
+          "examples": [
+            {
+              "application_number": "1020230149573",
+              "title": "그룹3족 질화물 반도체 템플릿의 제조 방법(METHOD FOR MANUFACTURING GROUP 3 NITRIDE SEMICONDUCTOR TEMPLATE)",
+              "ipc": [
+                "H10D",
+                "H10H",
+                "H10P"
+              ]
+            },
+            {
+              "application_number": "1020220161635",
+              "title": "그룹3족 질화물 반도체 템플릿을 이용한 반도체 소자의 제조 방법(METHOD FOR MANUFACTURING SEMICONDUCTOR DEVICE USING GRUOP 3 NITRIDE SEMICONDUCTOR TEMPLATE)",
+              "ipc": [
+                "H10D",
+                "H10H",
+                "H10P"
+              ]
+            },
+            {
+              "application_number": "1020170136503",
+              "title": "3족 질화물 반도체층 성장을 위한 템플릿, 3족 질화물 반도체 발광소자 및 이들을 제조하는 방법(TEMPLATE FOR GROWING III-NITRIDE SEMICONDUCTOR LAYER, III-NITRIDE SEMICONDUCTOR LIGHT EMITTING DEVICE AND METHOD FOR MANUFACTURING THE SAMES)",
+              "ipc": [
+                "H10H"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ipc": "G02B",
+      "total_fractional_weight": 103.12619047619049,
+      "nonnoise_clusters": 17,
+      "groups": [
+        {
+          "cluster": 11,
+          "fractional_weight": 45.083333333333336,
+          "ipc_share_pct": 43.71666705146261,
+          "examples": [
+            {
+              "application_number": "1020090076374",
+              "title": "광섬유의 제조방법(METHOD FOR MANUFACTURING OPTICAL FIBER)",
+              "ipc": [
+                "C03B",
+                "G02B"
+              ]
+            },
+            {
+              "application_number": "1020180158796",
+              "title": "광섬유 및 그 제조방법(Optical fiber and method for making the same)",
+              "ipc": [
+                "G02B"
+              ]
+            },
+            {
+              "application_number": "1020150119977",
+              "title": "대구경 광섬유 모재를 제조하기 위한 방법 및 장치(A METHOD AND A APPARATUS FOR MANUFACTURING OPTICAL FIBER WITH LARGE CALIBER)",
+              "ipc": [
+                "C03B",
+                "G02B"
+              ]
+            }
+          ]
+        },
+        {
+          "cluster": 5,
+          "fractional_weight": 20.78333333333334,
+          "ipc_share_pct": 20.153302703576294,
+          "examples": [
+            {
+              "application_number": "1020190093992",
+              "title": "라이다 장치(LIDAR DEVICE)",
+              "ipc": [
+                "G01S",
+                "G02B",
+                "G05D"
+              ]
+            },
+            {
+              "application_number": "1020210190526",
+              "title": "라이다 장치(LIDAR DEVICE)",
+              "ipc": [
+                "G01S",
+                "G02B"
+              ]
+            },
+            {
+              "application_number": "1020210190527",
+              "title": "라이다 장치(LIDAR DEVICE)",
+              "ipc": [
+                "G01S",
+                "G02B"
+              ]
+            }
+          ]
+        },
+        {
+          "cluster": 10,
+          "fractional_weight": 18.500000000000004,
+          "ipc_share_pct": 17.939186849213865,
+          "examples": [
+            {
+              "application_number": "1020080102129",
+              "title": "열상 장치용 대물렌즈계(Objective lens system for thermal image device)",
+              "ipc": [
+                "G02B",
+                "G03B"
+              ]
+            },
+            {
+              "application_number": "1020120004977",
+              "title": "광학장치(Apparatus of optics instrument)",
+              "ipc": [
+                "G02B",
+                "G03B",
+                "H04N"
+              ]
+            },
+            {
+              "application_number": "1020120004978",
+              "title": "광학장치(Apparatus of optics instrument)",
+              "ipc": [
+                "G02B",
+                "G03B",
+                "H04N"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ipc": "H04L",
+      "total_fractional_weight": 78.7095238095238,
+      "nonnoise_clusters": 15,
+      "groups": [
+        {
+          "cluster": 6,
+          "fractional_weight": 32.83333333333333,
+          "ipc_share_pct": 41.71456228446972,
+          "examples": [
+            {
+              "application_number": "1020020031112",
+              "title": "디지털 문서의 보안을 위한 방법 및 이를 이용한 장치(METHOD AND APPARATUS FOR PROTECTING DIGITAL DOCUMENTS)",
+              "ipc": [
+                "H04L"
+              ]
+            },
+            {
+              "application_number": "1020010035501",
+              "title": "디지털 정보 보안 방법 및 그 시스템(METHOD OF PROTECTING DIGITAL INFORMATION AND SYSTEMTHEREOF)",
+              "ipc": [
+                "G06F",
+                "H04L"
+              ]
+            },
+            {
+              "application_number": "1020010045856",
+              "title": "디지털 정보 보안 방법 및 그 시스템(METHOD OF PROTECTING DIGITAL INFORMATION AND SYSTEMTHEREOF)",
+              "ipc": [
+                "H04L"
+              ]
+            }
+          ]
+        },
+        {
+          "cluster": 3,
+          "fractional_weight": 25.166666666666668,
+          "ipc_share_pct": 31.97410611652248,
+          "examples": [
+            {
+              "application_number": "1020040032451",
+              "title": "멀티미디어 서비스 시스템 및 방법(System And Method For Serving Multimedia)",
+              "ipc": [
+                "H04L",
+                "H04N"
+              ]
+            },
+            {
+              "application_number": "1020220069541",
+              "title": "패킷 처리 방법 및 그를 위한 장치(Method and Apparatus for Processing Packet)",
+              "ipc": [
+                "G06N",
+                "H04L"
+              ]
+            },
+            {
+              "application_number": "1020160182121",
+              "title": "다중 경로 전송 시스템 및 방법(MULTIPATH TRANSMISSION SYSTEM AND METHOD)",
+              "ipc": [
+                "H04L"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ipc": "H10D",
+      "total_fractional_weight": 70.31666666666665,
+      "nonnoise_clusters": 8,
+      "groups": [
+        {
+          "cluster": 12,
+          "fractional_weight": 38.83333333333332,
+          "ipc_share_pct": 55.22635695662479,
+          "examples": [
+            {
+              "application_number": "1020240071344",
+              "title": "3차원 질화물 구조 도입을 통한 고품질 GaN HEMT 전력반도체 에피택시 웨이퍼 및 그 제조 방법(High-quality GaN HEMT power semiconductor epitaxial wafer manufacturing method by introducing a 3D nitride structure)",
+              "ipc": [
+                "H10D"
+              ]
+            },
+            {
+              "application_number": "1020230149573",
+              "title": "그룹3족 질화물 반도체 템플릿의 제조 방법(METHOD FOR MANUFACTURING GROUP 3 NITRIDE SEMICONDUCTOR TEMPLATE)",
+              "ipc": [
+                "H10D",
+                "H10H",
+                "H10P"
+              ]
+            },
+            {
+              "application_number": "1020220161635",
+              "title": "그룹3족 질화물 반도체 템플릿을 이용한 반도체 소자의 제조 방법(METHOD FOR MANUFACTURING SEMICONDUCTOR DEVICE USING GRUOP 3 NITRIDE SEMICONDUCTOR TEMPLATE)",
+              "ipc": [
+                "H10D",
+                "H10H",
+                "H10P"
+              ]
+            }
+          ]
+        },
+        {
+          "cluster": 20,
+          "fractional_weight": 11.65,
+          "ipc_share_pct": 16.567907086987443,
+          "examples": [
+            {
+              "application_number": "1020250134644",
+              "title": "반도체 소자의 제조방법(METHOD OF MANUFACTURING A SEMICONDUCTOR DEVICE)",
+              "ipc": [
+                "H10D"
+              ]
+            },
+            {
+              "application_number": "1020250151948",
+              "title": "반도체 소자의 제조방법(METHOD OF MANUFACTURING A SEMICONDUCTOR DEVICE)",
+              "ipc": [
+                "H10D"
+              ]
+            },
+            {
+              "application_number": "1020240083811",
+              "title": "반도체 소자 및 그 제조방법(SEMICONDUCTOR DEVICE)",
+              "ipc": [
+                "G01K",
+                "H10D"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "different_ipc_near_pairs": [
+    {
+      "cluster": 12,
+      "cosine_similarity": 0.9992302656173706,
+      "a": {
+        "application_number": "1020210084975",
+        "title": "비발광 3족 질화물 반도체 적층체를 제조하는 방법(METHOD OF MANUFACTUING NON EMITTING III-NITRIDE SEMICONDUCTOR STACKED STRUCTURE)",
+        "ipc_subclasses": [
+          "H10P"
+        ]
+      },
+      "b": {
+        "application_number": "1020210182971",
+        "title": "비발광 3족 질화물 반도체 적층체를 제조하는 방법(METHOD OF MANUFACTURING A NON EMITTING III-NITRIDE SEMICONDUCTOR STACKED STRUCTURE)",
+        "ipc_subclasses": [
+          "H10D"
+        ]
+      }
+    },
+    {
+      "cluster": 20,
+      "cosine_similarity": 0.9959380030632019,
+      "a": {
+        "application_number": "1020250134617",
+        "title": "반도체 소자의 제조 방법(METHOD OF MANUFACTURING A SEMICONDUCTOR DEVICE)",
+        "ipc_subclasses": [
+          "G03F",
+          "H10P"
+        ]
+      },
+      "b": {
+        "application_number": "1020250151948",
+        "title": "반도체 소자의 제조방법(METHOD OF MANUFACTURING A SEMICONDUCTOR DEVICE)",
+        "ipc_subclasses": [
+          "H10D"
+        ]
+      }
+    },
+    {
+      "cluster": 30,
+      "cosine_similarity": 0.9854856729507446,
+      "a": {
+        "application_number": "1020070129995",
+        "title": "거리측정장치 및 방법(Device and method for measuring distance)",
+        "ipc_subclasses": [
+          "G01S",
+          "H03M"
+        ]
+      },
+      "b": {
+        "application_number": "1020090128779",
+        "title": "거리 측정 장치 및 방법(Device and method for measuring distance)",
+        "ipc_subclasses": [
+          "G01B",
+          "G01C",
+          "G02B",
+          "G06F"
+        ]
+      }
+    },
+    {
+      "cluster": 6,
+      "cosine_similarity": 0.9604666233062744,
+      "a": {
+        "application_number": "1020010023562",
+        "title": "디지털 컨텐츠의 보호 및 관리를 위한 방법 및 이를이용한 시스템(METHOD OF PROTECTING AND MANAGING DIGITAL CONTENTS ANDSYSTEM FOR USING THEREOF)",
+        "ipc_subclasses": [
+          "G06F"
+        ]
+      },
+      "b": {
+        "application_number": "1020020011077",
+        "title": "디지털 컨텐츠의 보호 및 관리를 위한 시스템(SYSTEM FOR PROTECTING AND MANAGING DIGITAL CONTENTS)",
+        "ipc_subclasses": [
+          "H04N"
+        ]
+      }
+    },
+    {
+      "cluster": 13,
+      "cosine_similarity": 0.9577506184577942,
+      "a": {
+        "application_number": "1020010021531",
+        "title": "디지털 워터마크의 삽입 및 검출방법과 이를 이용한워터마크 삽입/검출 장치(METHOD OF INSERTING/DETECTING DIGITAL WATERMARKS ANDAPPARATUS FOR USING THEREOF)",
+        "ipc_subclasses": [
+          "G11B"
+        ]
+      },
+      "b": {
+        "application_number": "1020010023984",
+        "title": "디지털 워터마크의 삽입/추출방법과 이를 이용한 워터마크삽입/추출 장치(METHOD OF INSERTING/EXTRACTING DIGITAL WATERMARKS ANDAPPARATUS FOR USING THEREOF)",
+        "ipc_subclasses": [
+          "H04N"
+        ]
+      }
+    },
+    {
+      "cluster": 11,
+      "cosine_similarity": 0.9542292952537537,
+      "a": {
+        "application_number": "1020120104626",
+        "title": "광 및 PLC 복합조가선(OPTICAL AND POWER LINE COMMUNICATION COMPOSITE SUSPENSION WIRE)",
+        "ipc_subclasses": [
+          "G02B"
+        ]
+      },
+      "b": {
+        "application_number": "1020120104628",
+        "title": "광 및 PLC 복합조가선을 이용한 통신시스템(COMMUNICATIONS SYSTEM USING OPTICAL AND POWER LINE COMMUNICATION COMPOSITE SUSPENSION WIRE)",
+        "ipc_subclasses": [
+          "H04B"
+        ]
+      }
+    },
+    {
+      "cluster": 14,
+      "cosine_similarity": 0.9458214044570923,
+      "a": {
+        "application_number": "1020210035692",
+        "title": "어노테이션 작업 제어 방법 및 이를 실행하기 위하여 기록매체에 기록된 컴퓨터 프로그램(Method for controlling annotation work, and computer program recorded on record-medium for executing method therefor)",
+        "ipc_subclasses": [
+          "G06F",
+          "G06N"
+        ]
+      },
+      "b": {
+        "application_number": "1020210061832",
+        "title": "어노테이션 작업 및 질의 제어 방법 및 이를 실행하기 위하여 기록매체에 기록된 컴퓨터 프로그램(Method for controlling annotation work and question, and computer program recorded on record-medium for executing method therefor)",
+        "ipc_subclasses": [
+          "G06Q",
+          "G06T"
+        ]
+      }
+    },
+    {
+      "cluster": 27,
+      "cosine_similarity": 0.9404600858688354,
+      "a": {
+        "application_number": "1020000069311",
+        "title": "강유전체 단결정 및 그의 제조 방법(FERROELECTRIC SINGLE CRYSTAL AND PROCESS FOR THEPREPARATION THEREOF)",
+        "ipc_subclasses": [
+          "C30B"
+        ]
+      },
+      "b": {
+        "application_number": "1020030047458",
+        "title": "강유전체 세라믹 단결정 및 그 제조 방법(Ferroelectric ceramic single crystal material and manufacturing method thereof)",
+        "ipc_subclasses": [
+          "C01G"
+        ]
+      }
+    },
+    {
+      "cluster": 1,
+      "cosine_similarity": 0.9297722578048706,
+      "a": {
+        "application_number": "1020240024179",
+        "title": "비행체의 위치를 결정하는 장치 및 방법(DEVICE AND METHOD FOR DETERMINING POSITION OF AERIAL VEHICLE)",
+        "ipc_subclasses": [
+          "G05D",
+          "G06T",
+          "G06V"
+        ]
+      },
+      "b": {
+        "application_number": "1020240042062",
+        "title": "비행체의 위치를 추정하는 방법 및 장치(A method and an apparatus for estimating a position of an aerial vehicle)",
+        "ipc_subclasses": [
+          "G01S"
+        ]
+      }
+    },
+    {
+      "cluster": 10,
+      "cosine_similarity": 0.9282196760177612,
+      "a": {
+        "application_number": "1020140173383",
+        "title": "열영상 카메라(Thermal imaging camera)",
+        "ipc_subclasses": [
+          "G01J"
+        ]
+      },
+      "b": {
+        "application_number": "1020190044410",
+        "title": "열 영상 카메라(THERMAL IMAGING CAMERA)",
+        "ipc_subclasses": [
+          "G02B",
+          "H04N"
+        ]
+      }
+    },
+    {
+      "cluster": 21,
+      "cosine_similarity": 0.9245337247848511,
+      "a": {
+        "application_number": "1020180104042",
+        "title": "지능형 인지기술기반 제조현장의 증강현실시스템(Intelligent technology based augmented reality system)",
+        "ipc_subclasses": [
+          "G02B",
+          "G06Q"
+        ]
+      },
+      "b": {
+        "application_number": "1020190077218",
+        "title": "지능형 인지기술기반 증강현실시스템(Intelligent technology based augmented reality system)",
+        "ipc_subclasses": [
+          "G06T"
+        ]
+      }
+    },
+    {
+      "cluster": 34,
+      "cosine_similarity": 0.9207351207733154,
+      "a": {
+        "application_number": "1020150015893",
+        "title": "이벤트 감지 방법 및 이를 실행하는 장치(METHOD OF SENING EVENT AND APPARATUS PERFORMING THE SAME)",
+        "ipc_subclasses": [
+          "G06V",
+          "G08G"
+        ]
+      },
+      "b": {
+        "application_number": "1020180092893",
+        "title": "이벤트감지장치 및 그 장치의 구동방법(Apparatus for Detecting Event and Driving Method Thereof)",
+        "ipc_subclasses": [
+          "G06N",
+          "G06T",
+          "H04N"
+        ]
+      }
+    },
+    {
+      "cluster": 32,
+      "cosine_similarity": 0.897811770439148,
+      "a": {
+        "application_number": "1020130023627",
+        "title": "유저 기반의 지도 제작 장치(USER BASED MAP MANUFACTURING APPARATUS)",
+        "ipc_subclasses": [
+          "G01C",
+          "G06F"
+        ]
+      },
+      "b": {
+        "application_number": "1020160045139",
+        "title": "지도 제작 장치(APPARATUS OF MANUFACTURING MAP)",
+        "ipc_subclasses": [
+          "G06T",
+          "G09B"
+        ]
+      }
+    },
+    {
+      "cluster": 3,
+      "cosine_similarity": 0.8963108062744141,
+      "a": {
+        "application_number": "1020050082691",
+        "title": "블루투스 기반의 구내 무선 교환 시스템에서의 핸드오프처리 장치 및 방법(Handoff Processing Apparatus And Method In TheBluetooth Based Wireless Private Branch Exchange System)",
+        "ipc_subclasses": [
+          "H04B"
+        ]
+      },
+      "b": {
+        "application_number": "1020060013142",
+        "title": "블루투스 기반의 구내 무선 교환 시스템(Bluetooth Based Wireless Private Branch Exchange System)",
+        "ipc_subclasses": [
+          "H04M",
+          "H04W"
+        ]
+      }
+    },
+    {
+      "cluster": 26,
+      "cosine_similarity": 0.8950896859169006,
+      "a": {
+        "application_number": "1020140060079",
+        "title": "수분 제거용 수분 분리 장치(Demister device for eliminating moisture)",
+        "ipc_subclasses": [
+          "B63J",
+          "F24F"
+        ]
+      },
+      "b": {
+        "application_number": "1020150064843",
+        "title": "흡기 계통용 수분분리장치(Demister device intake system for eliminating moisture)",
+        "ipc_subclasses": [
+          "B01D",
+          "F02M"
+        ]
+      }
+    },
+    {
+      "cluster": 0,
+      "cosine_similarity": 0.888895571231842,
+      "a": {
+        "application_number": "1020140193006",
+        "title": "객체 추적 시스템(Object Tracking System)",
+        "ipc_subclasses": [
+          "G06Q",
+          "H04N"
+        ]
+      },
+      "b": {
+        "application_number": "1020210023316",
+        "title": "객체 추적 방법 및 장치(METHOD AND APPARATUS FOR TRACKING OBJECT)",
+        "ipc_subclasses": [
+          "G06N",
+          "G06T",
+          "G06V"
+        ]
+      }
+    },
+    {
+      "cluster": 35,
+      "cosine_similarity": 0.8813585042953491,
+      "a": {
+        "application_number": "1020130110553",
+        "title": "이상 음원 탐지 장치 및 방법(APPARATUS AND METHOD FOR DETECTING UNUSUAL SOUND)",
+        "ipc_subclasses": [
+          "G01H",
+          "G08B",
+          "G08C"
+        ]
+      },
+      "b": {
+        "application_number": "1020190158210",
+        "title": "인공지능 기반의 이상음원 인식 장치, 그 방법 및 이를 이용한 관제시스템(ABNORMALY SOUND RECOGNIZING METHOD AND APPARATUS BASED ON ARTIFICIAL INTELLIGENCE AND MONITORING SYSTEM USING THE SAME)",
+        "ipc_subclasses": [
+          "G06N",
+          "G10L"
+        ]
+      }
+    },
+    {
+      "cluster": 9,
+      "cosine_similarity": 0.8731412291526794,
+      "a": {
+        "application_number": "1020180012469",
+        "title": "볼트 지지 부재 및 이를 포함하는 볼트 체결 구조(Bolt support member and bolt fastening structure including the same)",
+        "ipc_subclasses": [
+          "F16B"
+        ]
+      },
+      "b": {
+        "application_number": "1020180012473",
+        "title": "볼트 체결 부재 및 이를 이용한 볼트 체결 방법(Bolt fastening member and bolt fastening method using the same)",
+        "ipc_subclasses": [
+          "B25B"
+        ]
+      }
+    },
+    {
+      "cluster": 8,
+      "cosine_similarity": 0.865139365196228,
+      "a": {
+        "application_number": "1020190026814",
+        "title": "밀리미터 웨이브용 안테나 장치(Antenna Device for Millimeter Wave)",
+        "ipc_subclasses": [
+          "H01Q"
+        ]
+      },
+      "b": {
+        "application_number": "1020230027262",
+        "title": "밀리미터 웨이브용 도파관 장치(Waveguide Device for Millimeter Wave)",
+        "ipc_subclasses": [
+          "H01P"
+        ]
+      }
+    },
+    {
+      "cluster": 38,
+      "cosine_similarity": 0.8629782199859619,
+      "a": {
+        "application_number": "1020230011504",
+        "title": "산업용 로봇의 작업 경로 생성 방법(METHOD FOR GENERATING TRAJECTORY OF INDUSTRIAL ROBOT)",
+        "ipc_subclasses": [
+          "B25J"
+        ]
+      },
+      "b": {
+        "application_number": "1020230103333",
+        "title": "작업 수행 로봇의 작업 경로의 길이를 계산하는 방법(METHOD FOR CALCULAING THE LENGTH OF WORK PATH OF A TASK-PERFORMING ROBOT)",
+        "ipc_subclasses": [
+          "G05B"
+        ]
+      }
+    },
+    {
+      "cluster": 16,
+      "cosine_similarity": 0.8595345616340637,
+      "a": {
+        "application_number": "1020100049865",
+        "title": "항공기 엔진의 고장 검출 방법 및 이러한 방법을 수행하는 항공기 엔진 고장 검출 장치(METHOD OF DETECTING FAILURE OF AEROPLANE ENGINE AND APPARATUS FOR DETECTING FAILURE OF AEROPLANE ENGINE PERFORMING THE SAME)",
+        "ipc_subclasses": [
+          "B64F",
+          "G01M"
+        ]
+      },
+      "b": {
+        "application_number": "1020140026596",
+        "title": "엔진의 고장검출 시스템 및 방법(SYSTEM AND METHOD OF DETECTING FAILURE OF ENGINE)",
+        "ipc_subclasses": [
+          "F02D"
+        ]
+      }
+    },
+    {
+      "cluster": 28,
+      "cosine_similarity": 0.8555830121040344,
+      "a": {
+        "application_number": "1020200001206",
+        "title": "가상환경에서의 자율주행차량 시뮬레이션 방법(AUTONOMOUS VEHICLE SIMULATION METHOD IN VIRTUAL ENVIRONMENT)",
+        "ipc_subclasses": [
+          "G06F"
+        ]
+      },
+      "b": {
+        "application_number": "1020220135009",
+        "title": "자율주행 서비스 검증을 위한 가상 환경 생성 방법 및 시스템(METHOD AND SYSTEM FOR GENERATING VIRTUAL ENVIRONMENT TO VERIFY AUTONOMOUS DRIVING SERVICE)",
+        "ipc_subclasses": [
+          "G01C",
+          "G06T"
+        ]
+      }
+    },
+    {
+      "cluster": 25,
+      "cosine_similarity": 0.8531604409217834,
+      "a": {
+        "application_number": "1020030089088",
+        "title": "전기-음향변환장치의 진동체 제조방법(METHOD FOR FABRICATING BIVRATOR OF ELECTRO-ACOUSTICTRANSDUCER)",
+        "ipc_subclasses": [
+          "H04R"
+        ]
+      },
+      "b": {
+        "application_number": "1020240159313",
+        "title": "트랜스듀서용 진동체(VIBRATING BODY FOR TRANSDUCER)",
+        "ipc_subclasses": [
+          "H10N"
+        ]
+      }
+    },
+    {
+      "cluster": 17,
+      "cosine_similarity": 0.8514105081558228,
+      "a": {
+        "application_number": "1020030033093",
+        "title": "수직공진 표면발광 레이저 다이오드 및 그 제조방법(Vertical-cavity surface-emitting laser diode andfabrication method thereof)",
+        "ipc_subclasses": [
+          "H01S"
+        ]
+      },
+      "b": {
+        "application_number": "1020030059673",
+        "title": "수직공진 발광 소자 및 그 제조방법(Resonant Cavity Light Emitting Diode and fabricationmethod thereof)",
+        "ipc_subclasses": [
+          "H10H"
+        ]
+      }
+    },
+    {
+      "cluster": 22,
+      "cosine_similarity": 0.8511418700218201,
+      "a": {
+        "application_number": "1020190145987",
+        "title": "초고주파 신호 전송용 소형 커넥터 테스트용 지그 및 그를 이용한 테스트용 지그 장치(Zig for testing small connector for transmitting super high frequency signal and zig apparatus using the zig)",
+        "ipc_subclasses": [
+          "G01R"
+        ]
+      },
+      "b": {
+        "application_number": "1020190169269",
+        "title": "초고주파 신호 전송용 소형 커넥터(Small connector for transmitting super high frequency signal)",
+        "ipc_subclasses": [
+          "H01R"
+        ]
+      }
+    },
+    {
+      "cluster": 36,
+      "cosine_similarity": 0.8499988913536072,
+      "a": {
+        "application_number": "1020080070073",
+        "title": "고전압 다이오드 모듈(High voltage diode module)",
+        "ipc_subclasses": [
+          "H10D",
+          "H10W"
+        ]
+      },
+      "b": {
+        "application_number": "1020150180379",
+        "title": "고전압 배압 정류모듈(Multiple Voltage rectifier module for high voltage)",
+        "ipc_subclasses": [
+          "H02M"
+        ]
+      }
+    },
+    {
+      "cluster": 7,
+      "cosine_similarity": 0.848475456237793,
+      "a": {
+        "application_number": "1020230056383",
+        "title": "자동 학습 기반의 데이터 라벨링 방법, 장치 및 컴퓨터 판독가능 저장 매체(AUTOMATED TRAINING BASED DATA LABELING METHOD, APPARATUS AND COMPUTER READABLE STORAGE MEDIUM)",
+        "ipc_subclasses": [
+          "G06F",
+          "G06N"
+        ]
+      },
+      "b": {
+        "application_number": "1020230132999",
+        "title": "상호 작용이 가능한 자동 객체 인식 기반의 인공지능 학습용 라벨 데이터 생성 방법, 장치 및 컴퓨터 판독 가능 저장 매체(Method, Device and Computer-readable storage media for generating label data for artificial intelligence learning based on interactive automatic object recognition)",
+        "ipc_subclasses": [
+          "G06T",
+          "G06V"
+        ]
+      }
+    },
+    {
+      "cluster": 2,
+      "cosine_similarity": 0.8440960645675659,
+      "a": {
+        "application_number": "1020070082168",
+        "title": "보청기 호환용 이동통신 단말기 마이크로 스피커(A MICRO-SPEAKER IN MOBILE COMMUNICATION TERMINAL FORUSER OF HEARING AID COMPATIBILITY)",
+        "ipc_subclasses": [
+          "H04R"
+        ]
+      },
+      "b": {
+        "application_number": "2020050033231",
+        "title": "이동통신 단말기용 스피커(The speaker for using mobile communication terminal)",
+        "ipc_subclasses": [
+          "H04B"
+        ]
+      }
+    },
+    {
+      "cluster": 19,
+      "cosine_similarity": 0.8344401121139526,
+      "a": {
+        "application_number": "1020180074415",
+        "title": "원전 방화구획 건전성 유지를 위한 임시 케이블 관통부를 갖는 원전 방화문 구조(Nuclear Fire Door Structure with Temporary Cable Penetration Seals for Fire Partition Safety of Nuclear Power Plant)",
+        "ipc_subclasses": [
+          "E06B"
+        ]
+      },
+      "b": {
+        "application_number": "1020180118286",
+        "title": "원전 방화벽 내화성능 확보를 위한 멀티 케이블 통과체(MCT)와 연결 케이블을 갖는 방화문 구조(Fire Door Structure with Multiple Cable Transit(MCT) and Connection Cables to Maintain Fire Resistance of Nuclear Fire Wall)",
+        "ipc_subclasses": [
+          "G21C"
+        ]
+      }
+    },
+    {
+      "cluster": 23,
+      "cosine_similarity": 0.8303101658821106,
+      "a": {
+        "application_number": "1020160135617",
+        "title": "복합 3차원 모델 데이터의 보호 방법 및 시스템(PROTECTING METHOD AND SYSTEM OF COMPOSITE 3D MODEL DATA)",
+        "ipc_subclasses": [
+          "G06T",
+          "H04L"
+        ]
+      },
+      "b": {
+        "application_number": "1020160171755",
+        "title": "3차원 객체모델의 저작권 보호를 위한 장치 및 그 방법(APPARATUS FOR PROTECTING COPYRIGHT OF 3D OBJECT MODEL AND METHOD THEREOF)",
+        "ipc_subclasses": [
+          "G06F",
+          "H04N"
+        ]
+      }
+    },
+    {
+      "cluster": 37,
+      "cosine_similarity": 0.8298382759094238,
+      "a": {
+        "application_number": "1020150053349",
+        "title": "복합소재 구조물 해석 시스템 및 그 방법(ANALYSIS SYSTEM FOR COMPOSITE STRUCTURES AND THE METHOD THEREOF)",
+        "ipc_subclasses": [
+          "G06F"
+        ]
+      },
+      "b": {
+        "application_number": "1020170067310",
+        "title": "복합재 기계적 체결부 강도 해석 시스템 및 그 방법(COMPOSITE BOLTED JOINT STRENGTH ANALYSIS SYSTEM AND THE METHOD THEREOF)",
+        "ipc_subclasses": [
+          "G01N"
+        ]
+      }
+    },
+    {
+      "cluster": 29,
+      "cosine_similarity": 0.8279227018356323,
+      "a": {
+        "application_number": "1020040078978",
+        "title": "동적 장치 제어 방법 및 그 장치(METHOD FOR CONTROLLING A DYNAMIC APPARATUS ANDAPPARARTUS THEREOF)",
+        "ipc_subclasses": [
+          "G05D"
+        ]
+      },
+      "b": {
+        "application_number": "1020210078422",
+        "title": "다이내믹 모델 기반 최적 제어 수행 방법 및 장치(METHOD AND APPARATUS FOR PERFORMING OPTIMAL CONTROL BASED ON DYNAMIC MODEL)",
+        "ipc_subclasses": [
+          "G05B"
+        ]
+      }
+    },
+    {
+      "cluster": 33,
+      "cosine_similarity": 0.8276819586753845,
+      "a": {
+        "application_number": "1020130050892",
+        "title": "디지털 방송수신 장치 검증 시스템 및 방법(Verification System and Method for Digital Broadcasting Receiving Apparatus)",
+        "ipc_subclasses": [
+          "H04N"
+        ]
+      },
+      "b": {
+        "application_number": "1020130053246",
+        "title": "디지털 장비의 성능 검증 시스템 및 그를 이용한 성능 검증 방법(SYSTEM FOR VERIFYING PERFORMANCE OF DIGITAL DEVICE AND METHOD USING THEREOF)",
+        "ipc_subclasses": [
+          "G06F"
+        ]
+      }
+    },
+    {
+      "cluster": 15,
+      "cosine_similarity": 0.7975621819496155,
+      "a": {
+        "application_number": "1020200037283",
+        "title": "배열 안테나를 이용하여 기만신호 제거가 가능한 빔 형성 항재밍 장치(BEAM FORMING ANTI-JAMMING PROCESSING APPARATUS CAPABLE OF ELIMINATING SPOOFING SIGNAL USING ARRAY ANTENNA)",
+        "ipc_subclasses": [
+          "H01Q",
+          "H04B",
+          "H04K"
+        ]
+      },
+      "b": {
+        "application_number": "1020240194700",
+        "title": "플러그 인 방식의 배열안테나 기반 일체형 항재밍 GNSS 신호처리기(Plug-in array antenna-based integrated anti-jamming GNSS signal processor)",
+        "ipc_subclasses": [
+          "G01S"
+        ]
+      }
+    },
+    {
+      "cluster": 4,
+      "cosine_similarity": 0.7893698215484619,
+      "a": {
+        "application_number": "1020220021293",
+        "title": "반도체 설계를 위한 신경망 모델 학습 방법(METHOD FOR TRAINING A NEURAL NETWORK MODEL FOR SEMICONDUCTOR DESIGN)",
+        "ipc_subclasses": [
+          "G06F",
+          "G06N"
+        ]
+      },
+      "b": {
+        "application_number": "1020240031476",
+        "title": "신경망 용 반도체에 에이징 테스트를 수행하는 방법(METHOD FOR PERFORMING AGING TEST ON SEMICONDUCTOR USED FOR NEURAL NETWORK)",
+        "ipc_subclasses": [
+          "G01R"
+        ]
+      }
+    },
+    {
+      "cluster": 24,
+      "cosine_similarity": 0.7797591686248779,
+      "a": {
+        "application_number": "1020170117727",
+        "title": "CMOS 오실레이터를 포함하는 크리스털-프리 블루투스 IC, 및 상기 블루투스 IC를 포함하는 블루투스 패키지(CRYSTAL-FREE BLUETOOTH INTEGRATED CHIP INCLUDING CMOS OSCILLATOR, AND BLUETOOTH PACKAGE INCLUDING THE SAME)",
+        "ipc_subclasses": [
+          "H03B",
+          "H04B"
+        ]
+      },
+      "b": {
+        "application_number": "1020180105454",
+        "title": "CMOS 오실레이터를 포함하는 크리스탈-프리 NFC IC(CRYSTAL-FREE NFC INTEGRATED CHIP (IC) INCLUDING CMOS OSCILLATOR)",
+        "ipc_subclasses": [
+          "G06K"
+        ]
+      }
+    },
+    {
+      "cluster": 18,
+      "cosine_similarity": 0.755900502204895,
+      "a": {
+        "application_number": "1020200013428",
+        "title": "배터리 충전 관리 시스템 및 충전 관리 방법(CHARGING MANAGEMENT SYSTEM AND METHOD FOR BATTERIES)",
+        "ipc_subclasses": [
+          "B60L",
+          "H02J"
+        ]
+      },
+      "b": {
+        "application_number": "1020200135555",
+        "title": "효율과 안전성이 향상된 배터리 열관리방법(Thermal control method of battery cells with improved efficiency and safety)",
+        "ipc_subclasses": [
+          "A62C",
+          "H01M"
+        ]
+      }
+    },
+    {
+      "cluster": 5,
+      "cosine_similarity": 0.7136237621307373,
+      "a": {
+        "application_number": "1020130150956",
+        "title": "반사경 회전체를 구비한 지상용 3차원 레이저 스캐너(Terrestrial laser scanner having rotatable reflector)",
+        "ipc_subclasses": [
+          "G02B",
+          "H04N"
+        ]
+      },
+      "b": {
+        "application_number": "1020210190528",
+        "title": "라이다 장치(LIDAR DEVICE)",
+        "ipc_subclasses": [
+          "G01S"
+        ]
+      }
+    }
+  ]
+}

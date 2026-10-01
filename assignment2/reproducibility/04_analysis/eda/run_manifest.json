@@ -1,0 +1,40 @@
+{
+  "input_sha256": {
+    "03_processed_data\\patent_metadata_full.csv": "772b0be67d1b100151dabdc233d43870e4efb600925a7e8607a71c0806780e63",
+    "03_processed_data\\patent_selection_links.csv": "cd120e6604f612d7dd85af93127b484d15dfa701d869bee625cea780b9a9c3f9",
+    "01_master\\방산혁신기업100_master_company_v7.xlsx": "f8c4c2647093077fb002460711ebf8cabd9cf3b53f355e9cc1a983593ca6fcdc"
+  },
+  "code_sha256": "e4fa61642979baa6d0b517d8f7cdebd5c0035f40042fc9b8884154860730ed06",
+  "originals_unchanged": true,
+  "python": "3.12.14",
+  "pandas": "3.0.1",
+  "numpy": "2.3.5",
+  "Pillow": "12.3.0",
+  "openpyxl": "3.1.5",
+  "rows": {
+    "unique": 3621,
+    "company_links": 3624
+  },
+  "checks": [
+    "unique application PK",
+    "83 master selection IDs",
+    "selection JSON agrees with linkage table",
+    "valid IPC subclass format",
+    "company linkage 3624",
+    "IPC fractional weights sum to 3621",
+    "input hashes unchanged"
+  ],
+  "chart_files": [
+    "01_company_concentration.png",
+    "02_annual_applications.png",
+    "02b_annual_sensitivity.png",
+    "03_field_medians.png",
+    "04_field_ipc_heatmap.png",
+    "04b_ipc_overall.png",
+    "04c_ai_h04r_sensitivity.png",
+    "04d_ipc_period_change.png",
+    "05_cohort_medians.png",
+    "05b_selection_timing.png",
+    "06_coapplication_by_field.png"
+  ]
+}

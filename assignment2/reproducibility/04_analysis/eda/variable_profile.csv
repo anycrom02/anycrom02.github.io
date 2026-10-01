@@ -1,0 +1,26 @@
+﻿variable,unique_values,missing_or_empty_count,missing_pct,example
+application_number,3621,0,0.0,1019960006975
+right_type,2,0,0.0,특허
+title,3214,0,0.0,칩형쵸크의제조방법
+administrative_status,7,0,0.0,거절
+application_date,2102,0,0.0,1996-03-15
+publication_number,2359,1263,34.88,1019970068759
+publication_date,1420,1263,34.88,1997-10-13
+registration_number,2692,930,25.68,
+registration_date,1723,930,25.68,
+applicants_json,270,0,0.0,"[{""name"":""부전전자 주식회사"",""code"":""119980992982""}]"
+applicant_count,5,0,0.0,1
+inventors_json,2058,0,0.0,"[""이석순""]"
+agents_json,315,20,0.55,"[{""code"":"""",""name"":"""",""source_control"":""reSearchInResult('AG', ' ', '')""}]"
+current_right_holders_json,245,930,25.68,"[{""code"":"""",""name"":"""",""source_control"":""reSearchInResult('TRH', ' ', '')""}]"
+ipc_json,3249,0,0.0,"[""H01F41/00"",""H01F27/02"",""H01F27/30""]"
+cpc_json,3413,0,0.0,"[""H01F27/02"",""H01F27/306"",""H01F41/00""]"
+source_observation_count,2,0,0.0,1
+duplicate_discovery,2,0,0.0,False
+selection_ids_json,82,0,0.0,"[""SEL-070""]"
+target_codes_json,83,0,0.0,"[""119980992982""]"
+source_record_ids_json,3621,0,0.0,"[""119980992982:003:053""]"
+metadata_conflict_fields_json,1,3621,100.0,[]
+canonical_source_record_id,3621,0,0.0,119980992982:003:053
+canonical_rule,1,0,0.0,latest_collected_at
+collected_at,96,0,0.0,2026-09-30T15:28:34.552Z

@@ -1,0 +1,5878 @@
+[
+  {
+    "cluster": 0,
+    "n": 206,
+    "share_pct": 5.689036177851422,
+    "label": "혼합 기술군",
+    "representatives": [
+      {
+        "application_number": "1020210183557",
+        "title": "객체 검출 방법 및 그 장치(Method for detecting object and apparatus thereof)",
+        "ipc": [
+          "G06N",
+          "G06T",
+          "G06V"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.9013715386390686
+      },
+      {
+        "application_number": "1020210067033",
+        "title": "객체 검출 방법(METHOD FOR DETECTING OBJECT)",
+        "ipc": [
+          "G06N",
+          "G06V"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.897310197353363
+      },
+      {
+        "application_number": "1020210168545",
+        "title": "객체 검출 방법(METHOD FOR DETECTING OBJECT)",
+        "ipc": [
+          "G06N",
+          "G06V"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8973102569580078
+      },
+      {
+        "application_number": "1020210135451",
+        "title": "객체 검출 방법(METHOD TO DETECT OBJECT)",
+        "ipc": [
+          "G06N",
+          "G06T",
+          "G06V"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8849282264709473
+      },
+      {
+        "application_number": "1020190134227",
+        "title": "객체 인식 방법 및 이를 수행하는 객체 인식 장치(OBJECT RECOGNITION METHOD AND OBJECT RECOGNITION DEVICE PERFORMING THE SAME)",
+        "ipc": [
+          "G01S",
+          "G06N"
+        ],
+        "fields": [
+          "로봇"
+        ],
+        "cosine_to_centroid": 0.8790862560272217
+      },
+      {
+        "application_number": "1020220029558",
+        "title": "객체 인식 방법 및 이를 수행하는 객체 인식 장치(OBJECT RECOGNITION METHOD AND OBJECT RECOGNITION DEVICE PERFORMING THE SAME)",
+        "ipc": [
+          "G01S",
+          "G06N"
+        ],
+        "fields": [
+          "로봇"
+        ],
+        "cosine_to_centroid": 0.8787134289741516
+      },
+      {
+        "application_number": "1020200017666",
+        "title": "영상처리장치 및 그 장치의 구동방법(Apparatus for Processing Images and Driving Method Thereof)",
+        "ipc": [
+          "G06F",
+          "G08B",
+          "H04N"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8745332956314087
+      },
+      {
+        "application_number": "1020210023316",
+        "title": "객체 추적 방법 및 장치(METHOD AND APPARATUS FOR TRACKING OBJECT)",
+        "ipc": [
+          "G06N",
+          "G06T",
+          "G06V"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8709530830383301
+      }
+    ],
+    "boundary_titles": [
+      "360°의 화각을 확보할 수 있는 카메라 시스템(CAMERA SYSTEM CAPABLE OF OBTAINING 360 DEGREESPICTURE ANGLE)",
+      "자장을 이용하는 캡슐형 내시경 제어장치(Apparatus for controlling capsule endoscope usingmagnetic field)",
+      "PTZ 카메라의 협업을 이용한 영상 감시 시스템, 방법, 및 상기 방법을 실행시키기 위한 컴퓨터 판독 가능한 프로그램을 기록한 기록 매체(System and method for surveilling video using collaboration of PTZ cameras, and a recording medium recording a computer readable program for executing the method)"
+    ],
+    "top_ipc": {
+      "G06T": 63.78333333333337,
+      "H04N": 48.800000000000026,
+      "G06V": 29.116666666666656,
+      "G06N": 20.93333333333333,
+      "G06F": 10.866666666666669
+    },
+    "top_fields": {
+      "인공지능": 134.0,
+      "로봇": 22.0,
+      "드론": 20.0,
+      "반도체": 13.0,
+      "기타": 12.0
+    },
+    "top_companies": {
+      "인텔리빅스": 42,
+      "에스아이에이": 25,
+      "링크플로우": 17,
+      "마크애니": 16,
+      "코난테크놀로지": 14
+    },
+    "year_counts": {
+      "1999": 1,
+      "2000": 1,
+      "2001": 3,
+      "2003": 1,
+      "2004": 5,
+      "2006": 1,
+      "2007": 1,
+      "2008": 7,
+      "2009": 3,
+      "2010": 1,
+      "2011": 6,
+      "2012": 1,
+      "2013": 2,
+      "2014": 5,
+      "2015": 5,
+      "2016": 6,
+      "2017": 10,
+      "2018": 10,
+      "2019": 8,
+      "2020": 10,
+      "2021": 43,
+      "2022": 13,
+      "2023": 15,
+      "2024": 28,
+      "2025": 16,
+      "2026": 4
+    },
+    "mean_cosine_to_centroid": 0.8006252646446228,
+    "cluster_persistence": 0.08041715483103867
+  },
+  {
+    "cluster": 1,
+    "n": 177,
+    "share_pct": 4.888152444076222,
+    "label": "혼합 기술군",
+    "representatives": [
+      {
+        "application_number": "1020210160900",
+        "title": "무인 비행체의 이동 방법 및 그 무인 비행체(MOVING METHOD IN UNMANNED AERIAL VEHICLE AND THE UNMANNED AERIAL VEHICLE)",
+        "ipc": [
+          "B64C",
+          "B64D",
+          "G05D",
+          "G06F",
+          "G06T"
+        ],
+        "fields": [
+          "드론"
+        ],
+        "cosine_to_centroid": 0.8984055519104004
+      },
+      {
+        "application_number": "1020230140853",
+        "title": "드론 조작을 위한 제어 장치(Control device for operating drones)",
+        "ipc": [
+          "B64C",
+          "G05D",
+          "H01Q"
+        ],
+        "fields": [
+          "드론"
+        ],
+        "cosine_to_centroid": 0.8927714228630066
+      },
+      {
+        "application_number": "1020210030746",
+        "title": "무인 비행체 편대 비행 지원 장치(APPARATUS FOR ASSISTING FORMATION FLIGHT OF UNMANNED AERIAL VEHICLE)",
+        "ipc": [
+          "B64C",
+          "B64D",
+          "B64U",
+          "F16C"
+        ],
+        "fields": [
+          "드론"
+        ],
+        "cosine_to_centroid": 0.8741305470466614
+      },
+      {
+        "application_number": "1020170087545",
+        "title": "광역 드론 운용을 위한 시스템, 방법 및 장치(SYSTEM, METHOD AND APPARATUS FOR WIDE AREA DRONE OPERATION)",
+        "ipc": [
+          "G08G"
+        ],
+        "fields": [
+          "우주"
+        ],
+        "cosine_to_centroid": 0.8716264963150024
+      },
+      {
+        "application_number": "1020180030397",
+        "title": "무인 비행장치 및 그의 제어방법(Unmanned Aerial Vehicle and Controlling Method Thereof)",
+        "ipc": [
+          "B64U",
+          "G05B",
+          "G05D"
+        ],
+        "fields": [
+          "드론"
+        ],
+        "cosine_to_centroid": 0.8707996606826782
+      },
+      {
+        "application_number": "1020150158328",
+        "title": "드론 비행운용 시스템 및 그 방법(FLIGHT OPERATING SYSTEM FOR CONTROLLING UNMANNED DRONE AND METHOD THEREOF)",
+        "ipc": [
+          "B64D",
+          "B64U",
+          "G06Q"
+        ],
+        "fields": [
+          "드론"
+        ],
+        "cosine_to_centroid": 0.8694664835929871
+      },
+      {
+        "application_number": "1020240115144",
+        "title": "드론용 보안 스마트 항공전자 장치 및 그 운용 방법(Apparatus for Secure Smart Avionics of Drones and Method of Operation thereof)",
+        "ipc": [
+          "B64U",
+          "H05K"
+        ],
+        "fields": [
+          "드론"
+        ],
+        "cosine_to_centroid": 0.8683632612228394
+      },
+      {
+        "application_number": "1020240032204",
+        "title": "비행체가 제공하는 정보를 표시하는 방법 및 장치(Method and apparatus for displaying information provided by aerial vehicle)",
+        "ipc": [
+          "G06F",
+          "G08G"
+        ],
+        "fields": [
+          "드론"
+        ],
+        "cosine_to_centroid": 0.8608554601669312
+      }
+    ],
+    "boundary_titles": [
+      "스마트 항공전자 슈트(Smart Avionics Suite)",
+      "에일러론이 미장착되는 쌍발형 고정익 비행체(Fixed wing flight vehicle unequipped aileron)",
+      "구명환 투하 시스템(RESCUE EQUIPMENT DROP SYSTEM)"
+    ],
+    "top_ipc": {
+      "B64U": 33.13928571428569,
+      "B64C": 21.089285714285705,
+      "B64D": 19.82023809523809,
+      "G05D": 17.63690476190476,
+      "B64F": 8.33690476190476
+    },
+    "top_fields": {
+      "드론": 118.0,
+      "우주": 31.0,
+      "기타": 9.0,
+      "로봇": 8.0,
+      "인공지능": 8.0
+    },
+    "top_companies": {
+      "니어스랩": 28,
+      "네스앤텍": 24,
+      "파블로항공": 24,
+      "위플로": 22,
+      "ANH스트럭쳐": 10
+    },
+    "year_counts": {
+      "2010": 2,
+      "2011": 4,
+      "2013": 2,
+      "2014": 4,
+      "2015": 5,
+      "2016": 3,
+      "2017": 8,
+      "2018": 15,
+      "2019": 8,
+      "2020": 10,
+      "2021": 20,
+      "2022": 25,
+      "2023": 24,
+      "2024": 29,
+      "2025": 17,
+      "2026": 1
+    },
+    "mean_cosine_to_centroid": 0.7869212031364441,
+    "cluster_persistence": 0.1690079087091779
+  },
+  {
+    "cluster": 2,
+    "n": 155,
+    "share_pct": 4.28058547362607,
+    "label": "혼합 기술군",
+    "representatives": [
+      {
+        "application_number": "1020180030334",
+        "title": "마이크로 스피커 구조(Micro speaker structure)",
+        "ipc": [
+          "H04R"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.9090654850006104
+      },
+      {
+        "application_number": "2020050005897",
+        "title": "마이크로스피커의 프레임 구조(Frame structure of microspeaker)",
+        "ipc": [
+          "H04R"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8885823488235474
+      },
+      {
+        "application_number": "1020200064238",
+        "title": "마이크로스피커의 물 배출 구조(Water drainage structure for microspeaker)",
+        "ipc": [
+          "H04R"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8840548396110535
+      },
+      {
+        "application_number": "1020180048350",
+        "title": "슬림화 및 음량 성능이 개선되는 마이크로 스피커(Micro speaker with improved sound performance and slimness)",
+        "ipc": [
+          "H04R"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8829450607299805
+      },
+      {
+        "application_number": "1020130150851",
+        "title": "마이크로 스피커용 진동판 모듈(Structure of diaphragm in microspeaker)",
+        "ipc": [
+          "H04R"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.882378101348877
+      },
+      {
+        "application_number": "1020130029270",
+        "title": "진동판모듈 및 이를 이용한 마이크로 스피커(Diaphragm module and micro-speaker having the same)",
+        "ipc": [
+          "H04R"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8735842108726501
+      },
+      {
+        "application_number": "1020140026788",
+        "title": "이중 구동부를 갖는 마이크로 스피커(Microspeaker with double layer driver)",
+        "ipc": [
+          "H04R"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8731942176818848
+      },
+      {
+        "application_number": "1020190096290",
+        "title": "사각 형상의 마이크로 스피커(Rectangular type micro speaker)",
+        "ipc": [
+          "H04R"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8731362819671631
+      }
+    ],
+    "boundary_titles": [
+      "스마트폰용 유에스비 타입 이어폰 젠더(USB type earphone gender for smartphone)",
+      "케이블 스토퍼부재가 구비된 이어폰(Ear-phone)",
+      "헤드셋의 IR 윈도우 팩키지(IR Window Package in headset)"
+    ],
+    "top_ipc": {
+      "H04R": 141.83333333333331,
+      "G10K": 3.0,
+      "H05K": 1.3333333333333333,
+      "H01Q": 1.0,
+      "B65H": 1.0
+    },
+    "top_fields": {
+      "인공지능": 154.0,
+      "로봇": 1.0
+    },
+    "top_companies": {
+      "부전전자": 153,
+      "마이크로인피니티": 1,
+      "인텔리빅스": 1
+    },
+    "year_counts": {
+      "2001": 2,
+      "2002": 7,
+      "2003": 2,
+      "2004": 7,
+      "2005": 6,
+      "2006": 3,
+      "2007": 1,
+      "2009": 2,
+      "2010": 2,
+      "2011": 9,
+      "2012": 3,
+      "2013": 7,
+      "2014": 6,
+      "2015": 2,
+      "2016": 6,
+      "2017": 12,
+      "2018": 15,
+      "2019": 10,
+      "2020": 15,
+      "2021": 12,
+      "2022": 7,
+      "2023": 11,
+      "2024": 6,
+      "2025": 2
+    },
+    "mean_cosine_to_centroid": 0.7903810739517212,
+    "cluster_persistence": 0.22772188725417666
+  },
+  {
+    "cluster": 3,
+    "n": 151,
+    "share_pct": 4.170118751726042,
+    "label": "혼합 기술군",
+    "representatives": [
+      {
+        "application_number": "1020080113939",
+        "title": "개인화된 무선 인터넷 서비스 제공 시스템(SYSTEM FOR PROVIDING PERSONALIZED MOBILE INTERNET SERVICE)",
+        "ipc": [
+          "G06F",
+          "G06Q",
+          "H04M",
+          "H04W"
+        ],
+        "fields": [
+          "드론"
+        ],
+        "cosine_to_centroid": 0.8524885177612305
+      },
+      {
+        "application_number": "1020040032451",
+        "title": "멀티미디어 서비스 시스템 및 방법(System And Method For Serving Multimedia)",
+        "ipc": [
+          "H04L",
+          "H04N"
+        ],
+        "fields": [
+          "드론"
+        ],
+        "cosine_to_centroid": 0.8411044478416443
+      },
+      {
+        "application_number": "1020240154106",
+        "title": "다중 모빌리티 관리 시스템의 제어 방법(METHOD FOR CONTROLLING A MULTI-MOBILITY MANAGEMENT SYSTEM)",
+        "ipc": [
+          "G05D"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.825998067855835
+      },
+      {
+        "application_number": "1020130008101",
+        "title": "광고 제공 시스템 및 방법(SYSTEM AND METHOD FOR PROVIDING ADVERTISEMENT)",
+        "ipc": [
+          "G06Q"
+        ],
+        "fields": [
+          "드론"
+        ],
+        "cosine_to_centroid": 0.8239516615867615
+      },
+      {
+        "application_number": "1020120033591",
+        "title": "광고 제공 시스템 및 방법(SYSTEM AND METHOD FOR PROVIDING ADVERTISEMENT)",
+        "ipc": [
+          "G06Q"
+        ],
+        "fields": [
+          "드론"
+        ],
+        "cosine_to_centroid": 0.8235653638839722
+      },
+      {
+        "application_number": "1020120031618",
+        "title": "광고 제공 시스템 및 방법(SYSTEM AND METHOD FOR PROVIDING ADVERTISEMENT)",
+        "ipc": [
+          "G06Q"
+        ],
+        "fields": [
+          "드론"
+        ],
+        "cosine_to_centroid": 0.8235653638839722
+      },
+      {
+        "application_number": "1020020067728",
+        "title": "링백톤제공시스템 및 그 방법(System and method for providing ringback tone)",
+        "ipc": [
+          "H04M",
+          "H04W"
+        ],
+        "fields": [
+          "드론"
+        ],
+        "cosine_to_centroid": 0.8216806650161743
+      },
+      {
+        "application_number": "1020110015410",
+        "title": "통신망을 이용한 이벤트 지원 방법(METHOD FOR SUPPORTING EVENT USING NETWORKS)",
+        "ipc": [
+          "G06Q"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8180321455001831
+      }
+    ],
+    "boundary_titles": [
+      "비인가 무선망 및 씨디엠에이 이동통신망 연동 서비스가 가능한 듀얼모드 단말기(Dual Mode Terminal Capable Of Unlicensed Radio Network And CDMA Mobile Communication Network Converged Service)",
+      "사용자가 수행하는 결제 프로세스를 포함하지 않는 무인 결제 시스템(An unmanned payment system that does not include a payment process performed by a user)",
+      "주파수 오프셋 추적기를 이용한 패킷 지연 변이 극복 방법 및 주파수 오프셋 추적기(METHOD TO OVERCOME PACKET DELAY VARIATION USING FREQUENCY OFFSET TRACER AND FREQUENCY OFFSET TRACER)"
+    ],
+    "top_ipc": {
+      "H04W": 35.5,
+      "G06Q": 26.899999999999995,
+      "H04L": 25.166666666666668,
+      "H04M": 14.16666666666667,
+      "G06F": 12.916666666666668
+    },
+    "top_fields": {
+      "드론": 76.0,
+      "인공지능": 53.0,
+      "반도체": 13.0,
+      "우주": 4.0,
+      "기타": 4.0
+    },
+    "top_companies": {
+      "이루온": 76,
+      "코난테크놀로지": 19,
+      "인피닉": 12,
+      "펀진": 11,
+      "쿠오핀": 8
+    },
+    "year_counts": {
+      "2001": 3,
+      "2002": 4,
+      "2003": 7,
+      "2004": 15,
+      "2005": 19,
+      "2006": 4,
+      "2007": 4,
+      "2008": 10,
+      "2009": 5,
+      "2010": 5,
+      "2011": 7,
+      "2012": 5,
+      "2013": 9,
+      "2014": 9,
+      "2015": 1,
+      "2016": 6,
+      "2017": 2,
+      "2018": 3,
+      "2019": 1,
+      "2020": 3,
+      "2021": 14,
+      "2022": 5,
+      "2023": 5,
+      "2024": 3,
+      "2025": 1,
+      "2026": 1
+    },
+    "mean_cosine_to_centroid": 0.7504552602767944,
+    "cluster_persistence": 0.11162904740292283
+  },
+  {
+    "cluster": 4,
+    "n": 140,
+    "share_pct": 3.8663352665009665,
+    "label": "혼합 기술군",
+    "representatives": [
+      {
+        "application_number": "1020237015212",
+        "title": "신경망 프로세싱 유닛(NEURAL NETWORK PROCESSING UNIT)",
+        "ipc": [
+          "G06F",
+          "G06N"
+        ],
+        "fields": [
+          "반도체"
+        ],
+        "cosine_to_centroid": 0.9323515892028809
+      },
+      {
+        "application_number": "1020227004135",
+        "title": "신경망 프로세싱 유닛(NEURAL NETWORK PROCESSING UNIT)",
+        "ipc": [
+          "G06F",
+          "G06N"
+        ],
+        "fields": [
+          "반도체"
+        ],
+        "cosine_to_centroid": 0.9322073459625244
+      },
+      {
+        "application_number": "1020237023587",
+        "title": "신경 프로세싱 유닛 및 이의 동작 방법(NEURAL PROCESSING UNIT AND OPERATION METHOD THEREOF)",
+        "ipc": [
+          "G06F",
+          "G06N"
+        ],
+        "fields": [
+          "반도체"
+        ],
+        "cosine_to_centroid": 0.9223253130912781
+      },
+      {
+        "application_number": "1020247031904",
+        "title": "신경 프로세싱 유닛 및 이의 동작 방법(NEURAL PROCESSING UNIT AND OPERATION METHOD THEREOF)",
+        "ipc": [
+          "G06F",
+          "G06N"
+        ],
+        "fields": [
+          "반도체"
+        ],
+        "cosine_to_centroid": 0.9223253130912781
+      },
+      {
+        "application_number": "1020227042157",
+        "title": "뉴럴 네트워크 프로세싱 방법 및 이를 위한 장치(NEURAL NETWORK PROCESSING METHOD AND DEVICE THEREFOR)",
+        "ipc": [
+          "G06N"
+        ],
+        "fields": [
+          "반도체"
+        ],
+        "cosine_to_centroid": 0.9220397472381592
+      },
+      {
+        "application_number": "1020227042156",
+        "title": "뉴럴 네트워크 프로세싱 방법 및 이를 위한 장치(NEURAL NETWORK PROCESSING METHOD AND DEVICE THEREFOR)",
+        "ipc": [
+          "G06N"
+        ],
+        "fields": [
+          "반도체"
+        ],
+        "cosine_to_centroid": 0.9220397472381592
+      },
+      {
+        "application_number": "1020210103968",
+        "title": "인공신경망을 위한 방법 및 신경 프로세싱 유닛(METHOD FOR ARTIFICIAL NEURAL NETWORK AND NEURAL PROCESSING UNIT)",
+        "ipc": [
+          "G06N"
+        ],
+        "fields": [
+          "반도체"
+        ],
+        "cosine_to_centroid": 0.9168308973312378
+      },
+      {
+        "application_number": "1020230182941",
+        "title": "신경망 프로세싱 방법 및 이를 위한 장치(Method and Apparatus for neural network processing)",
+        "ipc": [
+          "G06F",
+          "G06N"
+        ],
+        "fields": [
+          "반도체"
+        ],
+        "cosine_to_centroid": 0.9112318754196167
+      }
+    ],
+    "boundary_titles": [
+      "관통 비아홀 연결을 포함하고 적어도 하나의 나노와이어를 이용하는 신경 소자(Neural device having via hole connection and using at least one nano-wire)",
+      "복수의 위상을 갖는 클럭 신호들에 따라 다수의 NPU들을 구동시키는 SoC(SOC FOR OPERATING PLURAL NPUS ACCORDING TO PLURAL CLOCK SIGNALS HAVING MULTI-PHASES)",
+      "구동중인 컴포넌트를 테스트할 수 있는 NPU(NPU CAPABLE OF TESTING COMPONENT THEREIN DURING RUNTIME)"
+    ],
+    "top_ipc": {
+      "G06N": 77.91666666666666,
+      "G06F": 38.93333333333334,
+      "G06V": 4.483333333333333,
+      "H04N": 3.216666666666667,
+      "G06T": 3.066666666666667
+    },
+    "top_fields": {
+      "반도체": 109.0,
+      "인공지능": 30.0,
+      "로봇": 1.0
+    },
+    "top_companies": {
+      "딥엑스": 95,
+      "마키나락스": 13,
+      "퓨리오사에이아이": 10,
+      "써로마인드": 5,
+      "코난테크놀로지": 4
+    },
+    "year_counts": {
+      "2001": 1,
+      "2006": 1,
+      "2010": 1,
+      "2018": 3,
+      "2019": 7,
+      "2020": 22,
+      "2021": 13,
+      "2022": 28,
+      "2023": 24,
+      "2024": 30,
+      "2025": 8,
+      "2026": 2
+    },
+    "mean_cosine_to_centroid": 0.8161119818687439,
+    "cluster_persistence": 0.2658961055514626
+  },
+  {
+    "cluster": 5,
+    "n": 122,
+    "share_pct": 3.3692350179508423,
+    "label": "혼합 기술군",
+    "representatives": [
+      {
+        "application_number": "1020190093992",
+        "title": "라이다 장치(LIDAR DEVICE)",
+        "ipc": [
+          "G01S",
+          "G02B",
+          "G05D"
+        ],
+        "fields": [
+          "로봇"
+        ],
+        "cosine_to_centroid": 0.9703171253204346
+      },
+      {
+        "application_number": "1020210190528",
+        "title": "라이다 장치(LIDAR DEVICE)",
+        "ipc": [
+          "G01S"
+        ],
+        "fields": [
+          "로봇"
+        ],
+        "cosine_to_centroid": 0.9703171253204346
+      },
+      {
+        "application_number": "1020210190527",
+        "title": "라이다 장치(LIDAR DEVICE)",
+        "ipc": [
+          "G01S",
+          "G02B"
+        ],
+        "fields": [
+          "로봇"
+        ],
+        "cosine_to_centroid": 0.9703171253204346
+      },
+      {
+        "application_number": "1020210190526",
+        "title": "라이다 장치(LIDAR DEVICE)",
+        "ipc": [
+          "G01S",
+          "G02B"
+        ],
+        "fields": [
+          "로봇"
+        ],
+        "cosine_to_centroid": 0.9703171253204346
+      },
+      {
+        "application_number": "1020200151370",
+        "title": "라이다 장치(LIDAR DEVICE)",
+        "ipc": [
+          "G01S"
+        ],
+        "fields": [
+          "로봇"
+        ],
+        "cosine_to_centroid": 0.9702774286270142
+      },
+      {
+        "application_number": "1020200151371",
+        "title": "라이다 장치(LIDAR DEVICE)",
+        "ipc": [
+          "G01J",
+          "G01S",
+          "H01S"
+        ],
+        "fields": [
+          "로봇"
+        ],
+        "cosine_to_centroid": 0.9702774286270142
+      },
+      {
+        "application_number": "1020190151727",
+        "title": "라이다 장치(LIDAR DEVICE)",
+        "ipc": [
+          "G01S",
+          "G02B",
+          "G05D"
+        ],
+        "fields": [
+          "로봇"
+        ],
+        "cosine_to_centroid": 0.9702577590942383
+      },
+      {
+        "application_number": "1020180143972",
+        "title": "라이다 장치(LIDAR DEVICE)",
+        "ipc": [
+          "G01S",
+          "G02B",
+          "G05D"
+        ],
+        "fields": [
+          "로봇"
+        ],
+        "cosine_to_centroid": 0.9702577590942383
+      }
+    ],
+    "boundary_titles": [
+      "레이더 및 라이다를 기반으로 하는 자율주행 학습 데이터의 처리 방법 및 실행하기 위하여 기록매체에 기록된 컴퓨터 프로그램(Method for processing data of machine learning for automatic driving based on radar and lidar, and computer program recorded on record-medium for executing method therefor)",
+      "라이다 점군에서 특정된 객체 정보를 이용한 2D 이미지 객체 예측 방법 및 이를 실행하기 위하여 기록매체에 기록된 컴퓨터 프로그램(Method for predicting object of 2D image using object information of point group of a lidar, and computer program recorded on record-medium for executing method therefor)",
+      "라이다 점군으로부터 카메라 이미지의 바운딩 박스를 조정하는 방법 및 이를 실행하기 위하여 기록매체에 기록된 컴퓨터 프로그램(adjusting method of bounding box of camera image from point group of lidar, and computer program recorded on record-medium for executing method thereof)"
+    ],
+    "top_ipc": {
+      "G01S": 71.11666666666667,
+      "G02B": 20.78333333333334,
+      "H01S": 8.916666666666664,
+      "G06T": 4.833333333333333,
+      "G01J": 3.3333333333333335
+    },
+    "top_fields": {
+      "로봇": 107.0,
+      "인공지능": 8.0,
+      "우주": 5.0,
+      "기타": 2.0
+    },
+    "top_companies": {
+      "에스오에스랩": 107,
+      "솔탑": 5,
+      "인피닉": 4,
+      "모라이": 4,
+      "이오시스템": 2
+    },
+    "year_counts": {
+      "2013": 1,
+      "2014": 2,
+      "2015": 1,
+      "2017": 8,
+      "2018": 17,
+      "2019": 5,
+      "2020": 17,
+      "2021": 22,
+      "2022": 8,
+      "2023": 15,
+      "2024": 14,
+      "2025": 11,
+      "2026": 1
+    },
+    "mean_cosine_to_centroid": 0.8629235029220581,
+    "cluster_persistence": 0.4289014240838315
+  },
+  {
+    "cluster": 6,
+    "n": 117,
+    "share_pct": 3.2311516155758078,
+    "label": "혼합 기술군",
+    "representatives": [
+      {
+        "application_number": "1020020031112",
+        "title": "디지털 문서의 보안을 위한 방법 및 이를 이용한 장치(METHOD AND APPARATUS FOR PROTECTING DIGITAL DOCUMENTS)",
+        "ipc": [
+          "H04L"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8841534852981567
+      },
+      {
+        "application_number": "1020150033809",
+        "title": "문서 보안 방법 및 장치(Method and Apparatus for Document Secure)",
+        "ipc": [
+          "G06F"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8700985908508301
+      },
+      {
+        "application_number": "1020010035501",
+        "title": "디지털 정보 보안 방법 및 그 시스템(METHOD OF PROTECTING DIGITAL INFORMATION AND SYSTEMTHEREOF)",
+        "ipc": [
+          "G06F",
+          "H04L"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8620378375053406
+      },
+      {
+        "application_number": "1020010057611",
+        "title": "디지털 정보 보안 방법 및 그 시스템(METHOD OF PROTECTING DIGITAL INFORMATION AND SYSTEMTHEREOF)",
+        "ipc": [
+          "H04L"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8611618280410767
+      },
+      {
+        "application_number": "1020010045856",
+        "title": "디지털 정보 보안 방법 및 그 시스템(METHOD OF PROTECTING DIGITAL INFORMATION AND SYSTEMTHEREOF)",
+        "ipc": [
+          "H04L"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8611618280410767
+      },
+      {
+        "application_number": "1020110092953",
+        "title": "디지털 콘텐트 유출 방지 시스템 및 방법(System and Method for Preventing The Leaking of Digital Content)",
+        "ipc": [
+          "G06F"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8567813634872437
+      },
+      {
+        "application_number": "1020150009213",
+        "title": "정보 유출 방지 방법 및 장치(Method and Apparatus for Preventing Leaking Information)",
+        "ipc": [
+          "G06F"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8556146025657654
+      },
+      {
+        "application_number": "1020250139230",
+        "title": "데이터 암호화 방법 및 시스템(DATA ENCRYPTION METHOD AND SYSTEM)",
+        "ipc": [
+          "G06F",
+          "H04L"
+        ],
+        "fields": [
+          "센서"
+        ],
+        "cosine_to_centroid": 0.8476985692977905
+      }
+    ],
+    "boundary_titles": [
+      "위변조의 확인이 가능한 프레임 바코드가 삽입된 문서를 제작하는 방법 및 장치, 그리고 상기 문서를 인증하는 방법 및 장치(METHOD AND APPARATUS FOR PRODUCING A FRAME-BARCODE INSERTED DOCUMENT WHICH IS CAPABLE OF PREVENTING A FORGERY OR AN ALTERATION OF ITSELF, AND METHOD AND APPARATUS FOR AUTHENTICATING THE DOCUMENT)",
+      "디지털 파일 암호화 방법, 디지털 파일 복호화 방법,디지털 파일 처리 장치 및 암호화 포맷 변환 장치(Digital File Encryption Method, Digital File Decryption Method, Digital File Processing Apparatus and Encryption Format Converting Apparatus)",
+      "메타버스 (Metaverse) 공간에서 DID 에 기초하여 차등적으로 서비스를 제공하는 방법(METHOD FOR PROVIDING SERVICE DIFFERENTIALLY BASED ON DECENTRALIZED IDENTIFIER)"
+    ],
+    "top_ipc": {
+      "G06F": 43.25000000000002,
+      "H04L": 32.83333333333333,
+      "G06Q": 13.166666666666668,
+      "H04N": 9.083333333333332,
+      "G06K": 4.583333333333333
+    },
+    "top_fields": {
+      "인공지능": 95.0,
+      "드론": 13.0,
+      "로봇": 6.0,
+      "반도체": 1.0,
+      "우주": 1.0
+    },
+    "top_companies": {
+      "마크애니": 93,
+      "이루온": 6,
+      "포멀웍스": 6,
+      "유큐브": 6,
+      "쿠오핀": 1
+    },
+    "year_counts": {
+      "1998": 1,
+      "1999": 1,
+      "2000": 1,
+      "2001": 9,
+      "2002": 9,
+      "2003": 7,
+      "2004": 2,
+      "2005": 1,
+      "2006": 5,
+      "2007": 3,
+      "2008": 5,
+      "2009": 1,
+      "2010": 7,
+      "2011": 3,
+      "2012": 2,
+      "2013": 7,
+      "2015": 7,
+      "2016": 5,
+      "2018": 4,
+      "2019": 6,
+      "2020": 5,
+      "2021": 8,
+      "2022": 5,
+      "2023": 6,
+      "2024": 4,
+      "2025": 2,
+      "2026": 1
+    },
+    "mean_cosine_to_centroid": 0.7703039050102234,
+    "cluster_persistence": 0.19028203863859747
+  },
+  {
+    "cluster": 7,
+    "n": 112,
+    "share_pct": 3.093068213200773,
+    "label": "혼합 기술군",
+    "representatives": [
+      {
+        "application_number": "1020210112012",
+        "title": "학습 데이터 관리 방법(METHOD FOR MANAGING TRAINING DATA)",
+        "ipc": [
+          "G06F",
+          "G06N"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.900116503238678
+      },
+      {
+        "application_number": "1020190067175",
+        "title": "학습 데이터 관리 방법(METHOD FOR MANAGING TRAINING DATA)",
+        "ipc": [
+          "G06F",
+          "G06N"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8993757367134094
+      },
+      {
+        "application_number": "1020220167774",
+        "title": "인공지능 학습을 위한 데이터 관리 시스템 및 방법(DATA MANAGEMENT SYSTEM AND METHOD FOR MACHINE LEARNING)",
+        "ipc": [
+          "G06F",
+          "H04L"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8800914287567139
+      },
+      {
+        "application_number": "1020230056383",
+        "title": "자동 학습 기반의 데이터 라벨링 방법, 장치 및 컴퓨터 판독가능 저장 매체(AUTOMATED TRAINING BASED DATA LABELING METHOD, APPARATUS AND COMPUTER READABLE STORAGE MEDIUM)",
+        "ipc": [
+          "G06F",
+          "G06N"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8706558346748352
+      },
+      {
+        "application_number": "1020230066082",
+        "title": "인공지능 학습 방법(artificial intelligence learning method)",
+        "ipc": [
+          "G06N",
+          "G06Q",
+          "G06T",
+          "G06V",
+          "H04N"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.86982262134552
+      },
+      {
+        "application_number": "1020210099111",
+        "title": "모델 학습 방법(METHOD TO TRAIN MODEL)",
+        "ipc": [
+          "G06N"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8616421818733215
+      },
+      {
+        "application_number": "1020220184450",
+        "title": "인공지능 학습용 라벨 데이터 수정 장치 및 방법(Apparatus and method for adjusting label data for artificial intelligence learning)",
+        "ipc": [
+          "G06N",
+          "G06V"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.861555814743042
+      },
+      {
+        "application_number": "1020210093874",
+        "title": "모델 학습 방법(METHOD TO TRAIN MODEL)",
+        "ipc": [
+          "G06N"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8613954782485962
+      }
+    ],
+    "boundary_titles": [
+      "Ontology 및 Agentic AI 기반 AI 프레임워크 제어 시스템(ONTOLOGY AND AGENTIC AI BASED AI FRAMEWORK CONTROL SYSTEM)",
+      "인식 업무를 위한 LLM(Large Language Model)을 사용하여 비정형 쿼리로부터 검색 가능한 쿼리 추정(Seachable Query estimation from unformatted query using Large Language Model for recognition task)",
+      "운량 예측 정보를 고려하여 태양광 발전량을 예측하는 방법(METHOD FOR PREDICTING SOLAR POWER GENERATION CONSIDERING CLOUD COVER PREDICTION INFORMATION)"
+    ],
+    "top_ipc": {
+      "G06N": 56.150000000000006,
+      "G06F": 26.249999999999996,
+      "G06V": 7.283333333333333,
+      "G06T": 4.566666666666666,
+      "G06Q": 3.616666666666667
+    },
+    "top_fields": {
+      "인공지능": 104.0,
+      "반도체": 3.0,
+      "드론": 2.0,
+      "기타": 2.0,
+      "로봇": 1.0
+    },
+    "top_companies": {
+      "마키나락스": 36,
+      "에스아이에이": 14,
+      "데이터메이커": 13,
+      "코난테크놀로지": 9,
+      "마크애니": 7
+    },
+    "year_counts": {
+      "2010": 3,
+      "2012": 1,
+      "2018": 4,
+      "2019": 6,
+      "2020": 11,
+      "2021": 20,
+      "2022": 22,
+      "2023": 17,
+      "2024": 12,
+      "2025": 16
+    },
+    "mean_cosine_to_centroid": 0.7889495491981506,
+    "cluster_persistence": 0.1715638036992474
+  },
+  {
+    "cluster": 8,
+    "n": 106,
+    "share_pct": 2.927368130350732,
+    "label": "혼합 기술군",
+    "representatives": [
+      {
+        "application_number": "1020190026814",
+        "title": "밀리미터 웨이브용 안테나 장치(Antenna Device for Millimeter Wave)",
+        "ipc": [
+          "H01Q"
+        ],
+        "fields": [
+          "드론"
+        ],
+        "cosine_to_centroid": 0.8784329891204834
+      },
+      {
+        "application_number": "1020190144573",
+        "title": "안테나 장치(ANTENNA DEVICE WITH HIGH ISOLATION)",
+        "ipc": [
+          "H01Q"
+        ],
+        "fields": [
+          "기타"
+        ],
+        "cosine_to_centroid": 0.8734322190284729
+      },
+      {
+        "application_number": "1020210129696",
+        "title": "밀리미터파 안테나(ANTENNA FOR MILLIMETER WAVE)",
+        "ipc": [
+          "H01Q"
+        ],
+        "fields": [
+          "드론"
+        ],
+        "cosine_to_centroid": 0.8681521415710449
+      },
+      {
+        "application_number": "1020190026815",
+        "title": "밀리미터 웨이브용 다중 대역 안테나 장치(Multi Band Antenna Device for Millimeter Wave)",
+        "ipc": [
+          "H01P",
+          "H01Q"
+        ],
+        "fields": [
+          "드론"
+        ],
+        "cosine_to_centroid": 0.853676438331604
+      },
+      {
+        "application_number": "1020190105920",
+        "title": "밀리미터웨이브용 테스트 안테나 장치(Test Antenna for Millimeter Wave)",
+        "ipc": [
+          "H01Q",
+          "H01R"
+        ],
+        "fields": [
+          "드론"
+        ],
+        "cosine_to_centroid": 0.8417001962661743
+      },
+      {
+        "application_number": "1020170108474",
+        "title": "밀리미터 안테나 방사체 및 이를 포함하는 안테나(mmWave Antenna Radiator and Antenna including mmWave Antenna Radiator)",
+        "ipc": [
+          "H01Q"
+        ],
+        "fields": [
+          "드론"
+        ],
+        "cosine_to_centroid": 0.8345202207565308
+      },
+      {
+        "application_number": "1020170049299",
+        "title": "밀리미터파 대역 안테나용 빔틸트 장치(Beam Tilt Device for Millimeter Wave)",
+        "ipc": [
+          "H01Q"
+        ],
+        "fields": [
+          "드론"
+        ],
+        "cosine_to_centroid": 0.83299320936203
+      },
+      {
+        "application_number": "1020200105015",
+        "title": "밀리미터파용 광대역 패치 안테나 장치(Wideband patch antenna device for millimeter wave)",
+        "ipc": [
+          "H01Q"
+        ],
+        "fields": [
+          "드론"
+        ],
+        "cosine_to_centroid": 0.8305741548538208
+      }
+    ],
+    "boundary_titles": [
+      "하니콤 에어스트립라인의 지지구조(Support Structure of Honeycomb Air Stripline)",
+      "전개형 미러 어셈블리(Deployable mirror assembly)",
+      "광대역 모노펄스 피드(Broadband Monopulse Feed)"
+    ],
+    "top_ipc": {
+      "H01Q": 81.00000000000001,
+      "H01P": 6.5,
+      "G01S": 4.333333333333333,
+      "B64G": 2.25,
+      "F16B": 1.8333333333333333
+    },
+    "top_fields": {
+      "드론": 47.0,
+      "우주": 46.0,
+      "기타": 6.0,
+      "로봇": 5.0,
+      "인공지능": 1.0
+    },
+    "top_companies": {
+      "센서뷰": 44,
+      "극동통신": 26,
+      "단암시스템즈": 11,
+      "덕산넵코어스": 5,
+      "코모텍": 4
+    },
+    "year_counts": {
+      "2002": 1,
+      "2003": 3,
+      "2004": 12,
+      "2005": 3,
+      "2008": 3,
+      "2013": 2,
+      "2014": 1,
+      "2016": 1,
+      "2017": 5,
+      "2018": 9,
+      "2019": 15,
+      "2020": 10,
+      "2021": 10,
+      "2022": 9,
+      "2023": 12,
+      "2024": 4,
+      "2025": 2,
+      "2026": 4
+    },
+    "mean_cosine_to_centroid": 0.7670580148696899,
+    "cluster_persistence": 0.3473379099855291
+  },
+  {
+    "cluster": 9,
+    "n": 103,
+    "share_pct": 2.844518088925711,
+    "label": "혼합 기술군",
+    "representatives": [
+      {
+        "application_number": "1020170047475",
+        "title": "모터 구동 장치(Device for driving a motor)",
+        "ipc": [
+          "B60R",
+          "H02P"
+        ],
+        "fields": [
+          "로봇"
+        ],
+        "cosine_to_centroid": 0.857728123664856
+      },
+      {
+        "application_number": "1020250095386",
+        "title": "고정자 구조체 및 액셜 모터(Stator Structure And Axial Motor)",
+        "ipc": [
+          "H02K"
+        ],
+        "fields": [
+          "드론"
+        ],
+        "cosine_to_centroid": 0.8487049341201782
+      },
+      {
+        "application_number": "1020180164188",
+        "title": "모터의 하우징 압입 구조체(Housing press fitting structure of motor)",
+        "ipc": [
+          "H02K"
+        ],
+        "fields": [
+          "로봇"
+        ],
+        "cosine_to_centroid": 0.8172295093536377
+      },
+      {
+        "application_number": "1020190041956",
+        "title": "BLDC 모터를 이용한 구동모듈(Actuator module using the BLDC motor)",
+        "ipc": [
+          "F16C",
+          "F16H",
+          "H02K"
+        ],
+        "fields": [
+          "로봇"
+        ],
+        "cosine_to_centroid": 0.8106606602668762
+      },
+      {
+        "application_number": "1020170044816",
+        "title": "저소음 모터 구동 장치(Low noise motor drive device)",
+        "ipc": [
+          "B60R",
+          "H02P"
+        ],
+        "fields": [
+          "로봇"
+        ],
+        "cosine_to_centroid": 0.808783769607544
+      },
+      {
+        "application_number": "1020200149562",
+        "title": "소형 모터 모듈용 스테이터 구조체(Stator structure for small size motor module)",
+        "ipc": [
+          "H02K"
+        ],
+        "fields": [
+          "로봇"
+        ],
+        "cosine_to_centroid": 0.8052107095718384
+      },
+      {
+        "application_number": "1020200144796",
+        "title": "소형 모터 모듈용 스테이터 구조체(Stator structure for small size motor module)",
+        "ipc": [
+          "H02K"
+        ],
+        "fields": [
+          "로봇"
+        ],
+        "cosine_to_centroid": 0.8033924698829651
+      },
+      {
+        "application_number": "1020190154974",
+        "title": "전기 자동차용 모터 제어기 구조체(Structure of motor controller for elelctric vehicle)",
+        "ipc": [
+          "H02M",
+          "H05K"
+        ],
+        "fields": [
+          "로봇"
+        ],
+        "cosine_to_centroid": 0.8033342957496643
+      }
+    ],
+    "boundary_titles": [
+      "모세관형 일렉트로 스프레이(Capillary Electrospray)",
+      "틸팅기능과 주차브레이크 장치가 구비된 전동스쿠터(electrical scooter)",
+      "모터용 컨넥터(Motor connector)"
+    ],
+    "top_ipc": {
+      "H02K": 32.25,
+      "F16H": 7.833333333333334,
+      "H02P": 5.25,
+      "H04R": 4.0,
+      "B23K": 3.0
+    },
+    "top_fields": {
+      "로봇": 48.0,
+      "드론": 24.0,
+      "우주": 12.0,
+      "기타": 11.0,
+      "인공지능": 7.0
+    },
+    "top_companies": {
+      "삼현": 43,
+      "코모텍": 13,
+      "부전전자": 7,
+      "ANH스트럭쳐": 5,
+      "삼영기계": 4
+    },
+    "year_counts": {
+      "2004": 4,
+      "2005": 2,
+      "2006": 4,
+      "2007": 3,
+      "2008": 1,
+      "2009": 11,
+      "2010": 3,
+      "2011": 3,
+      "2012": 2,
+      "2013": 2,
+      "2014": 4,
+      "2015": 2,
+      "2016": 3,
+      "2017": 6,
+      "2018": 6,
+      "2019": 10,
+      "2020": 7,
+      "2021": 2,
+      "2022": 5,
+      "2023": 10,
+      "2024": 7,
+      "2025": 5,
+      "2026": 1
+    },
+    "mean_cosine_to_centroid": 0.6961145401000977,
+    "cluster_persistence": 0.1993349149774791
+  },
+  {
+    "cluster": 10,
+    "n": 100,
+    "share_pct": 2.7616680475006903,
+    "label": "혼합 기술군",
+    "representatives": [
+      {
+        "application_number": "1020080102129",
+        "title": "열상 장치용 대물렌즈계(Objective lens system for thermal image device)",
+        "ipc": [
+          "G02B",
+          "G03B"
+        ],
+        "fields": [
+          "기타"
+        ],
+        "cosine_to_centroid": 0.8657879829406738
+      },
+      {
+        "application_number": "1020180079035",
+        "title": "목표물의 조준 방법 및 장치(Method and apparatus for aiming target)",
+        "ipc": [
+          "F41G",
+          "G06T"
+        ],
+        "fields": [
+          "기타"
+        ],
+        "cosine_to_centroid": 0.8511017560958862
+      },
+      {
+        "application_number": "1020120004978",
+        "title": "광학장치(Apparatus of optics instrument)",
+        "ipc": [
+          "G02B",
+          "G03B",
+          "H04N"
+        ],
+        "fields": [
+          "기타"
+        ],
+        "cosine_to_centroid": 0.839798092842102
+      },
+      {
+        "application_number": "1020120004977",
+        "title": "광학장치(Apparatus of optics instrument)",
+        "ipc": [
+          "G02B",
+          "G03B",
+          "H04N"
+        ],
+        "fields": [
+          "기타"
+        ],
+        "cosine_to_centroid": 0.839798092842102
+      },
+      {
+        "application_number": "1020110131294",
+        "title": "휴대용 광학장치(Portable apparatus of optics instrument)",
+        "ipc": [
+          "F41G",
+          "G02B",
+          "G03B"
+        ],
+        "fields": [
+          "기타"
+        ],
+        "cosine_to_centroid": 0.8388081789016724
+      },
+      {
+        "application_number": "1020030019125",
+        "title": "야간 투시경용 접안렌즈계(Eyepiece lens system for night vision glasses)",
+        "ipc": [
+          "G02B"
+        ],
+        "fields": [
+          "기타"
+        ],
+        "cosine_to_centroid": 0.8279181122779846
+      },
+      {
+        "application_number": "1020240177341",
+        "title": "야간 투시를 위한 보조 광원 공급장치(Auxiliary light source supply for night vision)",
+        "ipc": [
+          "F21K",
+          "F21V",
+          "F21Y",
+          "G02B",
+          "H05B",
+          "H10H"
+        ],
+        "fields": [
+          "반도체"
+        ],
+        "cosine_to_centroid": 0.8272446393966675
+      },
+      {
+        "application_number": "1020030019124",
+        "title": "야간 투시경용 대물렌즈계(Objective lens system for night vision glasses)",
+        "ipc": [
+          "G02B"
+        ],
+        "fields": [
+          "기타"
+        ],
+        "cosine_to_centroid": 0.8249084949493408
+      }
+    ],
+    "boundary_titles": [
+      "핸드폰을 이용한 어군확인 초음파 낚시찌(A FLOAT FOR FISH GROUP CONFIRMATION)",
+      "탈부착이 용이한 수중익선의 전방감시소나용 포드(Foward Looking Sonar POD of Hydrofoil)",
+      "항공기 투하용 소노부이(SONOBUOY FOR AIRDROP)"
+    ],
+    "top_ipc": {
+      "G02B": 18.500000000000004,
+      "F41G": 18.199999999999996,
+      "G01J": 16.166666666666664,
+      "H04N": 4.866666666666666,
+      "G03B": 4.533333333333333
+    },
+    "top_fields": {
+      "기타": 65.0,
+      "드론": 13.0,
+      "반도체": 9.0,
+      "우주": 9.0,
+      "로봇": 2.0
+    },
+    "top_companies": {
+      "이오시스템": 62,
+      "아이쓰리시스템": 8,
+      "소나테크": 4,
+      "센서피아": 4,
+      "루미르": 4
+    },
+    "year_counts": {
+      "2001": 4,
+      "2003": 3,
+      "2005": 1,
+      "2007": 4,
+      "2008": 4,
+      "2010": 3,
+      "2011": 2,
+      "2012": 10,
+      "2013": 4,
+      "2014": 8,
+      "2015": 4,
+      "2016": 3,
+      "2017": 1,
+      "2018": 7,
+      "2019": 3,
+      "2020": 4,
+      "2021": 14,
+      "2022": 4,
+      "2023": 4,
+      "2024": 9,
+      "2025": 4
+    },
+    "mean_cosine_to_centroid": 0.7088595628738403,
+    "cluster_persistence": 0.19071066829005512
+  },
+  {
+    "cluster": 11,
+    "n": 95,
+    "share_pct": 2.623584645125656,
+    "label": "혼합 기술군",
+    "representatives": [
+      {
+        "application_number": "1020090076374",
+        "title": "광섬유의 제조방법(METHOD FOR MANUFACTURING OPTICAL FIBER)",
+        "ipc": [
+          "C03B",
+          "G02B"
+        ],
+        "fields": [
+          "드론"
+        ],
+        "cosine_to_centroid": 0.9132727384567261
+      },
+      {
+        "application_number": "1020180158796",
+        "title": "광섬유 및 그 제조방법(Optical fiber and method for making the same)",
+        "ipc": [
+          "G02B"
+        ],
+        "fields": [
+          "드론"
+        ],
+        "cosine_to_centroid": 0.8963851928710938
+      },
+      {
+        "application_number": "1020050117625",
+        "title": "광섬유 모재의 제조 방법 및 광섬유 모재(The Method of Optical Fiber and Optical Fiber thereof)",
+        "ipc": [
+          "C03B"
+        ],
+        "fields": [
+          "드론"
+        ],
+        "cosine_to_centroid": 0.8900760412216187
+      },
+      {
+        "application_number": "1020150119977",
+        "title": "대구경 광섬유 모재를 제조하기 위한 방법 및 장치(A METHOD AND A APPARATUS FOR MANUFACTURING OPTICAL FIBER WITH LARGE CALIBER)",
+        "ipc": [
+          "C03B",
+          "G02B"
+        ],
+        "fields": [
+          "드론"
+        ],
+        "cosine_to_centroid": 0.8680307865142822
+      },
+      {
+        "application_number": "1020180170681",
+        "title": "편광유지 광섬유의 제조방법(Method for manufacturing polarization maintaining optical fiber)",
+        "ipc": [
+          "G02B"
+        ],
+        "fields": [
+          "드론"
+        ],
+        "cosine_to_centroid": 0.8553074598312378
+      },
+      {
+        "application_number": "1020170184638",
+        "title": "편광유지광섬유의 제조방법(Method for manufacturing polarization maintaining optical fiber)",
+        "ipc": [
+          "C03B",
+          "G02B"
+        ],
+        "fields": [
+          "드론"
+        ],
+        "cosine_to_centroid": 0.8525174856185913
+      },
+      {
+        "application_number": "1020040043719",
+        "title": "싱글모드 광섬유용 모재의 제조 방법(Manufacturing Method for Single Mode Optical Fiber)",
+        "ipc": [
+          "C03B",
+          "G02B"
+        ],
+        "fields": [
+          "드론"
+        ],
+        "cosine_to_centroid": 0.8489351272583008
+      },
+      {
+        "application_number": "1020090034623",
+        "title": "태양광 전달용 광섬유와 그 제조방법 및 이를 이용한 광케이블(OPTICAL FIBER FOR SOLAR LIGHT TRANSFER, ITS PRODUCTION METHOD AND OPTICAL CABLE USING THE SAME)",
+        "ipc": [
+          "C03B",
+          "G02B"
+        ],
+        "fields": [
+          "드론"
+        ],
+        "cosine_to_centroid": 0.8466085195541382
+      }
+    ],
+    "boundary_titles": [
+      "고분자 바인더로 개질된 폴리(메타)아크릴레이트를함유하는 광고분자 조성물(Photopolymer Composition Comprising ModifiedPolymetacrylate Derivatives as Polymer Binder)",
+      "광 파워미터(Optical powermeter)",
+      "통신복합조가선(COMMUNICATION COMPOSITE SUSPENSION WIRE)"
+    ],
+    "top_ipc": {
+      "G02B": 45.083333333333336,
+      "C03B": 16.333333333333336,
+      "H04B": 5.083333333333334,
+      "H01B": 5.083333333333333,
+      "A61N": 3.25
+    },
+    "top_fields": {
+      "드론": 64.0,
+      "반도체": 18.0,
+      "기타": 12.0,
+      "로봇": 1.0
+    },
+    "top_companies": {
+      "대한광통신": 59,
+      "옵토웰": 15,
+      "아이블포토닉스": 9,
+      "센서뷰": 5,
+      "이오시스템": 3
+    },
+    "year_counts": {
+      "2001": 3,
+      "2002": 1,
+      "2003": 2,
+      "2004": 1,
+      "2005": 4,
+      "2006": 3,
+      "2007": 2,
+      "2008": 4,
+      "2009": 2,
+      "2010": 2,
+      "2011": 3,
+      "2012": 9,
+      "2013": 4,
+      "2014": 3,
+      "2015": 4,
+      "2016": 3,
+      "2017": 5,
+      "2018": 7,
+      "2019": 7,
+      "2020": 6,
+      "2021": 5,
+      "2022": 3,
+      "2023": 8,
+      "2024": 4
+    },
+    "mean_cosine_to_centroid": 0.7561684250831604,
+    "cluster_persistence": 0.4897317338933765
+  },
+  {
+    "cluster": 12,
+    "n": 92,
+    "share_pct": 2.540734603700635,
+    "label": "혼합 기술군",
+    "representatives": [
+      {
+        "application_number": "1020240071344",
+        "title": "3차원 질화물 구조 도입을 통한 고품질 GaN HEMT 전력반도체 에피택시 웨이퍼 및 그 제조 방법(High-quality GaN HEMT power semiconductor epitaxial wafer manufacturing method by introducing a 3D nitride structure)",
+        "ipc": [
+          "H10D"
+        ],
+        "fields": [
+          "반도체"
+        ],
+        "cosine_to_centroid": 0.9119538068771362
+      },
+      {
+        "application_number": "1020230149573",
+        "title": "그룹3족 질화물 반도체 템플릿의 제조 방법(METHOD FOR MANUFACTURING GROUP 3 NITRIDE SEMICONDUCTOR TEMPLATE)",
+        "ipc": [
+          "H10D",
+          "H10H",
+          "H10P"
+        ],
+        "fields": [
+          "반도체"
+        ],
+        "cosine_to_centroid": 0.9068410396575928
+      },
+      {
+        "application_number": "1019990018479",
+        "title": "질화물 반도체 제조방법(Method for fabricating a nitride compound semiconductor)",
+        "ipc": [
+          "C30B",
+          "H10P"
+        ],
+        "fields": [
+          "반도체"
+        ],
+        "cosine_to_centroid": 0.896401047706604
+      },
+      {
+        "application_number": "1020220161635",
+        "title": "그룹3족 질화물 반도체 템플릿을 이용한 반도체 소자의 제조 방법(METHOD FOR MANUFACTURING SEMICONDUCTOR DEVICE USING GRUOP 3 NITRIDE SEMICONDUCTOR TEMPLATE)",
+        "ipc": [
+          "H10D",
+          "H10H",
+          "H10P"
+        ],
+        "fields": [
+          "반도체"
+        ],
+        "cosine_to_centroid": 0.8961470723152161
+      },
+      {
+        "application_number": "1020210193217",
+        "title": "비발광 3족 질화물 반도체 소자를 제조하는 방법(METHOD OF MANUFACTURING A NON EMITTING III-NITRIDE SEMICONDUCTOR DEVICE)",
+        "ipc": [
+          "H10D"
+        ],
+        "fields": [
+          "반도체"
+        ],
+        "cosine_to_centroid": 0.893071174621582
+      },
+      {
+        "application_number": "1020220008989",
+        "title": "비발광 3족 질화물 반도체 소자를 제조하는 방법(METHOD OF MANUFACTURING A NON EMITTING III-NITRIDE SEMICONDUCTOR DEVICE)",
+        "ipc": [
+          "H10D"
+        ],
+        "fields": [
+          "반도체"
+        ],
+        "cosine_to_centroid": 0.8927592039108276
+      },
+      {
+        "application_number": "1020210137660",
+        "title": "비발광 3족 질화물 반도체 적층체를 제조하는 방법(METHOD OF MANUFACTURING A NON EMITTING III-NITRIDE SEMICONDUCTOR STACKED STRUCTURE)",
+        "ipc": [
+          "H10D"
+        ],
+        "fields": [
+          "반도체"
+        ],
+        "cosine_to_centroid": 0.8919467926025391
+      },
+      {
+        "application_number": "1020210164995",
+        "title": "비발광 3족 질화물 반도체 적층체를 제조하는 방법(METHOD OF MANUFACTURING A NON EMITTING III-NITRIDE SEMICONDUCTOR STACKED STRUCTURE)",
+        "ipc": [
+          "H10D",
+          "H10P"
+        ],
+        "fields": [
+          "반도체"
+        ],
+        "cosine_to_centroid": 0.8919467926025391
+      }
+    ],
+    "boundary_titles": [
+      "단결정 성장용 시드(SEED FOR GROWING SINGLE CRYSTAL)",
+      "파우더가 도포된 Ⅲ―Ⅴ족 화합물 반도체 발광소자(Powder-coated Ⅲ-Ⅴ compound semiconductor light emitting device)",
+      "핫 셀프스플릿 공정을 통한 SiC 전력반도체 소자 제조 방법(Method for manufacturing SiC power device through hot self-split process)"
+    ],
+    "top_ipc": {
+      "H10D": 38.83333333333332,
+      "H10P": 32.66666666666666,
+      "H10H": 10.666666666666668,
+      "H10W": 6.166666666666666,
+      "C30B": 2.333333333333333
+    },
+    "top_fields": {
+      "반도체": 91.0,
+      "기타": 1.0
+    },
+    "top_companies": {
+      "웨이브로드": 66,
+      "RFHIC": 14,
+      "옵토웰": 8,
+      "웨이비스": 3,
+      "아이블포토닉스": 1
+    },
+    "year_counts": {
+      "1999": 2,
+      "2000": 4,
+      "2008": 1,
+      "2009": 1,
+      "2015": 3,
+      "2016": 3,
+      "2017": 1,
+      "2018": 1,
+      "2019": 2,
+      "2020": 8,
+      "2021": 17,
+      "2022": 13,
+      "2023": 6,
+      "2024": 19,
+      "2025": 9,
+      "2026": 2
+    },
+    "mean_cosine_to_centroid": 0.820452868938446,
+    "cluster_persistence": 0.15825315454049402
+  },
+  {
+    "cluster": 13,
+    "n": 87,
+    "share_pct": 2.4026512013256007,
+    "label": "혼합 기술군",
+    "representatives": [
+      {
+        "application_number": "1020170012401",
+        "title": "워터마크 삽입 방법 및 장치, 및 시스템(WATERMARK EMBEDDING METHOD AND APPARATUS, AND SYSTEM)",
+        "ipc": [
+          "G06T",
+          "H04N"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.9507301449775696
+      },
+      {
+        "application_number": "1020000015406",
+        "title": "디지털 워터마킹 방법 및 장치(DIGITAL WATERMARKING METHOD AND APPARATUS)",
+        "ipc": [
+          "G11B"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.943594217300415
+      },
+      {
+        "application_number": "1020220109902",
+        "title": "디지털 워터마크의 삽입 및 검출을 위한 방법 및 장치(METHOD AND APPARATUS FOR DIGITAL WATERMARK EMBEDDING AND EXTRACTING)",
+        "ipc": [
+          "G06T",
+          "H04N"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.9430848360061646
+      },
+      {
+        "application_number": "1020240125188",
+        "title": "디지털 워터마크의 삽입 및 검출을 위한 방법 및 장치(METHOD AND APPARATUS FOR DIGITAL WATERMARK EMBEDDING AND EXTRACTING)",
+        "ipc": [
+          "G06T",
+          "H04N"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.9430848360061646
+      },
+      {
+        "application_number": "1020080070238",
+        "title": "워터마크를 이용한 정보 제공 방법 및 시스템(Method and System for Providing Information Using Watermark)",
+        "ipc": [
+          "H04N"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.926673412322998
+      },
+      {
+        "application_number": "1020130061972",
+        "title": "워터마크 삽입 방법, 장치 및 시스템(Method, Apparatus and System for Inserting Watermark)",
+        "ipc": [
+          "H03K",
+          "H04N"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.922255277633667
+      },
+      {
+        "application_number": "1020000053755",
+        "title": "디지털 영상 워터마킹 장치 및 방법(DIGITAL IMAGE WATERMARKING APPARATUS AND METHOD)",
+        "ipc": [
+          "H04N"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.9166141152381897
+      },
+      {
+        "application_number": "1020010015240",
+        "title": "디지털 비디오 컨텐츠에 워터마크를 삽입하는 장치 및 방법(APPARATUS FOR EMBEDDING WATERMARK INTO DIGITAL VIDEO CONTENTS AND METHOD THEREOF)",
+        "ipc": [
+          "H04N"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.9157335162162781
+      }
+    ],
+    "boundary_titles": [
+      "오프라인상의 문서 또는 물품의 정보를 포함하는 스티커를제작하는 방법 및 장치, 그리고 상기 방법에 의해 제작된스티커(METHOD AND APPARATUS OF MANUFACTURING A STICKERCONTAINING AN INFORMATION OF AN OFFLINE DOCUMENT ANDGOODS, AND A STICKER MANUFACTURED BY SAID METHOD)",
+      "휴대용 WMA 복호화 장치(Portable WMA decoder)",
+      "추적 정보를 삽입하여 컨텐츠를 전송하는 방법 및 장치, 그리고 추적 정보를 삽입하여 컨텐츠를 수신하는 방법 및 장치(METHOD AND APPARATUS FOR TRANSMITTING CONTENT BY INSERTING TRACKING INFORMATION, AND METHOD AND APPARATUS FOR RECEIVING CONTENT BY INSERTING TRACKING INFORMATION)"
+    ],
+    "top_ipc": {
+      "H04N": 32.833333333333336,
+      "G06T": 24.666666666666664,
+      "G11B": 8.0,
+      "G06F": 6.166666666666666,
+      "G10L": 4.0
+    },
+    "top_fields": {
+      "인공지능": 85.0,
+      "로봇": 2.0
+    },
+    "top_companies": {
+      "마크애니": 85,
+      "케이알엠": 2
+    },
+    "year_counts": {
+      "1998": 2,
+      "1999": 3,
+      "2000": 6,
+      "2001": 24,
+      "2002": 6,
+      "2003": 7,
+      "2004": 2,
+      "2005": 2,
+      "2006": 2,
+      "2008": 11,
+      "2010": 1,
+      "2011": 2,
+      "2013": 2,
+      "2015": 1,
+      "2016": 2,
+      "2017": 2,
+      "2022": 2,
+      "2023": 3,
+      "2024": 3,
+      "2025": 4
+    },
+    "mean_cosine_to_centroid": 0.8446084260940552,
+    "cluster_persistence": 0.5083592414094037
+  },
+  {
+    "cluster": 14,
+    "n": 83,
+    "share_pct": 2.2921844794255732,
+    "label": "혼합 기술군",
+    "representatives": [
+      {
+        "application_number": "1020210035692",
+        "title": "어노테이션 작업 제어 방법 및 이를 실행하기 위하여 기록매체에 기록된 컴퓨터 프로그램(Method for controlling annotation work, and computer program recorded on record-medium for executing method therefor)",
+        "ipc": [
+          "G06F",
+          "G06N"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8496204018592834
+      },
+      {
+        "application_number": "1020210183370",
+        "title": "지점 지정을 통한 어노테이션 방법 및 이를 실행하기 위하여 기록매체에 기록된 컴퓨터 프로그램(Annotation method through point designation and a computer program recorded on a recording medium to execute it)",
+        "ipc": [
+          "G06N",
+          "G06V"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8437284827232361
+      },
+      {
+        "application_number": "1020210061832",
+        "title": "어노테이션 작업 및 질의 제어 방법 및 이를 실행하기 위하여 기록매체에 기록된 컴퓨터 프로그램(Method for controlling annotation work and question, and computer program recorded on record-medium for executing method therefor)",
+        "ipc": [
+          "G06Q",
+          "G06T"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8372154831886292
+      },
+      {
+        "application_number": "1020210183372",
+        "title": "객체 추출이 용이한 어노테이션 방법 및 이를 실행하기 위하여 기록매체에 기록된 컴퓨터 프로그램(Annotation method for easy object extraction and a computer program recorded on a recording medium to execute the annotation method)",
+        "ipc": [
+          "G06N",
+          "G06T"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8167110085487366
+      },
+      {
+        "application_number": "1020210136621",
+        "title": "객체 영역 지정 및 객체 검출 방법과 이를 실행하기 위하여 기록매체에 기록된 컴퓨터 프로그램(Method of designating an object area and detecting an object, and a computer program recorded on a recording medium to execute the same)",
+        "ipc": [
+          "G06T"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8070688843727112
+      },
+      {
+        "application_number": "1020210136609",
+        "title": "어노테이션 리뷰 피드백 제공 방법 및 이를 실행하기 위하여 기록매체에 기록된 컴퓨터 프로그램(Method of providing annotation review feedback and a computer program recorded on a recording medium to execute the method)",
+        "ipc": [
+          "G06F",
+          "G06N"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8050906658172607
+      },
+      {
+        "application_number": "1020220019294",
+        "title": "어노테이션 작업에 대한 피드백 방법 및 이를 실행하기 위하여 기록매체에 기록된 컴퓨터 프로그램(Method for feedback on working with annotations, and computer program recorded on record-medium for executing method therefor)",
+        "ipc": [
+          "G06F",
+          "G06N"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.7997219562530518
+      },
+      {
+        "application_number": "1020210183371",
+        "title": "다중 바인딩 박스 선택을 통한 어노테이션 방법 및 이를 실행하기 위하여 기록매체에 기록된 컴퓨터 프로그램(Annotation method through multiple binding box selection and a computer program recorded on a recording medium to execute the same)",
+        "ipc": [
+          "G06N",
+          "G06T"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.7896333336830139
+      }
+    ],
+    "boundary_titles": [
+      "자율주행 데이터 수집을 위한 센서 간의 위상차 제어 방법 및 실행하기 위하여 기록매체에 기록된 컴퓨터 프로그램(Method for correcting difference of multiple sensors, and computer program recorded on record-medium for executing method therefor)",
+      "웹에서 SSH를 이용한 노심해석코드를 실행하는 방법 및 시스템과 그 방법을 기록한 컴퓨터판독가능한 기록매체(System and Method for Performing Core Analysis Code and Computer-readable Recording Medium Storing the Method)",
+      "인공지능과 전자현미경 및 EDS 분석기를 이용하여 대면적에 분포된 미세 입자를 자동 분석하는 방법(Method for automatically analyzing micro particles distributed over a large area using artificial intelligence, electron microscope and EDS analyzer)"
+    ],
+    "top_ipc": {
+      "G06N": 27.366666666666656,
+      "G06T": 17.95,
+      "G06F": 10.199999999999998,
+      "G06V": 7.366666666666666,
+      "G06Q": 5.0
+    },
+    "top_fields": {
+      "인공지능": 81.0,
+      "센서": 1.0,
+      "기타": 1.0
+    },
+    "top_companies": {
+      "인피닉": 80,
+      "유저스": 1,
+      "심네트": 1,
+      "써로마인드": 1
+    },
+    "year_counts": {
+      "2014": 1,
+      "2020": 1,
+      "2021": 57,
+      "2022": 10,
+      "2023": 6,
+      "2024": 5,
+      "2025": 3
+    },
+    "mean_cosine_to_centroid": 0.7245747447013855,
+    "cluster_persistence": 0.12527628162060225
+  },
+  {
+    "cluster": 15,
+    "n": 82,
+    "share_pct": 2.264567798950566,
+    "label": "혼합 기술군",
+    "representatives": [
+      {
+        "application_number": "1020220138604",
+        "title": "위성항법 신호의 추적을 위한 장치(Apparatus for Tracking a Satellite Navigation Signal)",
+        "ipc": [
+          "G01S",
+          "H03M"
+        ],
+        "fields": [
+          "로봇"
+        ],
+        "cosine_to_centroid": 0.9102028012275696
+      },
+      {
+        "application_number": "1020220127730",
+        "title": "위성항법 신호의 획득을 위한 장치(Apparatus for Acquisition of a Satellite Navigation Signal)",
+        "ipc": [
+          "G01S",
+          "H03M"
+        ],
+        "fields": [
+          "로봇"
+        ],
+        "cosine_to_centroid": 0.9073667526245117
+      },
+      {
+        "application_number": "1020160162522",
+        "title": "위성 항법 시스템의 재밍 처리 장치 및 재밍 처리 방법(ANTI-JAMMING APPARATUS FOR GLOBAL NAVIGATION SATELLITE SYSTEM AND ANTI-JAMMING METHOD FOR GLOBAL NAVIGATION SATELLITE SYSTEM)",
+        "ipc": [
+          "G01S"
+        ],
+        "fields": [
+          "기타"
+        ],
+        "cosine_to_centroid": 0.8835552930831909
+      },
+      {
+        "application_number": "1020150051592",
+        "title": "항재밍 위성항법 시스템의 전원 제어 장치(Power Control Apparatus for Anti-Jamming Global Positioning System)",
+        "ipc": [
+          "G01C",
+          "G01S"
+        ],
+        "fields": [
+          "기타"
+        ],
+        "cosine_to_centroid": 0.8816866874694824
+      },
+      {
+        "application_number": "1020150145667",
+        "title": "다수의 위성항법 기준국 신호품질 획득 장치 및 방법(Apparatus for getting signal quality of base station of plurality satellite navigation)",
+        "ipc": [
+          "G01S"
+        ],
+        "fields": [
+          "우주"
+        ],
+        "cosine_to_centroid": 0.8773009777069092
+      },
+      {
+        "application_number": "1020240113155",
+        "title": "GNSS 기만 신호 탐지 장치 및 방법(GNSS DECEPTION SIGNAL DETECTION APPARATUS AND METHOD)",
+        "ipc": [
+          "G01S"
+        ],
+        "fields": [
+          "기타"
+        ],
+        "cosine_to_centroid": 0.8763132095336914
+      },
+      {
+        "application_number": "1020240179773",
+        "title": "항재밍-위성항법장치용 다채널/다대역 위성신호수신 무선 주파수 집적 회로 장치(Anti-Jamming Multi-Channel/Multi-Band Satellite Signal Receiving Radio Frequency Integrated Circuit Apparatus for Satellite Navigation Systems)",
+        "ipc": [
+          "G01S"
+        ],
+        "fields": [
+          "우주"
+        ],
+        "cosine_to_centroid": 0.8754442930221558
+      },
+      {
+        "application_number": "1020110046225",
+        "title": "다중 위성 항법 오류 검출 및 분석 장치(APPARATUS FOR DETECTING AND ANALYZING MULTIPLEX SATELLITE NAVIGATION ERROR)",
+        "ipc": [
+          "G01S",
+          "G06F"
+        ],
+        "fields": [
+          "우주"
+        ],
+        "cosine_to_centroid": 0.8725582361221313
+      }
+    ],
+    "boundary_titles": [
+      "비용에 따른 임무 효율을 고려하는 위성체의 궤도상 서비스에 대한 임무 설계안 도출 방법 및 시스템(METHOD AND SYSTEM FOR DERIVING A MISSION DESIGN PLAN FOR SATELLITE ON-ORBIT SERVICE THAT CONSIDERS MISSION EFFICIENCY ACCORDING TO COST)",
+      "위성의 궤도결정을 위한 GNSS/IMU 통합 칼만필터 알고리즘 방법, 이를 구현하기 위한 프로그램이 저장된 기록매체.(THE ALGORITHM OF KALMAN FILTER INTEGRATING GNSS AND INS FOR ORBIT DETERMINATION OF A SATELLITE AND RECORDING MEDIUM STORING PROGRAM FOR EXECUTING THE SAME)",
+      "인공위성 용 지구 재진입 장치 및 이를 포함하는 인공위성(Earth Re-entry Apparatus for Satellites and Satellites having the Same)"
+    ],
+    "top_ipc": {
+      "G01S": 45.11666666666667,
+      "G06F": 6.666666666666667,
+      "B64G": 4.0,
+      "H04B": 3.9166666666666665,
+      "G01R": 3.0
+    },
+    "top_fields": {
+      "우주": 35.0,
+      "기타": 34.0,
+      "인공지능": 5.0,
+      "드론": 4.0,
+      "로봇": 4.0
+    },
+    "top_companies": {
+      "덕산넵코어스": 22,
+      "두시텍": 14,
+      "휴라": 9,
+      "단암시스템즈": 8,
+      "나라스페이스 테크놀로지": 8
+    },
+    "year_counts": {
+      "2007": 1,
+      "2011": 3,
+      "2012": 1,
+      "2013": 4,
+      "2014": 1,
+      "2015": 5,
+      "2016": 5,
+      "2017": 3,
+      "2018": 3,
+      "2019": 1,
+      "2020": 9,
+      "2021": 12,
+      "2022": 9,
+      "2023": 4,
+      "2024": 14,
+      "2025": 6,
+      "2026": 1
+    },
+    "mean_cosine_to_centroid": 0.7992039918899536,
+    "cluster_persistence": 0.4507733889745891
+  },
+  {
+    "cluster": 16,
+    "n": 71,
+    "share_pct": 1.9607843137254901,
+    "label": "혼합 기술군",
+    "representatives": [
+      {
+        "application_number": "1020240193165",
+        "title": "음향 기반 현장 모니터링 방법 및 시스템(METHOD AND SYSTEM FOR ACOUSTICS-BASED ON-SITE MONITORING)",
+        "ipc": [
+          "G01H",
+          "G05B",
+          "G06N",
+          "G06Q",
+          "G06T",
+          "H04L",
+          "H04W"
+        ],
+        "fields": [
+          "기타"
+        ],
+        "cosine_to_centroid": 0.8371530771255493
+      },
+      {
+        "application_number": "1020090016848",
+        "title": "맥파 검출용 음향출력장치(AN AUDIO RECEIVER FOR MEASURING PULSE WAVE)",
+        "ipc": [
+          "A61B",
+          "H04R",
+          "H10N"
+        ],
+        "fields": [
+          "기타"
+        ],
+        "cosine_to_centroid": 0.8339420557022095
+      },
+      {
+        "application_number": "1020230027487",
+        "title": "길이가 조절되는 탄성파 수집 봉(A measurement device of elastic wave that is adjustable length)",
+        "ipc": [
+          "G01N",
+          "G08B"
+        ],
+        "fields": [
+          "기타"
+        ],
+        "cosine_to_centroid": 0.8295314311981201
+      },
+      {
+        "application_number": "1020150151616",
+        "title": "수중 방사소음 측정장치(Apparatus for detecting underwater radiated noise)",
+        "ipc": [
+          "B63B",
+          "G01H"
+        ],
+        "fields": [
+          "드론"
+        ],
+        "cosine_to_centroid": 0.8281536102294922
+      },
+      {
+        "application_number": "1020240202334",
+        "title": "시험 탄성파를 이용한 구조물 결함 진단 시스템(A diagnosis system of structural defect that is using test elastic waves)",
+        "ipc": [
+          "G01N"
+        ],
+        "fields": [
+          "기타"
+        ],
+        "cosine_to_centroid": 0.8198248744010925
+      },
+      {
+        "application_number": "1020200164842",
+        "title": "롤러형 탄성파 측정 장치(A elastic wave measurement device of roller type that measuring elastic wave)",
+        "ipc": [
+          "G01N"
+        ],
+        "fields": [
+          "기타"
+        ],
+        "cosine_to_centroid": 0.8161117434501648
+      },
+      {
+        "application_number": "1020210032505",
+        "title": "시설물의 건전성 진단용 파일형 센서장치(A pile-type sensor device for diagnosing integrity of facilities)",
+        "ipc": [
+          "G01B",
+          "G08B"
+        ],
+        "fields": [
+          "기타"
+        ],
+        "cosine_to_centroid": 0.8132225275039673
+      },
+      {
+        "application_number": "1020210136361",
+        "title": "음파 탐지 장치 및 이를 포함하는 소노부이 시스템(DEVICE FOR DETECTING WAVE AND SONOBUOY SYSTEM COMPRISING THE SAME)",
+        "ipc": [
+          "G01H",
+          "G01S",
+          "H10N"
+        ],
+        "fields": [
+          "드론"
+        ],
+        "cosine_to_centroid": 0.8107454776763916
+      }
+    ],
+    "boundary_titles": [
+      "전력망이나 전력 설비의 상시 안전 감시 시스템(Off-site safety surveilance system in electric power network or utilities)",
+      "멀티빔 사이드스캔소나의 트랜스듀서(multiple electron beam side scan sonar)",
+      "다중 빔을 이용한 고해상도 측면 주사 소나 시스템의 진행방향 해상도 향상을 위한 트랜스듀서의 셀 배치 구조.(Using a high-resolution multi-beam sonar system the direction of the side injectin for improving the resolution cell of the rtansducer arrangement)"
+    ],
+    "top_ipc": {
+      "G01N": 12.516666666666664,
+      "G01S": 9.533333333333333,
+      "G01L": 5.5,
+      "G01R": 4.333333333333333,
+      "G01B": 3.683333333333334
+    },
+    "top_fields": {
+      "드론": 34.0,
+      "기타": 29.0,
+      "우주": 3.0,
+      "반도체": 3.0,
+      "로봇": 2.0
+    },
+    "top_companies": {
+      "아이디케이": 21,
+      "소나테크": 14,
+      "니어스랩": 8,
+      "센서피아": 7,
+      "아이블포토닉스": 3
+    },
+    "year_counts": {
+      "2004": 2,
+      "2007": 1,
+      "2009": 1,
+      "2010": 1,
+      "2011": 3,
+      "2012": 2,
+      "2014": 1,
+      "2015": 2,
+      "2016": 5,
+      "2017": 2,
+      "2018": 6,
+      "2019": 3,
+      "2020": 3,
+      "2021": 17,
+      "2022": 7,
+      "2023": 8,
+      "2024": 6,
+      "2025": 1
+    },
+    "mean_cosine_to_centroid": 0.7485454678535461,
+    "cluster_persistence": 0.0766119579428828
+  },
+  {
+    "cluster": 17,
+    "n": 64,
+    "share_pct": 1.7674675504004418,
+    "label": "혼합 기술군",
+    "representatives": [
+      {
+        "application_number": "1020190161052",
+        "title": "반도체 발광소자를 제조하는 방법(METHOD OF MANUFACTURING A LIGHT EMITTING DEVICE)",
+        "ipc": [
+          "H10H"
+        ],
+        "fields": [
+          "반도체"
+        ],
+        "cosine_to_centroid": 0.9563632011413574
+      },
+      {
+        "application_number": "1020190161050",
+        "title": "반도체 발광소자를 제조하는 방법(METHOD OF MANUFACTURING A LIGHT EMITTING DEVICE)",
+        "ipc": [
+          "H10H"
+        ],
+        "fields": [
+          "반도체"
+        ],
+        "cosine_to_centroid": 0.9563632011413574
+      },
+      {
+        "application_number": "1020240018705",
+        "title": "반도체 발광소자를 제조하는 방법(METHOD OF MANUFACTURING A LIGHT EMITTING DEVICE)",
+        "ipc": [
+          "H10H"
+        ],
+        "fields": [
+          "반도체"
+        ],
+        "cosine_to_centroid": 0.9563250541687012
+      },
+      {
+        "application_number": "1020240018706",
+        "title": "반도체 발광소자를 제조하는 방법(METHOD FOR MANUFACTURING LIGHT EMITTING DEVICE)",
+        "ipc": [
+          "H10H"
+        ],
+        "fields": [
+          "반도체"
+        ],
+        "cosine_to_centroid": 0.9540849924087524
+      },
+      {
+        "application_number": "1020200002813",
+        "title": "반도체 발광소자를 제조하는 방법(METHOD OF MANUFACTURING LIGHT EMITTING DEVICE)",
+        "ipc": [
+          "H10H",
+          "H10P"
+        ],
+        "fields": [
+          "반도체"
+        ],
+        "cosine_to_centroid": 0.9525976181030273
+      },
+      {
+        "application_number": "1020190177111",
+        "title": "반도체 발광소자를 제조하는 방법(METHOD OF MANUFACTURING LIGHT EMITTING DEVICE)",
+        "ipc": [
+          "H10H"
+        ],
+        "fields": [
+          "반도체"
+        ],
+        "cosine_to_centroid": 0.9525976181030273
+      },
+      {
+        "application_number": "1020190177113",
+        "title": "반도체 발광소자를 제조하는 방법(METHOD OF MANUFACTURING LIGHT EMITTING DEVICE)",
+        "ipc": [
+          "H10H"
+        ],
+        "fields": [
+          "반도체"
+        ],
+        "cosine_to_centroid": 0.9525976181030273
+      },
+      {
+        "application_number": "1020230037778",
+        "title": "반도체 발광소자를 제조하는 방법(METHOD OF MANUFACTURING LIGHT EMITTING DEVICE)",
+        "ipc": [
+          "H10H"
+        ],
+        "fields": [
+          "반도체"
+        ],
+        "cosine_to_centroid": 0.9517703056335449
+      }
+    ],
+    "boundary_titles": [
+      "빅셀 구동용 레이저 드라이버(LASER DRIVER FOR DRIVING VCSEL)",
+      "수직공진 표면발광레이저(Vertical-cavity surface-emitting laser)",
+      "핫 셀프스플릿 공정을 통한 박막형 칩 구조의 고출력 자외선 발광소자 및 그 제조방법(High-output ultra-violet(UV) LED with thin-film chip structure through hot self-split process and method for manufacturing the same)"
+    ],
+    "top_ipc": {
+      "H10H": 42.66666666666667,
+      "H01S": 13.5,
+      "H10P": 2.333333333333333,
+      "H10D": 1.5,
+      "F41G": 1.0
+    },
+    "top_fields": {
+      "반도체": 63.0,
+      "로봇": 1.0
+    },
+    "top_companies": {
+      "웨이브로드": 42,
+      "옵토웰": 20,
+      "에스오에스랩": 1,
+      "아이쓰리시스템": 1
+    },
+    "year_counts": {
+      "2002": 2,
+      "2003": 4,
+      "2004": 1,
+      "2008": 1,
+      "2011": 2,
+      "2013": 1,
+      "2016": 2,
+      "2018": 2,
+      "2019": 5,
+      "2020": 10,
+      "2021": 7,
+      "2022": 14,
+      "2023": 9,
+      "2024": 4
+    },
+    "mean_cosine_to_centroid": 0.8608566522598267,
+    "cluster_persistence": 0.17205424419872972
+  },
+  {
+    "cluster": 18,
+    "n": 64,
+    "share_pct": 1.7674675504004418,
+    "label": "혼합 기술군",
+    "representatives": [
+      {
+        "application_number": "1020190018076",
+        "title": "전기화학 소자 및 이의 제조방법(Electrochemical device and manufacturing method thereof)",
+        "ipc": [
+          "H01G",
+          "H01M"
+        ],
+        "fields": [
+          "드론"
+        ],
+        "cosine_to_centroid": 0.8987856507301331
+      },
+      {
+        "application_number": "1020190017941",
+        "title": "전기화학 소자 및 이의 제조방법(Electrochemical device and manufacturing method thereof)",
+        "ipc": [
+          "H01G",
+          "H01M"
+        ],
+        "fields": [
+          "드론"
+        ],
+        "cosine_to_centroid": 0.8987856507301331
+      },
+      {
+        "application_number": "1020190020709",
+        "title": "전기화학 소자 및 이의 제조방법(Electrochemical device and its manufacturing method)",
+        "ipc": [
+          "H01G",
+          "H01M"
+        ],
+        "fields": [
+          "드론"
+        ],
+        "cosine_to_centroid": 0.8953287601470947
+      },
+      {
+        "application_number": "1020190018087",
+        "title": "전기화학 소자 및 이의 제조방법(Electrochemical device and its manufacturing method)",
+        "ipc": [
+          "H01G",
+          "H01M"
+        ],
+        "fields": [
+          "드론"
+        ],
+        "cosine_to_centroid": 0.8953287601470947
+      },
+      {
+        "application_number": "1020180107230",
+        "title": "전기화학 소자 및 그 제조 방법(Electrochemical device and manufacturing method thereof)",
+        "ipc": [
+          "H01G",
+          "H01M"
+        ],
+        "fields": [
+          "드론"
+        ],
+        "cosine_to_centroid": 0.892141580581665
+      },
+      {
+        "application_number": "1020200014718",
+        "title": "전기화학 소자 및 그 제조 방법(Electrochemical device and manufacturing method thereof)",
+        "ipc": [
+          "H01G",
+          "H01M"
+        ],
+        "fields": [
+          "드론"
+        ],
+        "cosine_to_centroid": 0.8917120695114136
+      },
+      {
+        "application_number": "1020160083472",
+        "title": "높은 에너지 밀도를 가진 전기화학 에너지 소자 및 그 제조 방법(Electrochemical energy device with high energy density and method of fabricating the same)",
+        "ipc": [
+          "H01M"
+        ],
+        "fields": [
+          "드론"
+        ],
+        "cosine_to_centroid": 0.8713935613632202
+      },
+      {
+        "application_number": "1020240074495",
+        "title": "고용량 양극을 포함하는 전기화학소자(AN ELECTROCHEMICAL DEVICE COMPRISING A HIGH CAPACITY POSITIVE ELECTRODE)",
+        "ipc": [
+          "H01M"
+        ],
+        "fields": [
+          "드론"
+        ],
+        "cosine_to_centroid": 0.8553429841995239
+      }
+    ],
+    "boundary_titles": [
+      "중공형 금속 미분체를 포함하는 고분자 기재 금속 필라멘트 및 이의 제조방법(Metal Filament wherein Hollow Metal Particles Dispersed in Polymer Matrix And Method Thereof)",
+      "자전연소 합성법을 이용한 붕소 입자 제조 방법(Preparation Method of Boron particles by using Self-propagating High-temperature Synthesis(SHS))",
+      "고체산화물 연료 전지(Solid oxide fuel cell)"
+    ],
+    "top_ipc": {
+      "H01M": 47.33333333333333,
+      "H01G": 4.0,
+      "H01B": 2.25,
+      "C01B": 1.75,
+      "C23C": 1.0
+    },
+    "top_fields": {
+      "드론": 59.0,
+      "우주": 3.0,
+      "기타": 2.0
+    },
+    "top_companies": {
+      "유뱃": 33,
+      "비이아이랩": 18,
+      "빅텍": 6,
+      "하나에이엠티": 3,
+      "아이블포토닉스": 1
+    },
+    "year_counts": {
+      "2000": 1,
+      "2011": 7,
+      "2015": 1,
+      "2016": 1,
+      "2017": 2,
+      "2018": 2,
+      "2019": 5,
+      "2020": 6,
+      "2021": 9,
+      "2022": 3,
+      "2024": 19,
+      "2025": 6,
+      "2026": 2
+    },
+    "mean_cosine_to_centroid": 0.7812713384628296,
+    "cluster_persistence": 0.45411009462497975
+  },
+  {
+    "cluster": 19,
+    "n": 61,
+    "share_pct": 1.6846175089754212,
+    "label": "혼합 기술군",
+    "representatives": [
+      {
+        "application_number": "1020170026955",
+        "title": "원자력발전소 가스소화설비 설계농도 측정 및 유지 장치(Monitoring and Actuating device for Gas Extinguishing System in Nuclear Power Plant)",
+        "ipc": [
+          "A62C",
+          "G08B",
+          "G21C"
+        ],
+        "fields": [
+          "기타"
+        ],
+        "cosine_to_centroid": 0.8423188924789429
+      },
+      {
+        "application_number": "1020180055693",
+        "title": "원전의 가스계 소화약제 방출시험 방법(Method for Emission Test of Gaseous Extinguishing Agent in Nuclear Power Plant)",
+        "ipc": [
+          "A62C",
+          "G01D",
+          "G01K",
+          "G01N",
+          "H04Q"
+        ],
+        "fields": [
+          "기타"
+        ],
+        "cosine_to_centroid": 0.8292394876480103
+      },
+      {
+        "application_number": "1020170137324",
+        "title": "원자력 발전소 방화지역의 상대적 종합안전위험관리 시스템 및 그 방법(System for monitoring relative safety hazards of nuclear plant fire protection areas and method thereof)",
+        "ipc": [
+          "G06Q",
+          "G21D"
+        ],
+        "fields": [
+          "기타"
+        ],
+        "cosine_to_centroid": 0.8267049789428711
+      },
+      {
+        "application_number": "1020170127768",
+        "title": "핵연료집합체 제원측정장치 및 이를 이용한 제원측정 방법(Apparatus for measuring data of nuclear fuel tube assembly and a method using the device)",
+        "ipc": [
+          "G21C"
+        ],
+        "fields": [
+          "센서"
+        ],
+        "cosine_to_centroid": 0.8255317211151123
+      },
+      {
+        "application_number": "1020170122126",
+        "title": "원자력발전소 계통 및 기기의 화재 다중오동작 분석방법(Analysis Method for Fire Induced Multiple Spurious Operation of Systems and Equipment in Nuclear Power Plant)",
+        "ipc": [
+          "G21D"
+        ],
+        "fields": [
+          "기타"
+        ],
+        "cosine_to_centroid": 0.8219705820083618
+      },
+      {
+        "application_number": "1020160154743",
+        "title": "원자력 시설 기밀도 시험장치(Airtight Test Apparatus for Nuclear Facility)",
+        "ipc": [
+          "G01M",
+          "G01N",
+          "G21C"
+        ],
+        "fields": [
+          "기타"
+        ],
+        "cosine_to_centroid": 0.8126795291900635
+      },
+      {
+        "application_number": "1020210169051",
+        "title": "회전 구조를 이용한 사용후핵연료 계측 시스템(Spent Nuclear Fuel Measurement System using Rotation Structure)",
+        "ipc": [
+          "G01T",
+          "G21C"
+        ],
+        "fields": [
+          "기타"
+        ],
+        "cosine_to_centroid": 0.812308669090271
+      },
+      {
+        "application_number": "1020200113349",
+        "title": "원전 화재 시 안전정지 기기에 대한 운전원 조치 관리 시스템(Safe-shutdown equipment operator action management system in case of fire at nuclear power plant)",
+        "ipc": [
+          "G21C",
+          "G21D"
+        ],
+        "fields": [
+          "기타"
+        ],
+        "cosine_to_centroid": 0.8083772659301758
+      }
+    ],
+    "boundary_titles": [
+      "소화약제 연장 방출 시스템(Extinguishing Agent Extended Emission System)",
+      "원전 설비 해체용 작업장(Workplace for Dismantling Nuclear Power Plant)",
+      "소화약제 회수 및 플러싱 기능을 갖는 화재 진압 시스템(Fire Suppression System with Fire Extinguishing Agent Return and Flushing Function)"
+    ],
+    "top_ipc": {
+      "G21C": 10.75,
+      "G21D": 7.833333333333333,
+      "A62C": 7.116666666666667,
+      "H01M": 4.333333333333334,
+      "G01N": 4.033333333333334
+    },
+    "top_fields": {
+      "기타": 51.0,
+      "센서": 7.0,
+      "드론": 2.0,
+      "우주": 1.0
+    },
+    "top_companies": {
+      "스탠다드시험연구소": 50,
+      "유저스": 7,
+      "빅텍": 1,
+      "아이티사이언스": 1,
+      "루미르": 1
+    },
+    "year_counts": {
+      "2011": 1,
+      "2013": 1,
+      "2014": 2,
+      "2016": 2,
+      "2017": 11,
+      "2018": 7,
+      "2019": 6,
+      "2020": 11,
+      "2021": 9,
+      "2023": 4,
+      "2024": 5,
+      "2025": 2
+    },
+    "mean_cosine_to_centroid": 0.7370328903198242,
+    "cluster_persistence": 0.09893561670227402
+  },
+  {
+    "cluster": 20,
+    "n": 60,
+    "share_pct": 1.6570008285004143,
+    "label": "혼합 기술군",
+    "representatives": [
+      {
+        "application_number": "1020250151948",
+        "title": "반도체 소자의 제조방법(METHOD OF MANUFACTURING A SEMICONDUCTOR DEVICE)",
+        "ipc": [
+          "H10D"
+        ],
+        "fields": [
+          "반도체"
+        ],
+        "cosine_to_centroid": 0.9197577238082886
+      },
+      {
+        "application_number": "1020250134644",
+        "title": "반도체 소자의 제조방법(METHOD OF MANUFACTURING A SEMICONDUCTOR DEVICE)",
+        "ipc": [
+          "H10D"
+        ],
+        "fields": [
+          "반도체"
+        ],
+        "cosine_to_centroid": 0.9197577238082886
+      },
+      {
+        "application_number": "1020250134617",
+        "title": "반도체 소자의 제조 방법(METHOD OF MANUFACTURING A SEMICONDUCTOR DEVICE)",
+        "ipc": [
+          "G03F",
+          "H10P"
+        ],
+        "fields": [
+          "반도체"
+        ],
+        "cosine_to_centroid": 0.9177931547164917
+      },
+      {
+        "application_number": "1020240083811",
+        "title": "반도체 소자 및 그 제조방법(SEMICONDUCTOR DEVICE)",
+        "ipc": [
+          "G01K",
+          "H10D"
+        ],
+        "fields": [
+          "반도체"
+        ],
+        "cosine_to_centroid": 0.9089893102645874
+      },
+      {
+        "application_number": "1020240107517",
+        "title": "반도체 소자 및 그 제조방법(SEMICONDUCTOR DEVICE)",
+        "ipc": [
+          "H10D"
+        ],
+        "fields": [
+          "반도체"
+        ],
+        "cosine_to_centroid": 0.9088853597640991
+      },
+      {
+        "application_number": "1020240058558",
+        "title": "반도체 소자 및 그 제조방법(SEMICONDUCTOR DEVICE)",
+        "ipc": [
+          "H10D"
+        ],
+        "fields": [
+          "반도체"
+        ],
+        "cosine_to_centroid": 0.9085271954536438
+      },
+      {
+        "application_number": "1020250179502",
+        "title": "반도체 장치(SEMICONDUCTOR DEVICE)",
+        "ipc": [
+          "H10B",
+          "H10D",
+          "H10W"
+        ],
+        "fields": [
+          "반도체"
+        ],
+        "cosine_to_centroid": 0.9050416946411133
+      },
+      {
+        "application_number": "1020220058818",
+        "title": "반도체 장치(SEMICONDUCTOR DEVICE)",
+        "ipc": [
+          "H10W"
+        ],
+        "fields": [
+          "반도체"
+        ],
+        "cosine_to_centroid": 0.9048519134521484
+      }
+    ],
+    "boundary_titles": [
+      "칩 좌표 정보가 표시된 웨이퍼(Wafer with chip coordinates)",
+      "단일 챔버 내에서 기판의 양면에 박막 형성이 가능한 롤투롤 스퍼터링 장치(Roll-to-roll sputtering device capable of forming thin films on both sides of the substrate within a single chamber)",
+      "단일 챔버 내에서 기판의 양면에 박막 형성이 가능한 롤투롤 스퍼터링 장치(Roll-to-roll sputtering device capable of forming thin films on both sides of the substrate within a single chamber)"
+    ],
+    "top_ipc": {
+      "H10D": 11.65,
+      "H10W": 9.650000000000002,
+      "H10P": 7.583333333333332,
+      "C23C": 7.333333333333333,
+      "G06F": 4.666666666666666
+    },
+    "top_fields": {
+      "반도체": 34.0,
+      "드론": 12.0,
+      "인공지능": 10.0,
+      "기타": 3.0,
+      "우주": 1.0
+    },
+    "top_companies": {
+      "웨이비스": 12,
+      "비이아이랩": 10,
+      "마키나락스": 9,
+      "RFHIC": 8,
+      "웨이브로드": 6
+    },
+    "year_counts": {
+      "2000": 1,
+      "2003": 1,
+      "2013": 1,
+      "2016": 1,
+      "2018": 1,
+      "2019": 1,
+      "2020": 4,
+      "2021": 7,
+      "2022": 12,
+      "2023": 9,
+      "2024": 12,
+      "2025": 8,
+      "2026": 2
+    },
+    "mean_cosine_to_centroid": 0.8022451400756836,
+    "cluster_persistence": 0.16317551053802634
+  },
+  {
+    "cluster": 21,
+    "n": 60,
+    "share_pct": 1.6570008285004143,
+    "label": "혼합 기술군",
+    "representatives": [
+      {
+        "application_number": "1020220177280",
+        "title": "AR 객체 트래킹 방법 및 시스템(METHOD AND SYSTEM FOR AUGMENTED-REALITY OBJECT TRACKING)",
+        "ipc": [
+          "G06T"
+        ],
+        "fields": [
+          "기타"
+        ],
+        "cosine_to_centroid": 0.9061964750289917
+      },
+      {
+        "application_number": "1020170183308",
+        "title": "공간 인식 및 사물 인식이 동시에 적용된 증강현실 시스템(Augmented Reality System with Space and Object Recognition)",
+        "ipc": [
+          "G06T",
+          "H04N"
+        ],
+        "fields": [
+          "기타"
+        ],
+        "cosine_to_centroid": 0.8903109431266785
+      },
+      {
+        "application_number": "1020220177285",
+        "title": "증강현실을 위한 객체 트래킹 방법 및 시스템(METHOD AND SYSTEM FOR TRACKING OBJECT FOR AUGMENTED REALITY)",
+        "ipc": [
+          "G06T",
+          "G06V"
+        ],
+        "fields": [
+          "기타"
+        ],
+        "cosine_to_centroid": 0.8891275525093079
+      },
+      {
+        "application_number": "1020230143361",
+        "title": "식별코드 기반의 AR 객체 제공 방법 및 시스템(METHOD AND SYSTEM FOR PROVIDING AUGMENTED REALITY OBJECT BASED ON IDENTIFICATION CODE)",
+        "ipc": [
+          "G06F",
+          "G06K",
+          "G06T",
+          "H04W"
+        ],
+        "fields": [
+          "기타"
+        ],
+        "cosine_to_centroid": 0.8873159885406494
+      },
+      {
+        "application_number": "1020230143312",
+        "title": "식별코드 기반의 AR 객체 제공 방법 및 시스템(METHOD AND SYSTEM FOR PROVIDING AUGMENTED REALITY OBJECT BASED ON IDENTIFICATION CODE)",
+        "ipc": [
+          "G06F",
+          "G06K",
+          "G06Q",
+          "G06T"
+        ],
+        "fields": [
+          "기타"
+        ],
+        "cosine_to_centroid": 0.8873159885406494
+      },
+      {
+        "application_number": "1020220174721",
+        "title": "식별코드 기반의 AR 객체 제공 방법 및 시스템(METHOD AND SYSTEM FOR PROVIDING AUGMENTED REALITY OBJECT BASED ON IDENTIFICATION CODE)",
+        "ipc": [
+          "G06F",
+          "G06K",
+          "G06Q",
+          "G06T"
+        ],
+        "fields": [
+          "기타"
+        ],
+        "cosine_to_centroid": 0.886888861656189
+      },
+      {
+        "application_number": "1020230188624",
+        "title": "템플릿 기반 AR 환경 세팅방법(METHOD OF SETTING UP A TEMPLATE-BASED AR ENVIRONMENT)",
+        "ipc": [
+          "G06K",
+          "G06Q",
+          "G06T"
+        ],
+        "fields": [
+          "기타"
+        ],
+        "cosine_to_centroid": 0.8862929344177246
+      },
+      {
+        "application_number": "1020200089146",
+        "title": "증강현실 콘텐츠 기반 작업관리 시스템 및 방법(SYSTEM AND METHOD FOR AUGMENTED REALITY CONTENT-BASED WORK MANAGEMENT)",
+        "ipc": [
+          "G06Q",
+          "G06T"
+        ],
+        "fields": [
+          "기타"
+        ],
+        "cosine_to_centroid": 0.8852571249008179
+      }
+    ],
+    "boundary_titles": [
+      "웹 환경에서 구현되는 수중탐사장비의 3차원 시뮬레이션 시스템(3D simulation system of underwater information searching machine managing on web)",
+      "실물 객체에 대한 정밀한 추적을 위해 카메라 모듈의 내부 및 외부 파라미터를 계산하는 자동화된 캘리브레이션 시스템, 캘리브레이션 방법 및 캘리브레이션 방법을 기초로 이미지 내에서 실물 객체를 추적하고 실물 객체에 가상 모델을 증강하는 방법(An automated calibration system for calculating intrinsic parameter and extrinsic parameter of a camera module for precise tracking a real object, a calibration method, and a method for tracking a real object in an image based on the calibration method and augmenting a virtual model on the real object)",
+      "타겟 객체의 디지털 모델로부터 에지의 특성을 검출하고 샘플 포인트를 설정하여 타겟 객체를 학습하는 방법 및 이를 이용하여 타켓 객체를 구현한 실물 객체에 가상 모델을 증강하는 방법(A method for learning a target object by detecting an edge from a digital model of the target object and setting sample points, and a method for augmenting a virtual model on a real object implementing the target object using the same)"
+    ],
+    "top_ipc": {
+      "G06T": 21.126190476190473,
+      "G06F": 8.566666666666665,
+      "G06Q": 8.342857142857142,
+      "H04N": 6.333333333333333,
+      "G02B": 2.676190476190476
+    },
+    "top_fields": {
+      "기타": 48.0,
+      "로봇": 4.0,
+      "드론": 2.0,
+      "인공지능": 2.0,
+      "우주": 2.0
+    },
+    "top_companies": {
+      "버넥트": 48,
+      "포멀웍스": 4,
+      "ANH스트럭쳐": 2,
+      "딥엑스": 2,
+      "소나테크": 1
+    },
+    "year_counts": {
+      "2011": 1,
+      "2014": 1,
+      "2017": 11,
+      "2018": 8,
+      "2019": 12,
+      "2020": 4,
+      "2021": 5,
+      "2022": 9,
+      "2023": 7,
+      "2025": 2
+    },
+    "mean_cosine_to_centroid": 0.8136292099952698,
+    "cluster_persistence": 0.556352212594196
+  },
+  {
+    "cluster": 22,
+    "n": 56,
+    "share_pct": 1.5465341066003866,
+    "label": "혼합 기술군",
+    "representatives": [
+      {
+        "application_number": "1020180033512",
+        "title": "케이블 커넥터 및 이를 포함하는 케이블 조립체(Cable connector and cable assembly having the same)",
+        "ipc": [
+          "H01R"
+        ],
+        "fields": [
+          "드론"
+        ],
+        "cosine_to_centroid": 0.8906992077827454
+      },
+      {
+        "application_number": "1020210060259",
+        "title": "RF 커넥터 및 이를 이용하는 디바이스 연결 방법(RF CONNECTOR AND METHOD FOR CONNECTING DEVICES USING SAME)",
+        "ipc": [
+          "H01R"
+        ],
+        "fields": [
+          "드론"
+        ],
+        "cosine_to_centroid": 0.8832412958145142
+      },
+      {
+        "application_number": "1020200062337",
+        "title": "리셉터클 커넥터와 플러그 커넥터를 포함하는 커넥터 조립체(Connector assembly including receptacle connector and plug connector)",
+        "ipc": [
+          "H01R"
+        ],
+        "fields": [
+          "드론"
+        ],
+        "cosine_to_centroid": 0.8638978004455566
+      },
+      {
+        "application_number": "1020210006556",
+        "title": "리셉터클 커넥터에 결합되는 플러그 커넥터(Plug connector coupled to receptacle connector)",
+        "ipc": [
+          "H01R"
+        ],
+        "fields": [
+          "드론"
+        ],
+        "cosine_to_centroid": 0.8522114753723145
+      },
+      {
+        "application_number": "1020230100299",
+        "title": "RF 커넥터(RF CONNECTOR)",
+        "ipc": [
+          "H01R"
+        ],
+        "fields": [
+          "드론"
+        ],
+        "cosine_to_centroid": 0.8518891334533691
+      },
+      {
+        "application_number": "1020210038871",
+        "title": "리셉터클 커넥터에 결합되는 플러그 커넥터(Plug connector coupled to receptacle connector)",
+        "ipc": [
+          "H01R"
+        ],
+        "fields": [
+          "드론"
+        ],
+        "cosine_to_centroid": 0.8517297506332397
+      },
+      {
+        "application_number": "1020230100300",
+        "title": "RF 커넥터조립체(RF CONNECTOR ASSEMBLY)",
+        "ipc": [
+          "H01R"
+        ],
+        "fields": [
+          "드론"
+        ],
+        "cosine_to_centroid": 0.8466019034385681
+      },
+      {
+        "application_number": "1020240065894",
+        "title": "커넥터(CONNECTOR)",
+        "ipc": [
+          "H01R"
+        ],
+        "fields": [
+          "드론"
+        ],
+        "cosine_to_centroid": 0.8451857566833496
+      }
+    ],
+    "boundary_titles": [
+      "랫-레이스 회로(Rat-Race Circuit)",
+      "IP 카메라 선로용 HEMP 필터 장치(HEMP Filter for IP Camera Line)",
+      "차량 무선기기용 전원 안정화 필터(Power stabilization filter for wireless devices in vehicles)"
+    ],
+    "top_ipc": {
+      "H01R": 37.0,
+      "G01R": 4.0,
+      "H01P": 3.5,
+      "H02G": 1.8333333333333333,
+      "H03H": 1.5
+    },
+    "top_fields": {
+      "드론": 43.0,
+      "우주": 4.0,
+      "반도체": 4.0,
+      "인공지능": 3.0,
+      "기타": 1.0
+    },
+    "top_companies": {
+      "센서뷰": 42,
+      "부전전자": 3,
+      "아이스펙": 3,
+      "웨이비스": 2,
+      "극동통신": 1
+    },
+    "year_counts": {
+      "2004": 1,
+      "2006": 1,
+      "2012": 2,
+      "2016": 1,
+      "2018": 4,
+      "2019": 7,
+      "2020": 8,
+      "2021": 14,
+      "2022": 3,
+      "2023": 10,
+      "2024": 4,
+      "2026": 1
+    },
+    "mean_cosine_to_centroid": 0.7748168110847473,
+    "cluster_persistence": 0.24181276152987372
+  },
+  {
+    "cluster": 23,
+    "n": 53,
+    "share_pct": 1.463684065175366,
+    "label": "혼합 기술군",
+    "representatives": [
+      {
+        "application_number": "1020210078660",
+        "title": "3D 점군 데이터 일괄 처리 방법(Batch processing method of 3D points group, and computer program recorded on record-medium for executing method thereof)",
+        "ipc": [
+          "G01S",
+          "G06N",
+          "G06T"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8861994743347168
+      },
+      {
+        "application_number": "1020240055470",
+        "title": "3차원 바운딩 박스 데이터 생성 방법 및 시스템(METHOD AND SYSTEM FOR GENERATING 3-DIMENTIONAL BOUNDING BOX DATA)",
+        "ipc": [
+          "G06T"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8847649097442627
+      },
+      {
+        "application_number": "1020240063998",
+        "title": "3차원 모델 생성 장치 및 방법(Apparatus and method for generating three-dimensional model)",
+        "ipc": [
+          "G06T"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8823816776275635
+      },
+      {
+        "application_number": "1020230169406",
+        "title": "3차원 공간 데이터를 생성하는 전자 장치 및 방법(ELECTRONIC DEVICE AND METHOD FOR CREATING 3-DIMENSIONAL SPACE DATA)",
+        "ipc": [
+          "G06T"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8817726373672485
+      },
+      {
+        "application_number": "1020240105244",
+        "title": "3차원 바운딩 박스 생성 방법 및 시스템(METHOD AND SYSTEM FOR GENERATING 3-DIMENSIONAL BOUNDING BOX)",
+        "ipc": [
+          "G06T"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8793159127235413
+      },
+      {
+        "application_number": "1020240056177",
+        "title": "3차원 바운딩 박스 생성 방법 및 시스템(METHOD AND SYSTEM FOR GENERATING 3-DIMENSIONAL BOUNDING BOX)",
+        "ipc": [
+          "G06T"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8790842294692993
+      },
+      {
+        "application_number": "1020230085060",
+        "title": "3D 모델링 장치 및 방법(3D MODELING APPARATUS AND METHOD)",
+        "ipc": [
+          "G06T"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8790677785873413
+      },
+      {
+        "application_number": "1020210078651",
+        "title": "3D 점군 데이터 전처리 방법(Preprocessing method of 3D points group, and computer program recorded on record-medium for executing method thereof)",
+        "ipc": [
+          "G01S",
+          "G06V"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8778905868530273
+      }
+    ],
+    "boundary_titles": [
+      "전자해도 좌표 체계 및 텍스쳐 매핑에 의한 객체 표현이 가능한 3차원 전자해도 시스템(system for generating 3 dimensional electronic nautical chart capable of expressing object using electronic nautical chart coordinates and texture mapping)",
+      "전자해도 면 객체의 삼각화 표현이 가능한 3차원 전자해도 시스템(system for generating 3 dimensional electronic nautical chart capable of expressing triangulated area object)",
+      "2D 경로 추론을 통한 동일 객체 추적 방법 및 이를 실행하기 위하여 기록매체에 기록된 컴퓨터 프로그램(Method for tracking object through 2D path inference, and computer program recorded on record-medium for executing method therefor)"
+    ],
+    "top_ipc": {
+      "G06T": 24.75,
+      "G01S": 6.666666666666666,
+      "G06N": 4.666666666666667,
+      "G06V": 4.333333333333334,
+      "B22F": 1.5833333333333333
+    },
+    "top_fields": {
+      "인공지능": 40.0,
+      "기타": 5.0,
+      "우주": 4.0,
+      "드론": 2.0,
+      "로봇": 2.0
+    },
+    "top_companies": {
+      "인피닉": 20,
+      "모라이": 9,
+      "다비오": 6,
+      "하나에이엠티": 4,
+      "버넥트": 3
+    },
+    "year_counts": {
+      "2000": 1,
+      "2011": 2,
+      "2016": 2,
+      "2017": 2,
+      "2018": 3,
+      "2019": 1,
+      "2020": 1,
+      "2021": 16,
+      "2022": 2,
+      "2023": 11,
+      "2024": 12
+    },
+    "mean_cosine_to_centroid": 0.801140308380127,
+    "cluster_persistence": 0.21457325816702263
+  },
+  {
+    "cluster": 24,
+    "n": 48,
+    "share_pct": 1.3256006628003314,
+    "label": "혼합 기술군",
+    "representatives": [
+      {
+        "application_number": "1020190074237",
+        "title": "복수개의 유전체 블럭을 포함하는 세라믹 도파관 필터(Ceramin Waveguide Filter Including Muliple Dielectric Blocks)",
+        "ipc": [
+          "H01P"
+        ],
+        "fields": [
+          "드론"
+        ],
+        "cosine_to_centroid": 0.8345771431922913
+      },
+      {
+        "application_number": "1020010034597",
+        "title": "비방사 유전체 도파관을 이용한 금속 포스트 필터 조립체(METAL POST FILTER ASSEMBLY USING NON-RADIATIVEDIELECTRIC WAVEGUIDE)",
+        "ipc": [
+          "H01P"
+        ],
+        "fields": [
+          "우주"
+        ],
+        "cosine_to_centroid": 0.8242266178131104
+      },
+      {
+        "application_number": "1020180073438",
+        "title": "RF 트랜지스터 패키지 및 이의 제조방법(RF TRANSISTOR PACKAGE AND FABRICATING METHOD OF THE SAME)",
+        "ipc": [
+          "H10W"
+        ],
+        "fields": [
+          "반도체"
+        ],
+        "cosine_to_centroid": 0.822268545627594
+      },
+      {
+        "application_number": "1020200052518",
+        "title": "고주파 반도체 소자 패키지 및 그 제조 방법(A HIGH FREQUENCY SEMICONDUCTOR DEVICE PACKAGE AND A FABRICATING METHOD THEREOF)",
+        "ipc": [
+          "H10W"
+        ],
+        "fields": [
+          "반도체"
+        ],
+        "cosine_to_centroid": 0.8216110467910767
+      },
+      {
+        "application_number": "1020030087344",
+        "title": "도파관형 하이브리드 결합기를 갖는 비방사 유전체 도파관변조장치(NON-RADIATIVE DIELECTRIC WAVEGUIDE MODULATOR HAVING AWAVEGUIDE TYPE HYBRID COUPLER)",
+        "ipc": [
+          "H01P"
+        ],
+        "fields": [
+          "우주"
+        ],
+        "cosine_to_centroid": 0.8147271871566772
+      },
+      {
+        "application_number": "1020250146832",
+        "title": "PCB 결합형 캐비티 RF 필터(PRINTED CIRCUIT BORAD-COUPLED CAVITY RADIO FREQUENCY FILTER)",
+        "ipc": [
+          "H01P",
+          "H05K"
+        ],
+        "fields": [
+          "드론"
+        ],
+        "cosine_to_centroid": 0.8126095533370972
+      },
+      {
+        "application_number": "1020250023028",
+        "title": "PCB 결합형 캐비티 RF 필터(PRINTED CIRCUIT BORAD-COUPLED CAVITY RADIO FREQUENCY FILTER)",
+        "ipc": [
+          "H01P",
+          "H05K"
+        ],
+        "fields": [
+          "드론"
+        ],
+        "cosine_to_centroid": 0.8119691014289856
+      },
+      {
+        "application_number": "1020010002117",
+        "title": "비방사 유전체 도파관을 이용한 국부발진기(Local Oscillator Using Non-Radiative DielectricWaveguide)",
+        "ipc": [
+          "H01P"
+        ],
+        "fields": [
+          "우주"
+        ],
+        "cosine_to_centroid": 0.8103554844856262
+      }
+    ],
+    "boundary_titles": [
+      "CMOS 오실레이터를 포함하는 크리스털-프리 블루투스 IC, 및 상기 블루투스 IC를 포함하는 블루투스 패키지(CRYSTAL-FREE BLUETOOTH INTEGRATED CHIP INCLUDING CMOS OSCILLATOR, AND BLUETOOTH PACKAGE INCLUDING THE SAME)",
+      "패키지 레벨에서 온도 모니터링이 가능한 알에프 소자 패키지(RF Device Package capable of monitoring Temperature at Package Level)",
+      "엔알디가이드와 구형도파관의 직접접속방법과 이를 위한엔알디가이드(Method for coupling an NRD waveguide with arectangular waveguide directly and NRD waveguidethereof)"
+    ],
+    "top_ipc": {
+      "H01P": 18.5,
+      "H10W": 8.583333333333334,
+      "G06K": 4.5,
+      "H04B": 3.5,
+      "H05K": 2.0
+    },
+    "top_fields": {
+      "반도체": 21.0,
+      "드론": 16.0,
+      "우주": 11.0
+    },
+    "top_companies": {
+      "웨이브피아": 12,
+      "코모텍": 10,
+      "모아컴코리아": 10,
+      "RFHIC": 7,
+      "빅텍": 4
+    },
+    "year_counts": {
+      "2001": 5,
+      "2002": 2,
+      "2003": 3,
+      "2007": 3,
+      "2010": 1,
+      "2016": 3,
+      "2017": 1,
+      "2018": 5,
+      "2019": 8,
+      "2020": 8,
+      "2021": 2,
+      "2022": 3,
+      "2024": 2,
+      "2025": 2
+    },
+    "mean_cosine_to_centroid": 0.7251009941101074,
+    "cluster_persistence": 0.02438400872091824
+  },
+  {
+    "cluster": 25,
+    "n": 46,
+    "share_pct": 1.2703673018503174,
+    "label": "혼합 기술군",
+    "representatives": [
+      {
+        "application_number": "1020030089088",
+        "title": "전기-음향변환장치의 진동체 제조방법(METHOD FOR FABRICATING BIVRATOR OF ELECTRO-ACOUSTICTRANSDUCER)",
+        "ipc": [
+          "H04R"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.9130449295043945
+      },
+      {
+        "application_number": "2020030017584",
+        "title": "전기-음향변환장치(ELECTRIC-ACOUSTIC TRNSDUCER)",
+        "ipc": [
+          "H04R"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.890681266784668
+      },
+      {
+        "application_number": "1020020004656",
+        "title": "전기음향변환장치(ELECTRO-ACOUSTIC TRANSDUCER)",
+        "ipc": [
+          "H04R"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8891024589538574
+      },
+      {
+        "application_number": "1020020004655",
+        "title": "전기음향변환장치(ELECTRO-ACOUSTIC TRANSDUCER)",
+        "ipc": [
+          "H04R"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8891024589538574
+      },
+      {
+        "application_number": "1020020012127",
+        "title": "전기음향변환장치(ELECTRO-ACOUSTIC TRANSDUCER)",
+        "ipc": [
+          "H04R"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8891024589538574
+      },
+      {
+        "application_number": "2020040000088",
+        "title": "전기음향변환장치(ELECTRO-ACOUSTIC TRANSDUCER)",
+        "ipc": [
+          "H04R"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8889195919036865
+      },
+      {
+        "application_number": "2020020002541",
+        "title": "전기음향변환장치(ELECTRO-ACOUSTIC TRANSDUCER)",
+        "ipc": [
+          "H04R"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8889195919036865
+      },
+      {
+        "application_number": "2020020002540",
+        "title": "전기음향변환장치(ELECTRO-ACOUSTIC TRANSDUCER)",
+        "ipc": [
+          "H04R"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8889195919036865
+      }
+    ],
+    "boundary_titles": [
+      "장방형 수직 선형 엑츄에이터(vertical linear type rectangular actuator)",
+      "수평형 리니어 진동기(Linear type vibration motor vibrated horizontally)",
+      "컨틸레버형 진동발생기(CANTILEVER TYPE VIBRATOR)"
+    ],
+    "top_ipc": {
+      "H04R": 26.28333333333333,
+      "H02K": 9.166666666666668,
+      "B06B": 2.9166666666666665,
+      "H04M": 2.5,
+      "H10N": 1.3333333333333333
+    },
+    "top_fields": {
+      "인공지능": 38.0,
+      "기타": 6.0,
+      "드론": 2.0
+    },
+    "top_companies": {
+      "부전전자": 38,
+      "아이블포토닉스": 5,
+      "코모텍": 1,
+      "소나테크": 1,
+      "아이디케이": 1
+    },
+    "year_counts": {
+      "2002": 6,
+      "2003": 3,
+      "2004": 6,
+      "2006": 2,
+      "2009": 1,
+      "2011": 1,
+      "2012": 2,
+      "2013": 4,
+      "2014": 3,
+      "2015": 4,
+      "2016": 2,
+      "2017": 2,
+      "2018": 5,
+      "2019": 3,
+      "2021": 1,
+      "2024": 1
+    },
+    "mean_cosine_to_centroid": 0.811358630657196,
+    "cluster_persistence": 0.044203189017665026
+  },
+  {
+    "cluster": 26,
+    "n": 46,
+    "share_pct": 1.2703673018503174,
+    "label": "혼합 기술군",
+    "representatives": [
+      {
+        "application_number": "1020240037550",
+        "title": "액화수소 공급 시스템(LIQUIFIED HYDROGEN SUPPLY SYSTEM)",
+        "ipc": [
+          "F17C"
+        ],
+        "fields": [
+          "드론"
+        ],
+        "cosine_to_centroid": 0.8830621242523193
+      },
+      {
+        "application_number": "1020220101499",
+        "title": "냉각장치를 이용한 초저온 증류시스템(Cryogenic Distillation System Using Cooling Device)",
+        "ipc": [
+          "F25J"
+        ],
+        "fields": [
+          "드론"
+        ],
+        "cosine_to_centroid": 0.8741114735603333
+      },
+      {
+        "application_number": "1020200071083",
+        "title": "극저온 수소저장용기의 열 유입 차단 장치(Apparatus for Heat Blocking in Cryogenic Hydrogen Storage Tank)",
+        "ipc": [
+          "F17C"
+        ],
+        "fields": [
+          "드론"
+        ],
+        "cosine_to_centroid": 0.860981822013855
+      },
+      {
+        "application_number": "1020220107392",
+        "title": "냉각장치 및 저장장치를 이용한 초저온 증류시스템(Cryogenic Distillation System Using Cooling Device and Storage Device)",
+        "ipc": [
+          "F25J"
+        ],
+        "fields": [
+          "드론"
+        ],
+        "cosine_to_centroid": 0.8526378273963928
+      },
+      {
+        "application_number": "1020200038854",
+        "title": "수소 액화시스템(HYDROGEN LIQUEFACTION SYSTEM)",
+        "ipc": [
+          "F25J"
+        ],
+        "fields": [
+          "드론"
+        ],
+        "cosine_to_centroid": 0.8433015942573547
+      },
+      {
+        "application_number": "1020200038825",
+        "title": "수소 액화시스템(HYDROGEN LIQUEFACTION SYSTEM)",
+        "ipc": [
+          "F17C",
+          "F25B",
+          "F25J"
+        ],
+        "fields": [
+          "드론"
+        ],
+        "cosine_to_centroid": 0.8433015942573547
+      },
+      {
+        "application_number": "1020230052263",
+        "title": "암모니아 예냉 방식을 이용한 수소 액화 시스템(Hydrogen Liquefaction System Using Ammonia Pre-Cooling Method)",
+        "ipc": [
+          "F25J"
+        ],
+        "fields": [
+          "드론"
+        ],
+        "cosine_to_centroid": 0.8412275314331055
+      },
+      {
+        "application_number": "1020240037545",
+        "title": "액화수소 저장 용기(LIQUID HYDROGEN STORAGE CONTAINER)",
+        "ipc": [
+          "F17C"
+        ],
+        "fields": [
+          "드론"
+        ],
+        "cosine_to_centroid": 0.8368322253227234
+      }
+    ],
+    "boundary_titles": [
+      "탄소 포집을 위한 블루카본 리포트 생성 방법 및 시스템(METHOD AND SYSTEM FOR GENERATE BLUE CARBON REPORT FOR CARBON CAPTURE)",
+      "랙 콘덴싱 타입 냉각 시스템(Rack Condensing Type Cooling System)",
+      "삼중 극저온 유체이송관(TRIPLE CRYOGENIC FLUID DELIVERY LINERS)"
+    ],
+    "top_ipc": {
+      "F25J": 15.5,
+      "F17C": 8.7,
+      "B01D": 3.0833333333333335,
+      "H05K": 2.0,
+      "F02C": 1.75
+    },
+    "top_fields": {
+      "드론": 34.0,
+      "기타": 7.0,
+      "우주": 3.0,
+      "인공지능": 1.0,
+      "반도체": 1.0
+    },
+    "top_companies": {
+      "패리티": 34,
+      "성신디펜스솔루션": 5,
+      "하나에이엠티": 2,
+      "스탠다드시험연구소": 2,
+      "스텝랩": 1
+    },
+    "year_counts": {
+      "2014": 2,
+      "2015": 1,
+      "2016": 2,
+      "2017": 1,
+      "2019": 1,
+      "2020": 10,
+      "2021": 1,
+      "2022": 10,
+      "2023": 6,
+      "2024": 10,
+      "2025": 2
+    },
+    "mean_cosine_to_centroid": 0.7559299468994141,
+    "cluster_persistence": 0.4081885183005075
+  },
+  {
+    "cluster": 27,
+    "n": 43,
+    "share_pct": 1.1875172604252968,
+    "label": "혼합 기술군",
+    "representatives": [
+      {
+        "application_number": "1020230096560",
+        "title": "유전상수 저하가 적은 단결정 압전체(PIEZOELECTRIC BODY OF SINGLE CRYSTAL WITH LOW REDUCTION OF DIELECTRIC CONSTANT)",
+        "ipc": [
+          "H10N"
+        ],
+        "fields": [
+          "기타"
+        ],
+        "cosine_to_centroid": 0.8750444650650024
+      },
+      {
+        "application_number": "1020040031838",
+        "title": "압전특성 측정방법(Method for measuring piezoelectricity)",
+        "ipc": [
+          "H01L",
+          "H10N"
+        ],
+        "fields": [
+          "반도체"
+        ],
+        "cosine_to_centroid": 0.8696696162223816
+      },
+      {
+        "application_number": "1020060012651",
+        "title": "압전특성 측정장치(Apparatus for measuring piezoelectricity)",
+        "ipc": [
+          "H01L",
+          "H03F",
+          "H10N"
+        ],
+        "fields": [
+          "반도체"
+        ],
+        "cosine_to_centroid": 0.8693539500236511
+      },
+      {
+        "application_number": "1020070132402",
+        "title": "압전성 단결정 성장 방법(THE GROWING METHOD OF PIEZOELECTRIC SINGLE CRYSTAL)",
+        "ipc": [
+          "C30B"
+        ],
+        "fields": [
+          "기타"
+        ],
+        "cosine_to_centroid": 0.8662310838699341
+      },
+      {
+        "application_number": "1020200081561",
+        "title": "압전 단결정 소자, 이를 이용한 멤스 디바이스 및 그 제조방법(PIEZOELECTRIC SINGLECRYSTAL ELEMENT, MICRO-ELECTROMECHANICAL DEVICE INCLUDING SAME AND METHOD FOR MANUFACTURING THEREOF)",
+        "ipc": [
+          "H10N"
+        ],
+        "fields": [
+          "기타"
+        ],
+        "cosine_to_centroid": 0.8557304739952087
+      },
+      {
+        "application_number": "1020180092493",
+        "title": "압전소자 및 이를 이용한 트랜스듀서(Piezoelectric element, and Transducer using the same)",
+        "ipc": [
+          "H10N"
+        ],
+        "fields": [
+          "기타"
+        ],
+        "cosine_to_centroid": 0.8555088043212891
+      },
+      {
+        "application_number": "1020030063376",
+        "title": "압전 단결정을 이용한 액추에이터(Fabrication of actuator using piezoelectric singlecrystal)",
+        "ipc": [
+          "H02N",
+          "H10N"
+        ],
+        "fields": [
+          "기타"
+        ],
+        "cosine_to_centroid": 0.8533875942230225
+      },
+      {
+        "application_number": "1020200007132",
+        "title": "피에조 방식의 압전센서(A piezoelectric sensor)",
+        "ipc": [
+          "H01R",
+          "H10N"
+        ],
+        "fields": [
+          "기타"
+        ],
+        "cosine_to_centroid": 0.8485112190246582
+      }
+    ],
+    "boundary_titles": [
+      "고주파형 초음파 센서(High Frequency Type Ultrasonic Sensor)",
+      "Y cut LiNbO3을 이용한 전단용 트랜스듀서(A transducer for shear mode using Y cut LiNbO3)",
+      "분광학적 타원해석법을 이용하여 강유전체 단결정의물리적 물성을 측정하기 위한 장치 및 방법(APPARATUS AND METHOD FOR DETERMINING PHYSICALPROPERTIES OF FERROELECTRIC SINGLE CRYSTAL USINGSPECTROSCOPIC ELLIPSOMETRY)"
+    ],
+    "top_ipc": {
+      "H10N": 17.5,
+      "G01N": 3.25,
+      "H01L": 2.833333333333333,
+      "A61B": 2.5833333333333335,
+      "H01G": 2.5
+    },
+    "top_fields": {
+      "기타": 34.0,
+      "반도체": 9.0
+    },
+    "top_companies": {
+      "아이블포토닉스": 30,
+      "웨이브로드": 7,
+      "삼정오토메이션": 3,
+      "아이쓰리시스템": 2,
+      "아이디케이": 1
+    },
+    "year_counts": {
+      "2000": 2,
+      "2001": 2,
+      "2003": 6,
+      "2004": 3,
+      "2005": 1,
+      "2006": 2,
+      "2007": 1,
+      "2009": 1,
+      "2011": 2,
+      "2012": 1,
+      "2013": 1,
+      "2014": 2,
+      "2015": 1,
+      "2016": 1,
+      "2018": 1,
+      "2019": 3,
+      "2020": 5,
+      "2021": 1,
+      "2022": 4,
+      "2023": 2,
+      "2025": 1
+    },
+    "mean_cosine_to_centroid": 0.7987080216407776,
+    "cluster_persistence": 0.2774860508548809
+  },
+  {
+    "cluster": 28,
+    "n": 43,
+    "share_pct": 1.1875172604252968,
+    "label": "혼합 기술군",
+    "representatives": [
+      {
+        "application_number": "1020240157081",
+        "title": "자율 주행 알고리즘의 성능 평가 방법 및 이를 지원하는 전자 장치(METHOD FOR EVALUATING PERFORMANCE OF AUTONOMOUS DRIVING ALGORITHM AND ELECTRONIC DEVICE SUPPORTING THE SAME)",
+        "ipc": [
+          "B60W",
+          "G06F"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8736679553985596
+      },
+      {
+        "application_number": "1020240151164",
+        "title": "주행 시뮬레이션 데이터를 생성하는 방법 및 시스템(METHOD AND SYSTEM FOR GENERATING DRIVING SIMULATION DATA)",
+        "ipc": [
+          "B60W",
+          "G01S",
+          "G06T"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8736340999603271
+      },
+      {
+        "application_number": "1020230169347",
+        "title": "무인 이동체의 주행 시뮬레이션 환경 생성 방법 및 시스템(METHOD AND SYSTEM FOR GENERATING DRIVING SIMULATION EVIRONMENT FOR UNMANNED VEHICLE)",
+        "ipc": [
+          "G06F"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8721333742141724
+      },
+      {
+        "application_number": "1020220175692",
+        "title": "자율주행 시뮬레이션을 위한 3차원 가상 환경 정보 표시 방법 및 시스템(METHOD AND SYSTEM FOR DISPLAYING 3-DIMENSIONAL VIRTUAL ENVIRONMENT INFORMATION FOR AUTONOMOUS DRIVING SIMULATION)",
+        "ipc": [
+          "G05B",
+          "G06F",
+          "G06T"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8711845874786377
+      },
+      {
+        "application_number": "1020200001206",
+        "title": "가상환경에서의 자율주행차량 시뮬레이션 방법(AUTONOMOUS VEHICLE SIMULATION METHOD IN VIRTUAL ENVIRONMENT)",
+        "ipc": [
+          "G06F"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8697447776794434
+      },
+      {
+        "application_number": "1020220166817",
+        "title": "시나리오 기반 자율 주행 이동체 시뮬레이션 방법 및 시스템(METHOD AND SYSTEM FOR AUTONOMOUS DRIVING OBJECT SIMULATION BASED ON SCENARIO)",
+        "ipc": [
+          "G05B",
+          "G06F"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8618353605270386
+      },
+      {
+        "application_number": "1020240074535",
+        "title": "차량 주행 패턴 분석 방법 및 시스템(METHOD AND SYSTEM FOR ANALYZING DRIVING PATTERNS)",
+        "ipc": [
+          "B60W"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8568469285964966
+      },
+      {
+        "application_number": "1020220135009",
+        "title": "자율주행 서비스 검증을 위한 가상 환경 생성 방법 및 시스템(METHOD AND SYSTEM FOR GENERATING VIRTUAL ENVIRONMENT TO VERIFY AUTONOMOUS DRIVING SERVICE)",
+        "ipc": [
+          "G01C",
+          "G06T"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8536209464073181
+      }
+    ],
+    "boundary_titles": [
+      "자동차의 주변 상황이 위험상황인지를 판단하고 주행가이드를 생성하여 경보하여 주는 방법 및 이를 이용한 장치(METHOD FOR ALERTING WHEN SURROUNDING SITUATION OF CAR IS DANGEROUS SITUATION BY DRIVING GUIDE, AND DEVICE USING THE SAME)",
+      "차량 좌회전 감응신호 제어방법 및 장치(A sensitive left turn signal control method and the device in use with)",
+      "다이내믹 시뮬레이션용 2축 모션 베이스(TWO AXIS MOTION BASE FOR DYNAMIC SIMULATION)"
+    ],
+    "top_ipc": {
+      "G06F": 9.0,
+      "B60W": 7.583333333333332,
+      "G06T": 5.833333333333333,
+      "G01C": 3.9166666666666665,
+      "G08G": 3.1666666666666665
+    },
+    "top_fields": {
+      "인공지능": 30.0,
+      "로봇": 6.0,
+      "우주": 4.0,
+      "기타": 3.0
+    },
+    "top_companies": {
+      "모라이": 26,
+      "마이크로인피니티": 4,
+      "두시텍": 3,
+      "포멀웍스": 2,
+      "이오시스템": 2
+    },
+    "year_counts": {
+      "2001": 2,
+      "2002": 2,
+      "2007": 1,
+      "2010": 2,
+      "2011": 1,
+      "2012": 1,
+      "2014": 2,
+      "2018": 2,
+      "2019": 1,
+      "2020": 2,
+      "2021": 2,
+      "2022": 10,
+      "2023": 5,
+      "2024": 9,
+      "2026": 1
+    },
+    "mean_cosine_to_centroid": 0.8114854693412781,
+    "cluster_persistence": 0.1114624481783259
+  },
+  {
+    "cluster": 29,
+    "n": 41,
+    "share_pct": 1.132283899475283,
+    "label": "혼합 기술군",
+    "representatives": [
+      {
+        "application_number": "1020150020147",
+        "title": "사용자 적응형 모바일 디바이스 제어 방법 및 시스템(USER ADAPTIVE METHOD AND SYSTEM FOR CONTROLLING MOBILE DEVICE)",
+        "ipc": [
+          "G06F"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.878748893737793
+      },
+      {
+        "application_number": "1020040078978",
+        "title": "동적 장치 제어 방법 및 그 장치(METHOD FOR CONTROLLING A DYNAMIC APPARATUS ANDAPPARARTUS THEREOF)",
+        "ipc": [
+          "G05D"
+        ],
+        "fields": [
+          "로봇"
+        ],
+        "cosine_to_centroid": 0.8728430271148682
+      },
+      {
+        "application_number": "1020080075103",
+        "title": "조절 장치 및 방법(Apparatus and Method for Controlling Display Devices)",
+        "ipc": [
+          "G06F"
+        ],
+        "fields": [
+          "로봇"
+        ],
+        "cosine_to_centroid": 0.8683953881263733
+      },
+      {
+        "application_number": "1020090044115",
+        "title": "사용자 명령 입력 장치(Apparatus for inputting user command)",
+        "ipc": [
+          "G06F",
+          "H04Q"
+        ],
+        "fields": [
+          "로봇"
+        ],
+        "cosine_to_centroid": 0.848686933517456
+      },
+      {
+        "application_number": "1020230083294",
+        "title": "개인화된 패턴 기반 장치 제어 시스템 및 장치 제어 방법(Personalized pattern-based device control system and device control method)",
+        "ipc": [
+          "G06F",
+          "G06N",
+          "G06V"
+        ],
+        "fields": [
+          "로봇"
+        ],
+        "cosine_to_centroid": 0.8428049683570862
+      },
+      {
+        "application_number": "1020120061026",
+        "title": "터치 컨트롤러, 이의 동작 방법 및 이를 포함하는 시스템(Touch controller, method thereof, and system having the touch controller)",
+        "ipc": [
+          "G06F",
+          "H03K"
+        ],
+        "fields": [
+          "로봇"
+        ],
+        "cosine_to_centroid": 0.8426754474639893
+      },
+      {
+        "application_number": "1020120114778",
+        "title": "단말 장치 제어 방법, 장치 및 시스템(Method, Device and System for Controlling a Terminal Device)",
+        "ipc": [
+          "H04M",
+          "H04W"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8378576040267944
+      },
+      {
+        "application_number": "1020150020149",
+        "title": "제어 요구 어플리케이션의 영역을 표시하는 장치 및 방법(AN APPARATUS FOR DISPLAYING AREA OF APPLICATIOIN REQUIRING CONTROL)",
+        "ipc": [
+          "G06F"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8306746482849121
+      }
+    ],
+    "boundary_titles": [
+      "개량 커패시턴스 터치스크린(Capacitance touch screen)",
+      "1차원 터치포인트 포지셔닝 커패시턴스 터치스크린(1-Dimensional touchpoint positioning capacitance touch screen)",
+      "프로젝터를 구비한 모바일 기기 및 모바일 기기에 구비된 프로젝터가 투사하는 영상을 제어하는 방법(Mobile device including a projector and method for controlling images projected by a projector included in a mobile device)"
+    ],
+    "top_ipc": {
+      "G06F": 17.0,
+      "G06N": 3.5833333333333335,
+      "G05B": 2.75,
+      "G05D": 1.75,
+      "H04N": 1.5833333333333333
+    },
+    "top_fields": {
+      "로봇": 19.0,
+      "인공지능": 15.0,
+      "기타": 3.0,
+      "드론": 2.0,
+      "반도체": 1.0
+    },
+    "top_companies": {
+      "마키나락스": 9,
+      "마이크로인피니티": 8,
+      "케이알엠": 7,
+      "마크애니": 3,
+      "링크플로우": 3
+    },
+    "year_counts": {
+      "2004": 1,
+      "2006": 1,
+      "2008": 1,
+      "2009": 2,
+      "2010": 4,
+      "2012": 4,
+      "2013": 1,
+      "2014": 4,
+      "2015": 3,
+      "2016": 1,
+      "2018": 1,
+      "2019": 4,
+      "2020": 4,
+      "2021": 2,
+      "2022": 5,
+      "2023": 2,
+      "2025": 1
+    },
+    "mean_cosine_to_centroid": 0.7845221757888794,
+    "cluster_persistence": 0.047434279062576815
+  },
+  {
+    "cluster": 30,
+    "n": 38,
+    "share_pct": 1.0494338580502625,
+    "label": "혼합 기술군",
+    "representatives": [
+      {
+        "application_number": "1020120016975",
+        "title": "거리 측정 장치(Distance measuring apparatus)",
+        "ipc": [
+          "G01S"
+        ],
+        "fields": [
+          "로봇"
+        ],
+        "cosine_to_centroid": 0.9396400451660156
+      },
+      {
+        "application_number": "1020190169501",
+        "title": "거리 측정 장치(DISTANCE MEASURING DEVICE)",
+        "ipc": [
+          "B60W",
+          "G01S",
+          "H01S"
+        ],
+        "fields": [
+          "로봇"
+        ],
+        "cosine_to_centroid": 0.9378623366355896
+      },
+      {
+        "application_number": "1020190171660",
+        "title": "거리 측정 장치(DISTANCE MEASURING DEVICE)",
+        "ipc": [
+          "G01S",
+          "H01S"
+        ],
+        "fields": [
+          "로봇"
+        ],
+        "cosine_to_centroid": 0.9378623366355896
+      },
+      {
+        "application_number": "1020250136051",
+        "title": "거리 측정 장치(DISTANCE MEASURING DEVICE)",
+        "ipc": [
+          "G01S",
+          "H01S"
+        ],
+        "fields": [
+          "로봇"
+        ],
+        "cosine_to_centroid": 0.9378623366355896
+      },
+      {
+        "application_number": "1020090035235",
+        "title": "거리 측정 장치 및 방법(Device and method for measuring distance)",
+        "ipc": [
+          "G01B",
+          "G01C",
+          "G01S",
+          "G02B"
+        ],
+        "fields": [
+          "기타"
+        ],
+        "cosine_to_centroid": 0.9309988021850586
+      },
+      {
+        "application_number": "1020090128779",
+        "title": "거리 측정 장치 및 방법(Device and method for measuring distance)",
+        "ipc": [
+          "G01B",
+          "G01C",
+          "G02B",
+          "G06F"
+        ],
+        "fields": [
+          "기타"
+        ],
+        "cosine_to_centroid": 0.9309988021850586
+      },
+      {
+        "application_number": "1020080065416",
+        "title": "거리 측정 장치 및 방법(Device and method for measuring distance)",
+        "ipc": [
+          "G01S",
+          "G02B"
+        ],
+        "fields": [
+          "기타"
+        ],
+        "cosine_to_centroid": 0.9309988021850586
+      },
+      {
+        "application_number": "1020070129995",
+        "title": "거리측정장치 및 방법(Device and method for measuring distance)",
+        "ipc": [
+          "G01S",
+          "H03M"
+        ],
+        "fields": [
+          "기타"
+        ],
+        "cosine_to_centroid": 0.9262923002243042
+      }
+    ],
+    "boundary_titles": [
+      "레일 이동장치의 위치 보정 시스템(Correction System for the Positioning of the railmachine)",
+      "차선 이동장치의 위치 보정 시스템(Correction System for the Positioning of the trackmachine)",
+      "가속도 감지수단을 이용한 피치각/롤각 측정장치 및 그 방법(Pitch/Roll angle sensing mean using accelerometer andmethod thereof)"
+    ],
+    "top_ipc": {
+      "G01S": 11.583333333333334,
+      "G01C": 5.25,
+      "G02B": 3.5,
+      "G01B": 2.8333333333333335,
+      "F41G": 1.9166666666666665
+    },
+    "top_fields": {
+      "기타": 14.0,
+      "로봇": 12.0,
+      "드론": 6.0,
+      "우주": 4.0,
+      "반도체": 2.0
+    },
+    "top_companies": {
+      "이오시스템": 12,
+      "마이크로인피니티": 9,
+      "에스오에스랩": 3,
+      "두시텍": 2,
+      "네스앤텍": 2
+    },
+    "year_counts": {
+      "2001": 1,
+      "2003": 1,
+      "2004": 3,
+      "2007": 1,
+      "2008": 5,
+      "2009": 2,
+      "2010": 2,
+      "2011": 2,
+      "2012": 5,
+      "2013": 1,
+      "2014": 1,
+      "2019": 3,
+      "2020": 2,
+      "2022": 1,
+      "2023": 5,
+      "2024": 2,
+      "2025": 1
+    },
+    "mean_cosine_to_centroid": 0.8387740254402161,
+    "cluster_persistence": 0.08174983709584237
+  },
+  {
+    "cluster": 31,
+    "n": 37,
+    "share_pct": 1.0218171775752554,
+    "label": "혼합 기술군",
+    "representatives": [
+      {
+        "application_number": "1020250100359",
+        "title": "마이크로디스플레이 패널 및 그 제조 방법(MICRODISPLAY PANEL AND MANUFACTURING METHOD THEREOF)",
+        "ipc": [
+          "H10H"
+        ],
+        "fields": [
+          "반도체"
+        ],
+        "cosine_to_centroid": 0.9544512033462524
+      },
+      {
+        "application_number": "1020250052765",
+        "title": "마이크로디스플레이 패널 및 그 제조 방법(MICRODISPLAY PANEL AND MANUFACTURING METHOD THEREOF)",
+        "ipc": [
+          "H10H"
+        ],
+        "fields": [
+          "반도체"
+        ],
+        "cosine_to_centroid": 0.9544512033462524
+      },
+      {
+        "application_number": "1020250052766",
+        "title": "마이크로디스플레이 패널 및 그 제조 방법(MICRODISPLAY PANEL AND MANUFACTURING METHOD THEREOF)",
+        "ipc": [
+          "H10H"
+        ],
+        "fields": [
+          "반도체"
+        ],
+        "cosine_to_centroid": 0.9544512033462524
+      },
+      {
+        "application_number": "1020250052764",
+        "title": "마이크로디스플레이 패널 및 그 제조 방법(MICRODISPLAY PANEL AND MANUFACTURING METHOD THEREOF)",
+        "ipc": [
+          "H10H"
+        ],
+        "fields": [
+          "반도체"
+        ],
+        "cosine_to_centroid": 0.9544512033462524
+      },
+      {
+        "application_number": "1020250100358",
+        "title": "마이크로디스플레이 패널 및 그 제조 방법(MICRODISPLAY PANEL AND MANUFACTURING METHOD THEREOF)",
+        "ipc": [
+          "H10H"
+        ],
+        "fields": [
+          "반도체"
+        ],
+        "cosine_to_centroid": 0.9544512033462524
+      },
+      {
+        "application_number": "1020260020402",
+        "title": "마이크로디스플레이 패널 및 그 제조 방법(MICRODISPLAY PANEL AND MANUFACTURING METHOD THEREOF)",
+        "ipc": [
+          "H10H"
+        ],
+        "fields": [
+          "반도체"
+        ],
+        "cosine_to_centroid": 0.9543012976646423
+      },
+      {
+        "application_number": "1020250028099",
+        "title": "마이크로디스플레이 패널의 제조 방법(METHOD FOR MANUFACTURING MICRODISPLAY PANEL)",
+        "ipc": [
+          "H10H"
+        ],
+        "fields": [
+          "반도체"
+        ],
+        "cosine_to_centroid": 0.9538233876228333
+      },
+      {
+        "application_number": "1020250028098",
+        "title": "마이크로디스플레이 패널 및 그 제조 방법(MICRODISPLAY PANEL AND MANUFACTURING METHOD THEREOF)",
+        "ipc": [
+          "H10H"
+        ],
+        "fields": [
+          "반도체"
+        ],
+        "cosine_to_centroid": 0.9536927938461304
+      }
+    ],
+    "boundary_titles": [
+      "마이크로 엘이디 디스플레이용 무선 알지비 엘이디(WIRELESS RGB LED FOR MICRO LED DISPLAY)",
+      "단결정 LLO 희생분리층을 포함하는 템플릿 기판 및 이를 이용한 고수율의 마이크로LED 칩 광원 제조 방법(Template substrate with single-crystal LLO sacrificial separation layer and method for manufacturing high-yield micro-LED chip light source using the same)",
+      "투명 벤딩 필름이 결합된 디스플레이 장치(DISPLAY APPARATUS OF FLEXIBLE BENDING FILM)"
+    ],
+    "top_ipc": {
+      "H10H": 32.0,
+      "H10W": 1.0,
+      "H10D": 1.0,
+      "H01L": 0.5,
+      "H10B": 0.5
+    },
+    "top_fields": {
+      "반도체": 36.0,
+      "드론": 1.0
+    },
+    "top_companies": {
+      "웨이브로드": 36,
+      "모아컴코리아": 1
+    },
+    "year_counts": {
+      "2019": 1,
+      "2021": 1,
+      "2023": 11,
+      "2024": 2,
+      "2025": 20,
+      "2026": 2
+    },
+    "mean_cosine_to_centroid": 0.8950575590133667,
+    "cluster_persistence": 0.06916785981499722
+  },
+  {
+    "cluster": 32,
+    "n": 36,
+    "share_pct": 0.9942004971002486,
+    "label": "혼합 기술군",
+    "representatives": [
+      {
+        "application_number": "1020130023627",
+        "title": "유저 기반의 지도 제작 장치(USER BASED MAP MANUFACTURING APPARATUS)",
+        "ipc": [
+          "G01C",
+          "G06F"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.9039007425308228
+      },
+      {
+        "application_number": "1020250084514",
+        "title": "수색 영역 정보 생성 장치 및 방법(APPARATUS AND METHOD FOR GENERATING SEARCH AREA INFORMATION)",
+        "ipc": [
+          "H04W"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8985340595245361
+      },
+      {
+        "application_number": "1020250084513",
+        "title": "수색 영역 정보 생성 장치 및 방법(APPARATUS AND METHOD FOR GENERATING SEARCH AREA INFORMATION)",
+        "ipc": [
+          "H04W"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8985340595245361
+      },
+      {
+        "application_number": "1020250084515",
+        "title": "수색 영역 정보 생성 장치 및 방법(APPARATUS AND METHOD FOR GENERATING SEARCH AREA INFORMATION)",
+        "ipc": [
+          "H04W"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8985340595245361
+      },
+      {
+        "application_number": "1020250084516",
+        "title": "수색 영역 정보 생성 장치 및 방법(APPARATUS AND METHOD FOR GENERATING SEARCH AREA INFORMATION)",
+        "ipc": [
+          "H04W"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8985340595245361
+      },
+      {
+        "application_number": "1020160045139",
+        "title": "지도 제작 장치(APPARATUS OF MANUFACTURING MAP)",
+        "ipc": [
+          "G06T",
+          "G09B"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.893642783164978
+      },
+      {
+        "application_number": "1020210193373",
+        "title": "맵 타겟을 생성 및 저장하는 방법 및 그 시스템(METHOD AND SYSTEM FOR CREATING AND STORING MAP TARGETS)",
+        "ipc": [
+          "G06F",
+          "G06T",
+          "G06V"
+        ],
+        "fields": [
+          "기타"
+        ],
+        "cosine_to_centroid": 0.8846222758293152
+      },
+      {
+        "application_number": "1020180090434",
+        "title": "지도 제작 장치 및 방법(APPARATUS AND METHOD FOR PRODUCING MAP)",
+        "ipc": [
+          "G06T",
+          "G09B"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8779096603393555
+      }
+    ],
+    "boundary_titles": [
+      "LTE 신호기반 요구조자 위치측위 서버, 방법 및 컴퓨터 판독가능 기록매체(SERVER FOR POSITIONING VICTIM BASED ON LTE SIGNAL, METHOD THEREFOF AND COMPUTER READABLE RECORDING MEDIUM)",
+      "선박 정보 제공 장치(SHIP INFORMATION PROVIDING DEVICE)",
+      "위치기반의 대리운전 고객 접수/처리 장치(The device which receives/handles the designated-driver service user based on the location)"
+    ],
+    "top_ipc": {
+      "H04W": 7.166666666666666,
+      "G01C": 6.333333333333334,
+      "G06T": 5.733333333333333,
+      "G06F": 4.783333333333334,
+      "G09B": 2.75
+    },
+    "top_fields": {
+      "인공지능": 29.0,
+      "드론": 5.0,
+      "기타": 2.0
+    },
+    "top_companies": {
+      "다비오": 11,
+      "모라이": 6,
+      "솔빛시스템": 5,
+      "이루온": 3,
+      "펀진": 3
+    },
+    "year_counts": {
+      "2007": 2,
+      "2011": 2,
+      "2013": 1,
+      "2014": 2,
+      "2016": 1,
+      "2017": 2,
+      "2018": 2,
+      "2020": 1,
+      "2021": 7,
+      "2022": 1,
+      "2023": 4,
+      "2024": 4,
+      "2025": 6,
+      "2026": 1
+    },
+    "mean_cosine_to_centroid": 0.8281314373016357,
+    "cluster_persistence": 0.14835031336416402
+  },
+  {
+    "cluster": 33,
+    "n": 35,
+    "share_pct": 0.9665838166252416,
+    "label": "혼합 기술군",
+    "representatives": [
+      {
+        "application_number": "1020190143653",
+        "title": "비디오 메타데이터 증대를 위한 장치 또는 방법(Apparatus or Method for Enhancing Video Metadata)",
+        "ipc": [
+          "G06T",
+          "H04N"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8799147009849548
+      },
+      {
+        "application_number": "1020240162151",
+        "title": "영상 데이터 전송을 위한 데이터 변환 방법 및 그를 위한 장치(Method and Apparatus for Converting Data for Video Data Transmission)",
+        "ipc": [
+          "H04N"
+        ],
+        "fields": [
+          "우주"
+        ],
+        "cosine_to_centroid": 0.8686075806617737
+      },
+      {
+        "application_number": "1020180138114",
+        "title": "동영상 메타데이터 태깅 시스템 및 그 방법(Video metadata tagging system and method thereof)",
+        "ipc": [
+          "G06F",
+          "G06T"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8668369054794312
+      },
+      {
+        "application_number": "1020230082838",
+        "title": "관심비디오 동시재생 장치 및 방법(Apparatus and Method for Simultaneous Playback of Interest Video)",
+        "ipc": [
+          "H04N"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.854203462600708
+      },
+      {
+        "application_number": "1020070127841",
+        "title": "비디오 스트림 전환 장치 및 방법(Apparatus and method for switching video stream)",
+        "ipc": [
+          "H04N"
+        ],
+        "fields": [
+          "우주"
+        ],
+        "cosine_to_centroid": 0.8506782054901123
+      },
+      {
+        "application_number": "1020190151430",
+        "title": "자동 생성된 비디오 메타데이터 검수 방법 및 이를 위한 장치(Apparatus or Method for Inspecting Automatically-created Video Metadata)",
+        "ipc": [
+          "G06F",
+          "H04N"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8501813411712646
+      },
+      {
+        "application_number": "1020210069294",
+        "title": "초저지연 영상 인코딩 장치 및 방법(Video encoding apparatus and method for an ultra low latency)",
+        "ipc": [
+          "H04N"
+        ],
+        "fields": [
+          "반도체"
+        ],
+        "cosine_to_centroid": 0.8501622080802917
+      },
+      {
+        "application_number": "1020240160640",
+        "title": "실시간 다단계 적응형 비트레이트 방식의 영상 송수신 시스템 및 그 제어 방법(System for transmitting and receiving images based on realtime multi-stage adaptive bitrate and control method thereof)",
+        "ipc": [
+          "H04N"
+        ],
+        "fields": [
+          "반도체"
+        ],
+        "cosine_to_centroid": 0.8468535542488098
+      }
+    ],
+    "boundary_titles": [
+      "비디오 콘텐츠에 대한 위변조를 방지하기 위한 부가데이터를 검출하여 디스플레이하는 장치, 방법 및 시스템, 상기 디스플레이 장치와 연동하는 재생장치, 상기 장치의 재생방법(DISPLAY APPARATUS, METHOD AND SYSTEM DISPLAYING CONTENT BY DETECTING ADDITIONAL DATA FOR PREVENTING COUNTERFEIT AND FALSIFICATION FOR VIDEO CONTENT, RENDERING APPARATUS INTERLOCKING WITH SAID DISPLAY APPARATUS, AND RENDERING METHOD OF SAID RENDERING APPARATUS)",
+      "디스플레이 미러링을 위한 멀티미디어 콘텐츠의 실시간 무선 송수신 시스템 및 방법(Real-time wireless transmission and reception system and method for multimedia contents's display mirroring)",
+      "동영상 콘텐츠 식별을 위한 정보 추출 방법 및 장치, 상기 방법을 이용한 동영상 콘텐츠 식별 방법 및 장치, 및 동영상 콘텐츠 식별 시스템(METHOD AND APPARATUS FOR EXTRACTING INFORMATION FOR IDENTIFYING VIDEO CONTENT, VIDEO CONTENT INDENTIFICATION METHOD AND APPARATUS USING SAID METHOD, AND VIDEO CONTENT INDENTIFICATION SYSTEM)"
+    ],
+    "top_ipc": {
+      "H04N": 20.5,
+      "G06F": 6.833333333333333,
+      "G06T": 2.8333333333333335,
+      "G06N": 1.8333333333333333,
+      "G06Q": 1.1666666666666665
+    },
+    "top_fields": {
+      "인공지능": 22.0,
+      "반도체": 7.0,
+      "우주": 5.0,
+      "드론": 1.0
+    },
+    "top_companies": {
+      "코난테크놀로지": 9,
+      "마크애니": 7,
+      "단암시스템즈": 5,
+      "쿠오핀": 5,
+      "펀진": 4
+    },
+    "year_counts": {
+      "2005": 1,
+      "2007": 6,
+      "2008": 1,
+      "2010": 1,
+      "2013": 2,
+      "2014": 2,
+      "2015": 1,
+      "2016": 2,
+      "2017": 1,
+      "2018": 3,
+      "2019": 4,
+      "2021": 3,
+      "2022": 2,
+      "2023": 2,
+      "2024": 3,
+      "2025": 1
+    },
+    "mean_cosine_to_centroid": 0.8119072914123535,
+    "cluster_persistence": 0.08283592308259204
+  },
+  {
+    "cluster": 34,
+    "n": 34,
+    "share_pct": 0.9389671361502347,
+    "label": "혼합 기술군",
+    "representatives": [
+      {
+        "application_number": "1020080069693",
+        "title": "움직임을 인식하는 장치 및 방법(Apparatus and method for recognizing movement)",
+        "ipc": [
+          "G06F"
+        ],
+        "fields": [
+          "로봇"
+        ],
+        "cosine_to_centroid": 0.8829450607299805
+      },
+      {
+        "application_number": "1020150015893",
+        "title": "이벤트 감지 방법 및 이를 실행하는 장치(METHOD OF SENING EVENT AND APPARATUS PERFORMING THE SAME)",
+        "ipc": [
+          "G06V",
+          "G08G"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8650000095367432
+      },
+      {
+        "application_number": "1020090027100",
+        "title": "움직임 감지를 통한 사용자 명령 입력 방법 및 디바이스(Method and Device for inputing user's commands based on motion sensing)",
+        "ipc": [
+          "G06F"
+        ],
+        "fields": [
+          "로봇"
+        ],
+        "cosine_to_centroid": 0.8423324823379517
+      },
+      {
+        "application_number": "1020220125726",
+        "title": "움직임 노이즈 제거가 가능한 비접촉식 생체 신호 측정 시스템 및 방법(NON-CONTACT BIOSIGNAL MEASUREMENT SYSTEM AND METHOD CAPABLE OF REMOVING MOTION NOISE)",
+        "ipc": [
+          "A61B"
+        ],
+        "fields": [
+          "로봇"
+        ],
+        "cosine_to_centroid": 0.8420801758766174
+      },
+      {
+        "application_number": "1020180092893",
+        "title": "이벤트감지장치 및 그 장치의 구동방법(Apparatus for Detecting Event and Driving Method Thereof)",
+        "ipc": [
+          "G06N",
+          "G06T",
+          "H04N"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.84168940782547
+      },
+      {
+        "application_number": "1020220020774",
+        "title": "비접촉식 생체 신호 측정 시스템 및 방법(NON-CONTACT BIOSIGNAL MEASUREMENT SYSTEM AND METHOD)",
+        "ipc": [
+          "A61B"
+        ],
+        "fields": [
+          "로봇"
+        ],
+        "cosine_to_centroid": 0.8381916880607605
+      },
+      {
+        "application_number": "1020210025552",
+        "title": "센서를 이용한 보안 장치의 동작 방법(A METHOD FOR OPERATING A SECURITY DEVICE USING SENSOR)",
+        "ipc": [
+          "G01S",
+          "G08B"
+        ],
+        "fields": [
+          "로봇"
+        ],
+        "cosine_to_centroid": 0.8357235789299011
+      },
+      {
+        "application_number": "1020210025553",
+        "title": "센서를 이용한 보안 장치의 동작 방법(A METHOD FOR OPERATING A SECURITY DEVICE USING SENSOR)",
+        "ipc": [
+          "G01S",
+          "G08B",
+          "H04N"
+        ],
+        "fields": [
+          "로봇"
+        ],
+        "cosine_to_centroid": 0.8357235789299011
+      }
+    ],
+    "boundary_titles": [
+      "포인터 이동 값 계산 장치, 포인터 이동 값 보정 방법 및자세 각도 변화량 보정 방법, 이를 사용하는 3차원 포인팅디바이스(Apparatus for calculating pointer movement value and method for correcting pointer movement value and variation of angle, 3D pointing device using the same)",
+      "손목형 디지털 혈압계(Digital hemadynamometer of wristwatch type)",
+      "생체신호 측정장치와 생체신호 영상화장치 그리고 뇌영상 기반 뇌질환 진단 시스템(BIO SIGNAL MEASURING DEVICE AND BIO SIGNAL IMAGING DEVICE AND BRAIN IMAGING BASED BRAIN DISEASE DIAGNOSTIC SYSTEM)"
+    ],
+    "top_ipc": {
+      "A61B": 9.866666666666667,
+      "G06F": 5.583333333333333,
+      "G08B": 2.033333333333333,
+      "H04B": 1.8333333333333333,
+      "G06V": 1.6166666666666665
+    },
+    "top_fields": {
+      "로봇": 12.0,
+      "인공지능": 9.0,
+      "기타": 8.0,
+      "우주": 3.0,
+      "반도체": 2.0
+    },
+    "top_companies": {
+      "마이크로인피니티": 6,
+      "아이블포토닉스": 6,
+      "인텔리빅스": 6,
+      "솔탑": 3,
+      "에스오에스랩": 3
+    },
+    "year_counts": {
+      "2004": 1,
+      "2005": 1,
+      "2006": 3,
+      "2007": 2,
+      "2008": 2,
+      "2009": 5,
+      "2013": 1,
+      "2014": 2,
+      "2015": 1,
+      "2017": 1,
+      "2018": 2,
+      "2019": 4,
+      "2021": 3,
+      "2022": 3,
+      "2023": 3
+    },
+    "mean_cosine_to_centroid": 0.788476824760437,
+    "cluster_persistence": 0.05996692854497639
+  },
+  {
+    "cluster": 35,
+    "n": 32,
+    "share_pct": 0.8837337752002209,
+    "label": "혼합 기술군",
+    "representatives": [
+      {
+        "application_number": "1020130110553",
+        "title": "이상 음원 탐지 장치 및 방법(APPARATUS AND METHOD FOR DETECTING UNUSUAL SOUND)",
+        "ipc": [
+          "G01H",
+          "G08B",
+          "G08C"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.9012560248374939
+      },
+      {
+        "application_number": "1020190158210",
+        "title": "인공지능 기반의 이상음원 인식 장치, 그 방법 및 이를 이용한 관제시스템(ABNORMALY SOUND RECOGNIZING METHOD AND APPARATUS BASED ON ARTIFICIAL INTELLIGENCE AND MONITORING SYSTEM USING THE SAME)",
+        "ipc": [
+          "G06N",
+          "G10L"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8833439350128174
+      },
+      {
+        "application_number": "1020200037299",
+        "title": "인공지능 기반의 이상음원 인식 장치, 그 방법 및 이를 이용한 관제시스템(ABNORMALY SOUND RECOGNIZING METHOD AND APPARATUS BASED ON ARTIFICIAL INTELLIGENCE AND MONITORING SYSTEM USING THE SAME)",
+        "ipc": [
+          "G10L",
+          "H04N"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8825712203979492
+      },
+      {
+        "application_number": "1020190147881",
+        "title": "인공지능을 이용한 음원 분류 장치 및 그 방법(APPARATUS AND METHOD FOR SOUND SOURCE CLASSIFICATION USING ARTIFICIAL INTELLIGENCE)",
+        "ipc": [
+          "G06N",
+          "G10H"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8811452388763428
+      },
+      {
+        "application_number": "1020190070060",
+        "title": "비언어적 오디오 정보를 이용한 전자기기 제어 장치(CONTROL APPARATUS FOR ELECTRONIC DEVICE USING NON-VOCAL AUDIO INFORMATION AND CONTROL METHOD THEREOF)",
+        "ipc": [
+          "G08B",
+          "G10L"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8804073333740234
+      },
+      {
+        "application_number": "1020220029209",
+        "title": "이상 음원을 판단하는 복합 감시 장치 및 방법(Apparatus and Method for complex monitoring to judge abnormal sound source)",
+        "ipc": [
+          "G06V",
+          "G08B",
+          "G10K",
+          "G10L",
+          "H04R"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8792967796325684
+      },
+      {
+        "application_number": "1020250030636",
+        "title": "음향 수집 장치(Sound collection device)",
+        "ipc": [
+          "H04R"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8767880201339722
+      },
+      {
+        "application_number": "1020180091420",
+        "title": "오디오 정보 수집장치 및 그의 제어방법(AUDIO INFORMATION COLLECTING APPARATUS AND CONTROL METHOD THEREOF)",
+        "ipc": [
+          "G06F",
+          "G10L",
+          "G11B"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8728812336921692
+      }
+    ],
+    "boundary_titles": [
+      "인공지능 기반 음성 대화 환경을 제공하는 방법, 스마트 전자 장치 및 시스템(A method, a smart electronic device, and a system for providing an artificial intelligence-based voice conversation environment)",
+      "딥 러닝 기반으로 음향 및 진동을 이용하여 기계의 고장을 진단하는 방법 및 이를 이용한 진단 장치(METHOD FOR DIAGNOSING MACHINE FAILURE USING SOUND AND VIBRTION BASED ON DEEP LEARNING AND DIAGNOSTIC DEVICE USING THEM)",
+      "인공지능을 이용한 음성 기반 세일즈 정보 추출 및 리드 추천방법과 이를 수행하는 데이터 분석장치(Voice-based sales information extraction and lead recommendation method using artificial intelligence, and data analysis apparatus therefor)"
+    ],
+    "top_ipc": {
+      "G10L": 8.2,
+      "G06F": 4.333333333333333,
+      "G06N": 3.3333333333333335,
+      "G06Q": 2.3333333333333335,
+      "H04N": 2.3333333333333335
+    },
+    "top_fields": {
+      "인공지능": 27.0,
+      "기타": 3.0,
+      "로봇": 2.0
+    },
+    "top_companies": {
+      "코클": 10,
+      "코난테크놀로지": 6,
+      "아이브스": 6,
+      "버넥트": 3,
+      "펀진": 2
+    },
+    "year_counts": {
+      "2006": 1,
+      "2007": 1,
+      "2013": 1,
+      "2014": 1,
+      "2016": 1,
+      "2017": 2,
+      "2018": 1,
+      "2019": 3,
+      "2020": 7,
+      "2021": 7,
+      "2022": 1,
+      "2023": 2,
+      "2024": 2,
+      "2025": 2
+    },
+    "mean_cosine_to_centroid": 0.835355818271637,
+    "cluster_persistence": 0.14671662871727403
+  },
+  {
+    "cluster": 36,
+    "n": 29,
+    "share_pct": 0.8008837337752003,
+    "label": "혼합 기술군",
+    "representatives": [
+      {
+        "application_number": "1020160060166",
+        "title": "고주파 전력 증폭기(High frequency power amplifier)",
+        "ipc": [
+          "H03F"
+        ],
+        "fields": [
+          "반도체"
+        ],
+        "cosine_to_centroid": 0.8751340508460999
+      },
+      {
+        "application_number": "1020150157764",
+        "title": "고주파 전력 증폭기(HIGH FREQUENCY POWER AMPLIFIER)",
+        "ipc": [
+          "H03F",
+          "H05K",
+          "H10D"
+        ],
+        "fields": [
+          "반도체"
+        ],
+        "cosine_to_centroid": 0.868171215057373
+      },
+      {
+        "application_number": "1020200051522",
+        "title": "위상이 조절되는 알에프 파워 제너레이터(Phase adjusted RF power generator)",
+        "ipc": [
+          "H03F"
+        ],
+        "fields": [
+          "반도체"
+        ],
+        "cosine_to_centroid": 0.8490327596664429
+      },
+      {
+        "application_number": "1020240093516",
+        "title": "다중 입출력 특성을 갖는 단일 고출력 전력증폭기 집적회로 및 이의 설계 방법(SINGLE HIGH-POWER AMPLIFIER INTEGRATED CIRCUIT WITH MULTIPLE INPUT AND OUTPUT CHARACTERISTICS AND METHOD FOR DESIGNING THE SAME)",
+        "ipc": [
+          "H03F"
+        ],
+        "fields": [
+          "반도체"
+        ],
+        "cosine_to_centroid": 0.8411813378334045
+      },
+      {
+        "application_number": "2020200001520",
+        "title": "고출력 마이크로파 신호 생성 구조체(STRUCTURE FOR GENERATING HIGH POWER MICROWAVE SIGNALS)",
+        "ipc": [
+          "H01P",
+          "H03F"
+        ],
+        "fields": [
+          "반도체"
+        ],
+        "cosine_to_centroid": 0.8385581970214844
+      },
+      {
+        "application_number": "1020210115397",
+        "title": "고출력 마이크로파 신호 생성 구조체(STRUCTURE FOR GENERATING HIGH POWER MICROWAVE SIGNALS)",
+        "ipc": [
+          "H01P",
+          "H03F"
+        ],
+        "fields": [
+          "반도체"
+        ],
+        "cosine_to_centroid": 0.8369977474212646
+      },
+      {
+        "application_number": "1020220124194",
+        "title": "전력 증폭 장치의 과전류 보호 방법 및 그를 위한 장치(Method and Apparatus for Protecting Overcurrent of Power Amplification Device)",
+        "ipc": [
+          "G01R",
+          "H03F"
+        ],
+        "fields": [
+          "우주"
+        ],
+        "cosine_to_centroid": 0.824528157711029
+      },
+      {
+        "application_number": "1020150180396",
+        "title": "고속스위칭 회로(high speed switching circuits)",
+        "ipc": [
+          "H03K"
+        ],
+        "fields": [
+          "드론"
+        ],
+        "cosine_to_centroid": 0.8160587549209595
+      }
+    ],
+    "boundary_titles": [
+      "엑스 밴드 및 쿠 밴드에서 동작하는 저잡음 증폭기(Low noise amplifier for working over X band and Ku band)",
+      "파워 증폭기(Power amplifier)",
+      "고속차단기능을 가지는 단락보호회로(High speed short protection circuits)"
+    ],
+    "top_ipc": {
+      "H03F": 9.833333333333332,
+      "H02M": 2.5,
+      "H03K": 2.5,
+      "H03B": 1.8333333333333333,
+      "G01S": 1.8333333333333333
+    },
+    "top_fields": {
+      "반도체": 15.0,
+      "드론": 7.0,
+      "우주": 6.0,
+      "로봇": 1.0
+    },
+    "top_companies": {
+      "웨이브피아": 8,
+      "빅텍": 6,
+      "RFHIC": 5,
+      "단암시스템즈": 4,
+      "웨이비스": 2
+    },
+    "year_counts": {
+      "2006": 1,
+      "2008": 1,
+      "2010": 1,
+      "2013": 1,
+      "2015": 5,
+      "2016": 2,
+      "2018": 3,
+      "2019": 2,
+      "2020": 5,
+      "2021": 1,
+      "2022": 2,
+      "2024": 5
+    },
+    "mean_cosine_to_centroid": 0.7599990963935852,
+    "cluster_persistence": 0.06672206049009329
+  },
+  {
+    "cluster": 37,
+    "n": 27,
+    "share_pct": 0.7456503728251864,
+    "label": "혼합 기술군",
+    "representatives": [
+      {
+        "application_number": "1020230142451",
+        "title": "열가소성 복합재를 이용한 항공기 좌석부품 제조 방법(MANUFACTURING METHOD FOR SEAT PART OF AIRCRAFT USING THERMOPLASTIC COMPOSITE)",
+        "ipc": [
+          "B29B",
+          "B29C",
+          "B29K",
+          "B29L"
+        ],
+        "fields": [
+          "우주"
+        ],
+        "cosine_to_centroid": 0.8446693420410156
+      },
+      {
+        "application_number": "1020220088841",
+        "title": "열가소성 복합재 튜브 밴딩장치(Device for bending a thermoplastic composite tube)",
+        "ipc": [
+          "B29C"
+        ],
+        "fields": [
+          "우주"
+        ],
+        "cosine_to_centroid": 0.8398191332817078
+      },
+      {
+        "application_number": "1020190156812",
+        "title": "열가소성 복합재가 적용된 튜브 제작을 위한 와인딩 성형 장치 및 그 방법(WINDING APPARATUS FOR THERMOPLASTIC COMPOSITE TUBES AND THE METHOD OF THEREOF)",
+        "ipc": [
+          "B29C",
+          "B29K"
+        ],
+        "fields": [
+          "우주"
+        ],
+        "cosine_to_centroid": 0.8387683629989624
+      },
+      {
+        "application_number": "1020150053349",
+        "title": "복합소재 구조물 해석 시스템 및 그 방법(ANALYSIS SYSTEM FOR COMPOSITE STRUCTURES AND THE METHOD THEREOF)",
+        "ipc": [
+          "G06F"
+        ],
+        "fields": [
+          "우주"
+        ],
+        "cosine_to_centroid": 0.8226840496063232
+      },
+      {
+        "application_number": "1020170176240",
+        "title": "복합재 실린더형 크래쉬 박스의 최적 설계 및 제조 방법(OPTIMAL DESIGN AND MANUFACTURING METHOD FOR COMPOSITE CYLINDRICAL CRASH BOX)",
+        "ipc": [
+          "B29C",
+          "B60R"
+        ],
+        "fields": [
+          "우주"
+        ],
+        "cosine_to_centroid": 0.8208468556404114
+      },
+      {
+        "application_number": "1020220164043",
+        "title": "복합재 구조물 안정성 평가 시스템 및 그 방법(COMPOSITE STRUCTURE STABILITY EVALUATION SYSTEM AND METHOD THEREOF)",
+        "ipc": [
+          "G06F"
+        ],
+        "fields": [
+          "우주"
+        ],
+        "cosine_to_centroid": 0.819798469543457
+      },
+      {
+        "application_number": "1020200183554",
+        "title": "열가소성 복합재가 적용된 튜브 제작을 위한 와인딩 성형장치(Winding molding device for manufacturing tubes with thermoplastic composites)",
+        "ipc": [
+          "B29C",
+          "B29K",
+          "B29L"
+        ],
+        "fields": [
+          "우주"
+        ],
+        "cosine_to_centroid": 0.81844162940979
+      },
+      {
+        "application_number": "1020170067318",
+        "title": "복합재 구조 해석용 자동 일괄 실행 시스템 및 그 방법(BATCH RUN SYSTEM FOR COMPOSITE STRUCTURAL ANALYSIS AND THE METHOD THEREOF)",
+        "ipc": [
+          "G06F"
+        ],
+        "fields": [
+          "우주"
+        ],
+        "cosine_to_centroid": 0.8125249147415161
+      }
+    ],
+    "boundary_titles": [
+      "피스톤링의 표면 열처리 방법 및 그 피스톤링(Heating processing method for surface of piston ringand A Piston ring)",
+      "복합재 이너프레임 다중 접합형 배럴을 포함하는 외피 일체형 발사체 추진제 탱크 및 이의 제조방법(Skirt integral composite propellant tank containing Barrel fastened or bonded with multiple composite inner frames and manufacturing method thereof)",
+      "크기 조절이 가능한 부품 제작용 금형(Mold for making parts with adjustable size)"
+    ],
+    "top_ipc": {
+      "B29C": 7.083333333333333,
+      "G06F": 4.0,
+      "B21D": 3.0,
+      "G01N": 1.5,
+      "B29K": 1.0833333333333333
+    },
+    "top_fields": {
+      "우주": 21.0,
+      "로봇": 4.0,
+      "기타": 2.0
+    },
+    "top_companies": {
+      "ANH스트럭쳐": 20,
+      "삼현": 4,
+      "삼영기계": 1,
+      "루미르": 1,
+      "성신디펜스솔루션": 1
+    },
+    "year_counts": {
+      "1998": 2,
+      "2001": 1,
+      "2006": 1,
+      "2012": 1,
+      "2014": 1,
+      "2015": 3,
+      "2017": 5,
+      "2018": 1,
+      "2019": 4,
+      "2020": 2,
+      "2021": 1,
+      "2022": 2,
+      "2023": 1,
+      "2024": 2
+    },
+    "mean_cosine_to_centroid": 0.7719346284866333,
+    "cluster_persistence": 0.025505118821215846
+  },
+  {
+    "cluster": 38,
+    "n": 26,
+    "share_pct": 0.7180336923501794,
+    "label": "혼합 기술군",
+    "representatives": [
+      {
+        "application_number": "1020230011508",
+        "title": "작업 수행 로봇의 작업 경로의 길이를 계산하는 방법(METHOD FOR CALCULAING THE LENGTH OF WORK PATH OF A TASK-PERFORMING ROBOT)",
+        "ipc": [
+          "G05B"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8943905830383301
+      },
+      {
+        "application_number": "1020230078801",
+        "title": "작업 수행 로봇의 작업 경로의 길이를 계산하는 방법(METHOD FOR CALCULAING THE LENGTH OF WORK PATH OF A TASK-PERFORMING ROBOT)",
+        "ipc": [
+          "G05B"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8943905830383301
+      },
+      {
+        "application_number": "1020230078800",
+        "title": "작업 수행 로봇의 작업 경로의 길이를 계산하는 방법(METHOD FOR CALCULAING THE LENGTH OF WORK PATH OF A TASK-PERFORMING ROBOT)",
+        "ipc": [
+          "G05B"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8943905830383301
+      },
+      {
+        "application_number": "1020230103333",
+        "title": "작업 수행 로봇의 작업 경로의 길이를 계산하는 방법(METHOD FOR CALCULAING THE LENGTH OF WORK PATH OF A TASK-PERFORMING ROBOT)",
+        "ipc": [
+          "G05B"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8943905830383301
+      },
+      {
+        "application_number": "1020230011504",
+        "title": "산업용 로봇의 작업 경로 생성 방법(METHOD FOR GENERATING TRAJECTORY OF INDUSTRIAL ROBOT)",
+        "ipc": [
+          "B25J"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.88033127784729
+      },
+      {
+        "application_number": "1020230011389",
+        "title": "로봇의 유효 작업 지점을 결정하기 위한 방법(METHOD FOR DECIDING VAILD WORKING SPOT IN ROBOTIC PROCESS)",
+        "ipc": [
+          "B25J"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8680036067962646
+      },
+      {
+        "application_number": "1020230080437",
+        "title": "복수의 작업 수행 로봇들에 작업 지점들을 분배하기 위한 방법(METHOD FOR DISTRIBUTING WORK POINTS TO PLURAL TASK-PERFORMING ROBOTS)",
+        "ipc": [
+          "B25J",
+          "G05D",
+          "G06Q"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8674310445785522
+      },
+      {
+        "application_number": "1020230011507",
+        "title": "복수의 작업 수행 로봇들에 작업 지점들을 분배하기 위한 방법(METHOD FOR DISTRIBUTING WORK POINTS TO PLURAL TASK-PERFORMING ROBOTS)",
+        "ipc": [
+          "B25J",
+          "G05D",
+          "G06Q"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8674310445785522
+      }
+    ],
+    "boundary_titles": [
+      "공사장 작업자 안전 관제 시스템(SYSTEM FOR MONITORING SAFETY OF WORKERS AT CONSTRUCTION SITE)",
+      "복수개의 이동형 로봇을 실시간 제어하여 단일 임무를 협동 수행하게 하는 로봇 제어 장치 및 시스템, 그리고 로봇 제어 방법(ROBOT CONTROL DEVICE AND SYSTEM FOR REAL-TIME CONTROL OF MULTIPLE MOBILE ROBOTS TO COLLABOLATIVELY PERFORM A SINGLE TASK, AND METHOD FOR CONTROLLING ROBOT)",
+      "스마트 크레인 시스템의 권상 및 권하 동작 방법(A METHOD FOR HOISTING OF SMART CRANE SYSTEM)"
+    ],
+    "top_ipc": {
+      "B25J": 8.083333333333332,
+      "G05B": 5.083333333333333,
+      "G05D": 2.833333333333333,
+      "G06Q": 1.9166666666666665,
+      "B66C": 1.5
+    },
+    "top_fields": {
+      "인공지능": 17.0,
+      "로봇": 6.0,
+      "우주": 2.0,
+      "기타": 1.0
+    },
+    "top_companies": {
+      "마키나락스": 12,
+      "에스오에스랩": 3,
+      "케이알엠": 3,
+      "ANH스트럭쳐": 2,
+      "써로마인드": 2
+    },
+    "year_counts": {
+      "2017": 2,
+      "2020": 1,
+      "2021": 1,
+      "2023": 16,
+      "2024": 6
+    },
+    "mean_cosine_to_centroid": 0.8169494867324829,
+    "cluster_persistence": 0.0048937772650150995
+  },
+  {
+    "cluster": -1,
+    "n": 643,
+    "share_pct": 17.757525545429438,
+    "label": "미배정",
+    "representatives": [
+      {
+        "application_number": "1020240062009",
+        "title": "SAR 영상 분석 장치 및 그 방법(APPARATUS FOR ANALYZING SAR IMAGE AND METHOD THEREOF)",
+        "ipc": [
+          "G01S",
+          "G06V"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8116557598114014
+      },
+      {
+        "application_number": "1020240015288",
+        "title": "이미지 생성 방법 및 시스템(METHOD AND SYSTEM FOR GENERATING IMAGES)",
+        "ipc": [
+          "G06N",
+          "G06T"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8112086057662964
+      },
+      {
+        "application_number": "1020230148092",
+        "title": "위성 영상 처리 방법 및 시스템(METHOD AND SYSTEM FOR SATELLITE IMAGE PROCESSING)",
+        "ipc": [
+          "B64G",
+          "H04N"
+        ],
+        "fields": [
+          "인공지능"
+        ],
+        "cosine_to_centroid": 0.8111134767532349
+      },
+      {
+        "application_number": "1020250044582",
+        "title": "타겟 추적 장치 및 이의 제어 방법(TARGET TRACKING DEVICE AND CONTROL METHOD THEREOF)",
+        "ipc": [
+          "F41G",
+          "F41H",
+          "G01S",
+          "G05D",
+          "G06V"
+        ],
+        "fields": [
+          "드론"
+        ],
+        "cosine_to_centroid": 0.8103017807006836
+      },
+      {
+        "application_number": "1020210169877",
+        "title": "임무장비 마운트 장치(Apparatus for mounting mission equipment)",
+        "ipc": [
+          "B64C",
+          "B64D",
+          "B64U",
+          "F16F"
+        ],
+        "fields": [
+          "드론"
+        ],
+        "cosine_to_centroid": 0.8086192607879639
+      },
+      {
+        "application_number": "1020250000088",
+        "title": "타겟 추적 장치 및 이의 제어 방법(TARGET TRACKING DEVICE AND CONTROL METHOD THEREOF)",
+        "ipc": [
+          "F41G",
+          "F41H",
+          "G01S",
+          "G05D",
+          "G06V"
+        ],
+        "fields": [
+          "드론"
+        ],
+        "cosine_to_centroid": 0.8085010051727295
+      },
+      {
+        "application_number": "1020220023394",
+        "title": "위성 영상의 합성 방법 및 시스템(METHOD AND SYSTEM FOR SYNTHESISING SATELLITE IMAGES)",
+        "ipc": [
+          "G06N",
+          "G06T",
+          "H04N"
+        ],
+        "fields": [
+          "우주"
+        ],
+        "cosine_to_centroid": 0.804571270942688
+      },
+      {
+        "application_number": "1020160140893",
+        "title": "장애물 감지장치 및 감지방법(OBSTACLE DETECTING APPARATUS AND METHOD)",
+        "ipc": [
+          "G01S"
+        ],
+        "fields": [
+          "로봇"
+        ],
+        "cosine_to_centroid": 0.8038257956504822
+      }
+    ],
+    "boundary_titles": [
+      "외주면이 이종 강재로 된 구상화 흑연 주철 및 주철 크랭크사프트(The speroidization graphitization cast iron, in which the outer circumference is to the different kind steel material the cast iron crank axle)",
+      "고 전자 이동도 트랜지스터(High Electron Mobility Transistor)",
+      "인렛 파이프(Inlet Pipe)가 구비된 붕소 농도 측정기(BORON METER WITH INLET PIPE)"
+    ],
+    "top_ipc": {
+      "G06F": 52.85476190476196,
+      "G06T": 52.75476190476193,
+      "G06N": 38.150000000000006,
+      "H04N": 37.20000000000002,
+      "G01S": 31.59999999999999
+    },
+    "top_fields": {
+      "인공지능": 243.0,
+      "드론": 101.0,
+      "반도체": 89.0,
+      "기타": 75.0,
+      "로봇": 74.0
+    },
+    "top_companies": {
+      "마크애니": 31,
+      "부전전자": 30,
+      "에스아이에이": 28,
+      "코난테크놀로지": 27,
+      "인피닉": 23
+    },
+    "year_counts": {
+      "1996": 2,
+      "1997": 2,
+      "1998": 1,
+      "1999": 1,
+      "2000": 3,
+      "2001": 1,
+      "2002": 3,
+      "2004": 10,
+      "2005": 11,
+      "2006": 7,
+      "2007": 13,
+      "2008": 8,
+      "2009": 12,
+      "2010": 19,
+      "2011": 9,
+      "2012": 14,
+      "2013": 11,
+      "2014": 19,
+      "2015": 16,
+      "2016": 32,
+      "2017": 28,
+      "2018": 32,
+      "2019": 46,
+      "2020": 56,
+      "2021": 59,
+      "2022": 59,
+      "2023": 63,
+      "2024": 72,
+      "2025": 26,
+      "2026": 8
+    },
+    "mean_cosine_to_centroid": 0.6989710927009583,
+    "cluster_persistence": null
+  }
+]

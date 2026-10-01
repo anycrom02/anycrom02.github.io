@@ -1,0 +1,22 @@
+{
+  "model": "qwen/qwen3-embedding-8b",
+  "dimension": 4096,
+  "input_columns": [
+    "title"
+  ],
+  "abstract_available": false,
+  "source_sha256": "772b0be67d1b100151dabdc233d43870e4efb600925a7e8607a71c0806780e63",
+  "status": "complete",
+  "successful_records": 3621,
+  "failed_records": 0,
+  "pending_records": 0,
+  "new_requests": 57,
+  "new_prompt_tokens": 132808,
+  "new_api_cost_usd": 0.00132808,
+  "reused_pilot_records": 5,
+  "pilot_prompt_tokens": 190,
+  "pilot_cost_usd": 1.9e-06,
+  "total_prompt_tokens_including_pilot": 132998,
+  "total_api_cost_usd_including_pilot": 0.00132998,
+  "timestamp_utc": "2026-10-01T02:50:29.363970+00:00"
+}

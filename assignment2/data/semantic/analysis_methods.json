@@ -1,0 +1,79 @@
+{
+  "model": "qwen/qwen3-embedding-8b",
+  "input": "title only; abstracts not available",
+  "n": 3621,
+  "dimension": 4096,
+  "normalization": "L2 unit vectors",
+  "pca": {
+    "components": 50,
+    "svd_solver": "randomized",
+    "random_state": 42,
+    "whiten": false,
+    "explained_variance_ratio": 0.48566144704818726
+  },
+  "cluster_projection": {
+    "method": "UMAP",
+    "components": 10,
+    "n_neighbors": 30,
+    "min_dist": 0.0,
+    "metric": "cosine",
+    "random_state": 42,
+    "n_jobs": 1
+  },
+  "clustering": {
+    "method": "HDBSCAN",
+    "min_cluster_size": 25,
+    "min_samples": 10,
+    "metric": "euclidean",
+    "cluster_selection_method": "eom"
+  },
+  "map_projection": {
+    "method": "UMAP",
+    "components": 2,
+    "n_neighbors": 30,
+    "min_dist": 0.15,
+    "metric": "cosine",
+    "random_state": 42,
+    "n_jobs": 1
+  },
+  "cluster_count": 39,
+  "clustered_n": 2978,
+  "noise_n": 643,
+  "noise_pct": 17.757525545429438,
+  "sensitivity": [
+    {
+      "variant": "min_cluster_size=20",
+      "clusters": 44,
+      "noise": 612,
+      "ari_all_including_noise": 0.9378566099591396,
+      "common_assigned_n": 2963,
+      "ari_common_assigned": 0.9907778924181171
+    },
+    {
+      "variant": "min_cluster_size=40",
+      "clusters": 27,
+      "noise": 530,
+      "ari_all_including_noise": 0.7181604785154596,
+      "common_assigned_n": 2918,
+      "ari_common_assigned": 0.8618641926313284
+    },
+    {
+      "variant": "UMAP seed=7",
+      "clusters": 41,
+      "noise": 557,
+      "ari_all_including_noise": 0.6998336055742036,
+      "common_assigned_n": 2875,
+      "ari_common_assigned": 0.9537304858984231
+    }
+  ],
+  "versions": {
+    "numpy": "2.5.3",
+    "scipy": "1.18.1",
+    "scikit-learn": "1.9.1",
+    "umap-learn": "0.5.12",
+    "hdbscan": "0.8.44",
+    "matplotlib": "3.11.2"
+  },
+  "reason": "PCA speeds neighbor search; 10D manifold projection precedes density clustering without specifying cluster count; independent 2D projection is display only. min_cluster_size25 excludes tiny groups and min_samples10 reduces weak assignments. UMAP distorts density and global distance; all outputs exploratory and parameter-dependent.",
+  "matrix_counting": "Each unique application receives total1 across selection memberships and total1 across unique IPC subclasses; separate matrices both sum3621. Noise retained in denominators."
+}

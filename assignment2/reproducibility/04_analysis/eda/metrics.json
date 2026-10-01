@@ -1,0 +1,1013 @@
+{
+  "unique_applications": 3621,
+  "company_patent_links": 3624,
+  "observed_companies": 81,
+  "excluded_companies": [
+    "디브레인",
+    "인텔릭스"
+  ],
+  "company_count_median": 29.0,
+  "company_count_mean": 44.74074074074074,
+  "company_count_min": 1,
+  "company_count_max": 256,
+  "gini": 0.48911236475622055,
+  "top5_count": 964,
+  "top5_share_links_pct": 26.600441501103756,
+  "top10_count": 1472,
+  "top10_share_links_pct": 40.618101545253865,
+  "before_selection_year_count": 2978,
+  "before_selection_year_pct": 82.17439293598234,
+  "selection_year_count": 294,
+  "after_selection_year_count": 352,
+  "coapplication_count": 316,
+  "coapplication_pct": 8.726871030102181,
+  "ipc_subclass_unique_count": 283,
+  "ipc_subclass_count_median": 2.0,
+  "multi_subclass_pct": 56.19994476663906,
+  "top10_ipc_fractional_pct": 49.30146236898515,
+  "ipc_section_fractional": {
+    "H": 1358.083333333332,
+    "G": 1705.083333333331,
+    "B": 270.75000000000017,
+    "C": 58.00000000000001,
+    "F": 148.74999999999997,
+    "A": 73.16666666666669,
+    "E": 7.166666666666666
+  },
+  "annual": [
+    {
+      "application_year": 1996,
+      "n": 2,
+      "coapplications": 0,
+      "with_registration_number": 0
+    },
+    {
+      "application_year": 1997,
+      "n": 2,
+      "coapplications": 0,
+      "with_registration_number": 1
+    },
+    {
+      "application_year": 1998,
+      "n": 6,
+      "coapplications": 0,
+      "with_registration_number": 5
+    },
+    {
+      "application_year": 1999,
+      "n": 8,
+      "coapplications": 4,
+      "with_registration_number": 5
+    },
+    {
+      "application_year": 2000,
+      "n": 20,
+      "coapplications": 5,
+      "with_registration_number": 16
+    },
+    {
+      "application_year": 2001,
+      "n": 61,
+      "coapplications": 23,
+      "with_registration_number": 43
+    },
+    {
+      "application_year": 2002,
+      "n": 43,
+      "coapplications": 8,
+      "with_registration_number": 33
+    },
+    {
+      "application_year": 2003,
+      "n": 50,
+      "coapplications": 13,
+      "with_registration_number": 39
+    },
+    {
+      "application_year": 2004,
+      "n": 76,
+      "coapplications": 12,
+      "with_registration_number": 63
+    },
+    {
+      "application_year": 2005,
+      "n": 52,
+      "coapplications": 2,
+      "with_registration_number": 44
+    },
+    {
+      "application_year": 2006,
+      "n": 42,
+      "coapplications": 6,
+      "with_registration_number": 35
+    },
+    {
+      "application_year": 2007,
+      "n": 50,
+      "coapplications": 2,
+      "with_registration_number": 42
+    },
+    {
+      "application_year": 2008,
+      "n": 65,
+      "coapplications": 11,
+      "with_registration_number": 53
+    },
+    {
+      "application_year": 2009,
+      "n": 49,
+      "coapplications": 7,
+      "with_registration_number": 34
+    },
+    {
+      "application_year": 2010,
+      "n": 61,
+      "coapplications": 8,
+      "with_registration_number": 43
+    },
+    {
+      "application_year": 2011,
+      "n": 75,
+      "coapplications": 5,
+      "with_registration_number": 52
+    },
+    {
+      "application_year": 2012,
+      "n": 66,
+      "coapplications": 9,
+      "with_registration_number": 56
+    },
+    {
+      "application_year": 2013,
+      "n": 73,
+      "coapplications": 8,
+      "with_registration_number": 60
+    },
+    {
+      "application_year": 2014,
+      "n": 89,
+      "coapplications": 15,
+      "with_registration_number": 73
+    },
+    {
+      "application_year": 2015,
+      "n": 78,
+      "coapplications": 9,
+      "with_registration_number": 54
+    },
+    {
+      "application_year": 2016,
+      "n": 107,
+      "coapplications": 9,
+      "with_registration_number": 73
+    },
+    {
+      "application_year": 2017,
+      "n": 136,
+      "coapplications": 10,
+      "with_registration_number": 107
+    },
+    {
+      "application_year": 2018,
+      "n": 195,
+      "coapplications": 17,
+      "with_registration_number": 153
+    },
+    {
+      "application_year": 2019,
+      "n": 216,
+      "coapplications": 22,
+      "with_registration_number": 190
+    },
+    {
+      "application_year": 2020,
+      "n": 288,
+      "coapplications": 12,
+      "with_registration_number": 242
+    },
+    {
+      "application_year": 2021,
+      "n": 445,
+      "coapplications": 30,
+      "with_registration_number": 334
+    },
+    {
+      "application_year": 2022,
+      "n": 321,
+      "coapplications": 20,
+      "with_registration_number": 254
+    },
+    {
+      "application_year": 2023,
+      "n": 350,
+      "coapplications": 25,
+      "with_registration_number": 269
+    },
+    {
+      "application_year": 2024,
+      "n": 373,
+      "coapplications": 12,
+      "with_registration_number": 198
+    },
+    {
+      "application_year": 2025,
+      "n": 187,
+      "coapplications": 12,
+      "with_registration_number": 101
+    },
+    {
+      "application_year": 2026,
+      "n": 35,
+      "coapplications": 0,
+      "with_registration_number": 19
+    }
+  ],
+  "top_companies": [
+    {
+      "selection_id": "SEL-071",
+      "company_name_official": "마크애니",
+      "field_official": "인공지능",
+      "cohort": 4,
+      "selection_year": 2025,
+      "n": 256.0,
+      "first_year": 1997.0,
+      "last_year": 2025.0,
+      "median_year": 2011.0,
+      "coapplication_count": 45.0,
+      "registered_number_count": 172.0,
+      "collection_status": "collected",
+      "coapplication_pct": 17.578125,
+      "registered_number_pct": 67.1875
+    },
+    {
+      "selection_id": "SEL-070",
+      "company_name_official": "부전전자",
+      "field_official": "인공지능",
+      "cohort": 4,
+      "selection_year": 2025,
+      "n": 233.0,
+      "first_year": 1996.0,
+      "last_year": 2025.0,
+      "median_year": 2016.0,
+      "coapplication_count": 9.0,
+      "registered_number_count": 202.0,
+      "collection_status": "collected",
+      "coapplication_pct": 3.8626609442,
+      "registered_number_pct": 86.69527897
+    },
+    {
+      "selection_id": "SEL-047",
+      "company_name_official": "웨이브로드",
+      "field_official": "반도체",
+      "cohort": 3,
+      "selection_year": 2024,
+      "n": 182.0,
+      "first_year": 2017.0,
+      "last_year": 2026.0,
+      "median_year": 2022.0,
+      "coapplication_count": 0.0,
+      "registered_number_count": 139.0,
+      "collection_status": "collected",
+      "coapplication_pct": 0.0,
+      "registered_number_pct": 76.3736263736
+    },
+    {
+      "selection_id": "SEL-023",
+      "company_name_official": "인피닉",
+      "field_official": "인공지능",
+      "cohort": 2,
+      "selection_year": 2023,
+      "n": 155.0,
+      "first_year": 2010.0,
+      "last_year": 2026.0,
+      "median_year": 2021.0,
+      "coapplication_count": 0.0,
+      "registered_number_count": 132.0,
+      "collection_status": "collected",
+      "coapplication_pct": 0.0,
+      "registered_number_pct": 85.1612903226
+    },
+    {
+      "selection_id": "SEL-009",
+      "company_name_official": "에스오에스랩",
+      "field_official": "로봇",
+      "cohort": 1,
+      "selection_year": 2022,
+      "n": 138.0,
+      "first_year": 2016.0,
+      "last_year": 2026.0,
+      "median_year": 2021.0,
+      "coapplication_count": 17.0,
+      "registered_number_count": 89.0,
+      "collection_status": "collected",
+      "coapplication_pct": 12.3188405797,
+      "registered_number_pct": 64.4927536232
+    },
+    {
+      "selection_id": "SEL-074",
+      "company_name_official": "딥엑스",
+      "field_official": "반도체",
+      "cohort": 4,
+      "selection_year": 2025,
+      "n": 114.0,
+      "first_year": 2018.0,
+      "last_year": 2026.0,
+      "median_year": 2023.0,
+      "coapplication_count": 0.0,
+      "registered_number_count": 64.0,
+      "collection_status": "collected",
+      "coapplication_pct": 0.0,
+      "registered_number_pct": 56.1403508772
+    },
+    {
+      "selection_id": "SEL-078",
+      "company_name_official": "센서뷰",
+      "field_official": "드론",
+      "cohort": 4,
+      "selection_year": 2025,
+      "n": 110.0,
+      "first_year": 2016.0,
+      "last_year": 2025.0,
+      "median_year": 2020.0,
+      "coapplication_count": 9.0,
+      "registered_number_count": 76.0,
+      "collection_status": "collected",
+      "coapplication_pct": 8.1818181818,
+      "registered_number_pct": 69.0909090909
+    },
+    {
+      "selection_id": "SEL-060",
+      "company_name_official": "이오시스템",
+      "field_official": "기타",
+      "cohort": 3,
+      "selection_year": 2024,
+      "n": 100.0,
+      "first_year": 2001.0,
+      "last_year": 2025.0,
+      "median_year": 2014.0,
+      "coapplication_count": 11.0,
+      "registered_number_count": 74.0,
+      "collection_status": "collected",
+      "coapplication_pct": 11.0,
+      "registered_number_pct": 74.0
+    },
+    {
+      "selection_id": "SEL-021",
+      "company_name_official": "코난테크놀로지",
+      "field_official": "인공지능",
+      "cohort": 2,
+      "selection_year": 2023,
+      "n": 92.0,
+      "first_year": 1999.0,
+      "last_year": 2026.0,
+      "median_year": 2017.0,
+      "coapplication_count": 4.0,
+      "registered_number_count": 65.0,
+      "collection_status": "collected",
+      "coapplication_pct": 4.347826087,
+      "registered_number_pct": 70.652173913
+    },
+    {
+      "selection_id": "SEL-082",
+      "company_name_official": "이루온",
+      "field_official": "드론",
+      "cohort": 4,
+      "selection_year": 2025,
+      "n": 92.0,
+      "first_year": 2001.0,
+      "last_year": 2025.0,
+      "median_year": 2007.0,
+      "coapplication_count": 10.0,
+      "registered_number_count": 69.0,
+      "collection_status": "collected",
+      "coapplication_pct": 10.8695652174,
+      "registered_number_pct": 75.0
+    },
+    {
+      "selection_id": "SEL-044",
+      "company_name_official": "마키나락스",
+      "field_official": "인공지능",
+      "cohort": 3,
+      "selection_year": 2024,
+      "n": 91.0,
+      "first_year": 2018.0,
+      "last_year": 2025.0,
+      "median_year": 2022.0,
+      "coapplication_count": 10.0,
+      "registered_number_count": 59.0,
+      "collection_status": "collected",
+      "coapplication_pct": 10.989010989,
+      "registered_number_pct": 64.8351648352
+    },
+    {
+      "selection_id": "SEL-059",
+      "company_name_official": "버넥트",
+      "field_official": "기타",
+      "cohort": 3,
+      "selection_year": 2024,
+      "n": 83.0,
+      "first_year": 2017.0,
+      "last_year": 2025.0,
+      "median_year": 2021.0,
+      "coapplication_count": 0.0,
+      "registered_number_count": 60.0,
+      "collection_status": "collected",
+      "coapplication_pct": 0.0,
+      "registered_number_pct": 72.2891566265
+    }
+  ],
+  "fields": [
+    {
+      "field_official": "기타",
+      "patent_company_links": 456,
+      "unique_applications": 456,
+      "companies": 12,
+      "coapplication_links": 35,
+      "median_application_year": 2019.0,
+      "median_company_count": 20.0,
+      "mean_company_count": 38.0,
+      "min_company_count": 9.0,
+      "max_company_count": 100.0
+    },
+    {
+      "field_official": "드론",
+      "patent_company_links": 710,
+      "unique_applications": 710,
+      "companies": 20,
+      "coapplication_links": 76,
+      "median_application_year": 2020.0,
+      "median_company_count": 30.5,
+      "mean_company_count": 35.5,
+      "min_company_count": 7.0,
+      "max_company_count": 110.0
+    },
+    {
+      "field_official": "로봇",
+      "patent_company_links": 355,
+      "unique_applications": 355,
+      "companies": 9,
+      "coapplication_links": 37,
+      "median_application_year": 2020.0,
+      "median_company_count": 22.0,
+      "mean_company_count": 39.4444444444,
+      "min_company_count": 1.0,
+      "max_company_count": 138.0
+    },
+    {
+      "field_official": "반도체",
+      "patent_company_links": 549,
+      "unique_applications": 549,
+      "companies": 9,
+      "coapplication_links": 22,
+      "median_application_year": 2021.0,
+      "median_company_count": 34.0,
+      "mean_company_count": 61.0,
+      "min_company_count": 15.0,
+      "max_company_count": 182.0
+    },
+    {
+      "field_official": "센서",
+      "patent_company_links": 15,
+      "unique_applications": 15,
+      "companies": 1,
+      "coapplication_links": 3,
+      "median_application_year": 2017.0,
+      "median_company_count": 15.0,
+      "mean_company_count": 15.0,
+      "min_company_count": 15.0,
+      "max_company_count": 15.0
+    },
+    {
+      "field_official": "우주",
+      "patent_company_links": 286,
+      "unique_applications": 283,
+      "companies": 13,
+      "coapplication_links": 43,
+      "median_application_year": 2019.0,
+      "median_company_count": 15.0,
+      "mean_company_count": 22.0,
+      "min_company_count": 1.0,
+      "max_company_count": 54.0
+    },
+    {
+      "field_official": "인공지능",
+      "patent_company_links": 1253,
+      "unique_applications": 1253,
+      "companies": 17,
+      "coapplication_links": 103,
+      "median_application_year": 2021.0,
+      "median_company_count": 53.0,
+      "mean_company_count": 73.7058823529,
+      "min_company_count": 13.0,
+      "max_company_count": 256.0
+    }
+  ],
+  "cohorts": [
+    {
+      "cohort": 1,
+      "patent_company_links": 784,
+      "unique_applications": 784,
+      "companies": 18,
+      "coapplication_links": 69,
+      "median_application_year": 2020.0,
+      "median_company_count": 34.0,
+      "mean_company_count": 43.5555555556,
+      "min_company_count": 6.0,
+      "max_company_count": 138.0
+    },
+    {
+      "cohort": 2,
+      "patent_company_links": 623,
+      "unique_applications": 623,
+      "companies": 16,
+      "coapplication_links": 38,
+      "median_application_year": 2021.0,
+      "median_company_count": 27.0,
+      "mean_company_count": 38.9375,
+      "min_company_count": 11.0,
+      "max_company_count": 155.0
+    },
+    {
+      "cohort": 3,
+      "patent_company_links": 1025,
+      "unique_applications": 1025,
+      "companies": 26,
+      "coapplication_links": 83,
+      "median_application_year": 2021.0,
+      "median_company_count": 28.0,
+      "mean_company_count": 39.4230769231,
+      "min_company_count": 7.0,
+      "max_company_count": 182.0
+    },
+    {
+      "cohort": 4,
+      "patent_company_links": 1192,
+      "unique_applications": 1192,
+      "companies": 21,
+      "coapplication_links": 129,
+      "median_application_year": 2019.0,
+      "median_company_count": 28.0,
+      "mean_company_count": 56.7619047619,
+      "min_company_count": 1.0,
+      "max_company_count": 256.0
+    }
+  ],
+  "field_ipc_top": [
+    {
+      "field_official": "인공지능",
+      "ipc_subclass": "H04R",
+      "full_count": 192,
+      "fractional_count": 179.3666666667,
+      "field_share_pct": 14.3149773876
+    },
+    {
+      "field_official": "인공지능",
+      "ipc_subclass": "G06F",
+      "full_count": 340,
+      "fractional_count": 177.9666666667,
+      "field_share_pct": 14.203245544
+    },
+    {
+      "field_official": "인공지능",
+      "ipc_subclass": "G06T",
+      "full_count": 337,
+      "fractional_count": 176.0,
+      "field_share_pct": 14.0462889066
+    },
+    {
+      "field_official": "반도체",
+      "ipc_subclass": "H10H",
+      "full_count": 121,
+      "fractional_count": 104.6666666667,
+      "field_share_pct": 19.064966606
+    },
+    {
+      "field_official": "로봇",
+      "ipc_subclass": "G01S",
+      "full_count": 157,
+      "fractional_count": 94.15,
+      "field_share_pct": 26.5211267606
+    },
+    {
+      "field_official": "반도체",
+      "ipc_subclass": "G06N",
+      "full_count": 126,
+      "fractional_count": 73.3833333333,
+      "field_share_pct": 13.3667273831
+    },
+    {
+      "field_official": "반도체",
+      "ipc_subclass": "H10D",
+      "full_count": 105,
+      "fractional_count": 67.3166666667,
+      "field_share_pct": 12.2616879174
+    },
+    {
+      "field_official": "드론",
+      "ipc_subclass": "H01M",
+      "full_count": 64,
+      "fractional_count": 50.3666666667,
+      "field_share_pct": 7.0938967136
+    },
+    {
+      "field_official": "드론",
+      "ipc_subclass": "H01Q",
+      "full_count": 55,
+      "fractional_count": 45.05,
+      "field_share_pct": 6.3450704225
+    },
+    {
+      "field_official": "우주",
+      "ipc_subclass": "H01Q",
+      "full_count": 53,
+      "fractional_count": 41.5,
+      "field_share_pct": 14.5104895105
+    },
+    {
+      "field_official": "드론",
+      "ipc_subclass": "G02B",
+      "full_count": 47,
+      "fractional_count": 39.1666666667,
+      "field_share_pct": 5.5164319249
+    },
+    {
+      "field_official": "기타",
+      "ipc_subclass": "G06T",
+      "full_count": 75,
+      "fractional_count": 35.4095238095,
+      "field_share_pct": 7.7652464495
+    },
+    {
+      "field_official": "우주",
+      "ipc_subclass": "G01S",
+      "full_count": 46,
+      "fractional_count": 30.6166666667,
+      "field_share_pct": 10.7051282051
+    },
+    {
+      "field_official": "기타",
+      "ipc_subclass": "G01S",
+      "full_count": 49,
+      "fractional_count": 28.9,
+      "field_share_pct": 6.3377192982
+    },
+    {
+      "field_official": "로봇",
+      "ipc_subclass": "G06F",
+      "full_count": 39,
+      "fractional_count": 28.0833333333,
+      "field_share_pct": 7.9107981221
+    },
+    {
+      "field_official": "기타",
+      "ipc_subclass": "G02B",
+      "full_count": 54,
+      "fractional_count": 27.95,
+      "field_share_pct": 6.1293859649
+    },
+    {
+      "field_official": "로봇",
+      "ipc_subclass": "H02K",
+      "full_count": 36,
+      "fractional_count": 24.75,
+      "field_share_pct": 6.9718309859
+    },
+    {
+      "field_official": "우주",
+      "ipc_subclass": "G06F",
+      "full_count": 31,
+      "fractional_count": 20.4,
+      "field_share_pct": 7.1328671329
+    },
+    {
+      "field_official": "센서",
+      "ipc_subclass": "G21C",
+      "full_count": 10,
+      "fractional_count": 7.8333333333,
+      "field_share_pct": 52.2222222222
+    },
+    {
+      "field_official": "센서",
+      "ipc_subclass": "G01T",
+      "full_count": 5,
+      "fractional_count": 2.6666666667,
+      "field_share_pct": 17.7777777778
+    },
+    {
+      "field_official": "센서",
+      "ipc_subclass": "H04L",
+      "full_count": 2,
+      "fractional_count": 1.0,
+      "field_share_pct": 6.6666666667
+    }
+  ],
+  "coapplication_fields": [
+    {
+      "field_official": "센서",
+      "n": 15,
+      "co": 3,
+      "pct": 20.0
+    },
+    {
+      "field_official": "우주",
+      "n": 286,
+      "co": 43,
+      "pct": 15.034965035
+    },
+    {
+      "field_official": "드론",
+      "n": 710,
+      "co": 76,
+      "pct": 10.7042253521
+    },
+    {
+      "field_official": "로봇",
+      "n": 355,
+      "co": 37,
+      "pct": 10.4225352113
+    },
+    {
+      "field_official": "인공지능",
+      "n": 1253,
+      "co": 103,
+      "pct": 8.2202713488
+    },
+    {
+      "field_official": "기타",
+      "n": 456,
+      "co": 35,
+      "pct": 7.6754385965
+    },
+    {
+      "field_official": "반도체",
+      "n": 549,
+      "co": 22,
+      "pct": 4.0072859745
+    }
+  ],
+  "top_coapplication_companies": [
+    {
+      "selection_id": "SEL-071",
+      "company_name_official": "마크애니",
+      "field_official": "인공지능",
+      "cohort": 4,
+      "selection_year": 2025,
+      "n": 256.0,
+      "first_year": 1997.0,
+      "last_year": 2025.0,
+      "median_year": 2011.0,
+      "coapplication_count": 45.0,
+      "registered_number_count": 172.0,
+      "collection_status": "collected",
+      "coapplication_pct": 17.578125,
+      "registered_number_pct": 67.1875
+    },
+    {
+      "selection_id": "SEL-009",
+      "company_name_official": "에스오에스랩",
+      "field_official": "로봇",
+      "cohort": 1,
+      "selection_year": 2022,
+      "n": 138.0,
+      "first_year": 2016.0,
+      "last_year": 2026.0,
+      "median_year": 2021.0,
+      "coapplication_count": 17.0,
+      "registered_number_count": 89.0,
+      "collection_status": "collected",
+      "coapplication_pct": 12.3188405797,
+      "registered_number_pct": 64.4927536232
+    },
+    {
+      "selection_id": "SEL-036",
+      "company_name_official": "솔탑",
+      "field_official": "우주",
+      "cohort": 3,
+      "selection_year": 2024,
+      "n": 38.0,
+      "first_year": 2007.0,
+      "last_year": 2024.0,
+      "median_year": 2021.0,
+      "coapplication_count": 13.0,
+      "registered_number_count": 27.0,
+      "collection_status": "collected",
+      "coapplication_pct": 34.2105263158,
+      "registered_number_pct": 71.0526315789
+    },
+    {
+      "selection_id": "SEL-011",
+      "company_name_official": "대한광통신",
+      "field_official": "드론",
+      "cohort": 1,
+      "selection_year": 2022,
+      "n": 65.0,
+      "first_year": 2003.0,
+      "last_year": 2025.0,
+      "median_year": 2017.0,
+      "coapplication_count": 11.0,
+      "registered_number_count": 44.0,
+      "collection_status": "collected",
+      "coapplication_pct": 16.9230769231,
+      "registered_number_pct": 67.6923076923
+    },
+    {
+      "selection_id": "SEL-060",
+      "company_name_official": "이오시스템",
+      "field_official": "기타",
+      "cohort": 3,
+      "selection_year": 2024,
+      "n": 100.0,
+      "first_year": 2001.0,
+      "last_year": 2025.0,
+      "median_year": 2014.0,
+      "coapplication_count": 11.0,
+      "registered_number_count": 74.0,
+      "collection_status": "collected",
+      "coapplication_pct": 11.0,
+      "registered_number_pct": 74.0
+    },
+    {
+      "selection_id": "SEL-044",
+      "company_name_official": "마키나락스",
+      "field_official": "인공지능",
+      "cohort": 3,
+      "selection_year": 2024,
+      "n": 91.0,
+      "first_year": 2018.0,
+      "last_year": 2025.0,
+      "median_year": 2022.0,
+      "coapplication_count": 10.0,
+      "registered_number_count": 59.0,
+      "collection_status": "collected",
+      "coapplication_pct": 10.989010989,
+      "registered_number_pct": 64.8351648352
+    },
+    {
+      "selection_id": "SEL-052",
+      "company_name_official": "유뱃",
+      "field_official": "드론",
+      "cohort": 3,
+      "selection_year": 2024,
+      "n": 36.0,
+      "first_year": 2016.0,
+      "last_year": 2024.0,
+      "median_year": 2021.0,
+      "coapplication_count": 10.0,
+      "registered_number_count": 21.0,
+      "collection_status": "collected",
+      "coapplication_pct": 27.7777777778,
+      "registered_number_pct": 58.3333333333
+    },
+    {
+      "selection_id": "SEL-002",
+      "company_name_official": "단암시스템즈",
+      "field_official": "우주",
+      "cohort": 1,
+      "selection_year": 2022,
+      "n": 46.0,
+      "first_year": 2002.0,
+      "last_year": 2024.0,
+      "median_year": 2020.0,
+      "coapplication_count": 10.0,
+      "registered_number_count": 38.0,
+      "collection_status": "collected",
+      "coapplication_pct": 21.7391304348,
+      "registered_number_pct": 82.6086956522
+    },
+    {
+      "selection_id": "SEL-082",
+      "company_name_official": "이루온",
+      "field_official": "드론",
+      "cohort": 4,
+      "selection_year": 2025,
+      "n": 92.0,
+      "first_year": 2001.0,
+      "last_year": 2025.0,
+      "median_year": 2007.0,
+      "coapplication_count": 10.0,
+      "registered_number_count": 69.0,
+      "collection_status": "collected",
+      "coapplication_pct": 10.8695652174,
+      "registered_number_pct": 75.0
+    },
+    {
+      "selection_id": "SEL-051",
+      "company_name_official": "소나테크",
+      "field_official": "드론",
+      "cohort": 3,
+      "selection_year": 2024,
+      "n": 35.0,
+      "first_year": 2004.0,
+      "last_year": 2024.0,
+      "median_year": 2016.0,
+      "coapplication_count": 9.0,
+      "registered_number_count": 23.0,
+      "collection_status": "collected",
+      "coapplication_pct": 25.7142857143,
+      "registered_number_pct": 65.7142857143
+    }
+  ],
+  "selection_timing": [
+    {
+      "cohort": 1,
+      "after_selection_year": 160,
+      "before_selection_year": 572,
+      "selection_year": 52
+    },
+    {
+      "cohort": 2,
+      "after_selection_year": 112,
+      "before_selection_year": 466,
+      "selection_year": 45
+    },
+    {
+      "cohort": 3,
+      "after_selection_year": 72,
+      "before_selection_year": 813,
+      "selection_year": 140
+    },
+    {
+      "cohort": 4,
+      "after_selection_year": 8,
+      "before_selection_year": 1127,
+      "selection_year": 57
+    }
+  ],
+  "ipc_top": [
+    {
+      "ipc_subclass": "G06F",
+      "full_count": 556,
+      "fractional_count": 286.9821428571
+    },
+    {
+      "ipc_subclass": "G06N",
+      "full_count": 512,
+      "fractional_count": 252.0761904762
+    },
+    {
+      "ipc_subclass": "G06T",
+      "full_count": 504,
+      "fractional_count": 249.8595238095
+    },
+    {
+      "ipc_subclass": "G01S",
+      "full_count": 360,
+      "fractional_count": 206.7095238095
+    },
+    {
+      "ipc_subclass": "H04N",
+      "full_count": 349,
+      "fractional_count": 190.9
+    },
+    {
+      "ipc_subclass": "H04R",
+      "full_count": 201,
+      "fractional_count": 184.9833333333
+    },
+    {
+      "ipc_subclass": "G06Q",
+      "full_count": 261,
+      "fractional_count": 110.4857142857
+    },
+    {
+      "ipc_subclass": "H10H",
+      "full_count": 124,
+      "fractional_count": 105.5333333333
+    },
+    {
+      "ipc_subclass": "G02B",
+      "full_count": 176,
+      "fractional_count": 103.1261904762
+    },
+    {
+      "ipc_subclass": "H01Q",
+      "full_count": 122,
+      "fractional_count": 94.55
+    },
+    {
+      "ipc_subclass": "G06V",
+      "full_count": 235,
+      "fractional_count": 88.3833333333
+    },
+    {
+      "ipc_subclass": "H04L",
+      "full_count": 133,
+      "fractional_count": 78.7095238095
+    },
+    {
+      "ipc_subclass": "H10D",
+      "full_count": 112,
+      "fractional_count": 70.3166666667
+    },
+    {
+      "ipc_subclass": "H01M",
+      "full_count": 81,
+      "fractional_count": 59.15
+    },
+    {
+      "ipc_subclass": "H04W",
+      "full_count": 106,
+      "fractional_count": 57.619047619
+    }
+  ]
+}

@@ -1,0 +1,583 @@
+[
+  {
+    "selection_id": "SEL-001",
+    "company_name_official": "ANH스트럭쳐",
+    "cohort": 1,
+    "selection_year": 2022,
+    "field_official": "우주"
+  },
+  {
+    "selection_id": "SEL-002",
+    "company_name_official": "단암시스템즈",
+    "cohort": 1,
+    "selection_year": 2022,
+    "field_official": "우주"
+  },
+  {
+    "selection_id": "SEL-003",
+    "company_name_official": "제노코",
+    "cohort": 1,
+    "selection_year": 2022,
+    "field_official": "우주"
+  },
+  {
+    "selection_id": "SEL-004",
+    "company_name_official": "솔빛시스템",
+    "cohort": 1,
+    "selection_year": 2022,
+    "field_official": "인공지능"
+  },
+  {
+    "selection_id": "SEL-005",
+    "company_name_official": "에스아이에이",
+    "cohort": 1,
+    "selection_year": 2022,
+    "field_official": "인공지능"
+  },
+  {
+    "selection_id": "SEL-006",
+    "company_name_official": "아이브스",
+    "cohort": 1,
+    "selection_year": 2022,
+    "field_official": "인공지능"
+  },
+  {
+    "selection_id": "SEL-007",
+    "company_name_official": "웨이비스",
+    "cohort": 1,
+    "selection_year": 2022,
+    "field_official": "반도체"
+  },
+  {
+    "selection_id": "SEL-008",
+    "company_name_official": "RFHIC",
+    "cohort": 1,
+    "selection_year": 2022,
+    "field_official": "반도체"
+  },
+  {
+    "selection_id": "SEL-009",
+    "company_name_official": "에스오에스랩",
+    "cohort": 1,
+    "selection_year": 2022,
+    "field_official": "로봇"
+  },
+  {
+    "selection_id": "SEL-010",
+    "company_name_official": "코모텍",
+    "cohort": 1,
+    "selection_year": 2022,
+    "field_official": "드론"
+  },
+  {
+    "selection_id": "SEL-011",
+    "company_name_official": "대한광통신",
+    "cohort": 1,
+    "selection_year": 2022,
+    "field_official": "드론"
+  },
+  {
+    "selection_id": "SEL-012",
+    "company_name_official": "영풍전자",
+    "cohort": 1,
+    "selection_year": 2022,
+    "field_official": "드론"
+  },
+  {
+    "selection_id": "SEL-013",
+    "company_name_official": "빅텍",
+    "cohort": 1,
+    "selection_year": 2022,
+    "field_official": "드론"
+  },
+  {
+    "selection_id": "SEL-014",
+    "company_name_official": "네스앤텍",
+    "cohort": 1,
+    "selection_year": 2022,
+    "field_official": "드론"
+  },
+  {
+    "selection_id": "SEL-015",
+    "company_name_official": "아이블포토닉스",
+    "cohort": 1,
+    "selection_year": 2022,
+    "field_official": "기타"
+  },
+  {
+    "selection_id": "SEL-016",
+    "company_name_official": "스탠다드시험연구소",
+    "cohort": 1,
+    "selection_year": 2022,
+    "field_official": "기타"
+  },
+  {
+    "selection_id": "SEL-017",
+    "company_name_official": "우리별",
+    "cohort": 1,
+    "selection_year": 2022,
+    "field_official": "기타"
+  },
+  {
+    "selection_id": "SEL-018",
+    "company_name_official": "성신디펜스솔루션",
+    "cohort": 1,
+    "selection_year": 2022,
+    "field_official": "기타"
+  },
+  {
+    "selection_id": "SEL-019",
+    "company_name_official": "하나에이엠티",
+    "cohort": 2,
+    "selection_year": 2023,
+    "field_official": "우주"
+  },
+  {
+    "selection_id": "SEL-020",
+    "company_name_official": "루미르",
+    "cohort": 2,
+    "selection_year": 2023,
+    "field_official": "우주"
+  },
+  {
+    "selection_id": "SEL-021",
+    "company_name_official": "코난테크놀로지",
+    "cohort": 2,
+    "selection_year": 2023,
+    "field_official": "인공지능"
+  },
+  {
+    "selection_id": "SEL-022",
+    "company_name_official": "다비오",
+    "cohort": 2,
+    "selection_year": 2023,
+    "field_official": "인공지능"
+  },
+  {
+    "selection_id": "SEL-023",
+    "company_name_official": "인피닉",
+    "cohort": 2,
+    "selection_year": 2023,
+    "field_official": "인공지능"
+  },
+  {
+    "selection_id": "SEL-024",
+    "company_name_official": "웨이브피아",
+    "cohort": 2,
+    "selection_year": 2023,
+    "field_official": "반도체"
+  },
+  {
+    "selection_id": "SEL-025",
+    "company_name_official": "쿠오핀",
+    "cohort": 2,
+    "selection_year": 2023,
+    "field_official": "반도체"
+  },
+  {
+    "selection_id": "SEL-026",
+    "company_name_official": "마이크로인피니티",
+    "cohort": 2,
+    "selection_year": 2023,
+    "field_official": "로봇"
+  },
+  {
+    "selection_id": "SEL-027",
+    "company_name_official": "컨트로맥스",
+    "cohort": 2,
+    "selection_year": 2023,
+    "field_official": "로봇"
+  },
+  {
+    "selection_id": "SEL-028",
+    "company_name_official": "링크플로우",
+    "cohort": 2,
+    "selection_year": 2023,
+    "field_official": "로봇"
+  },
+  {
+    "selection_id": "SEL-029",
+    "company_name_official": "두타기술",
+    "cohort": 2,
+    "selection_year": 2023,
+    "field_official": "드론"
+  },
+  {
+    "selection_id": "SEL-030",
+    "company_name_official": "니어스랩",
+    "cohort": 2,
+    "selection_year": 2023,
+    "field_official": "드론"
+  },
+  {
+    "selection_id": "SEL-031",
+    "company_name_official": "파블로항공",
+    "cohort": 2,
+    "selection_year": 2023,
+    "field_official": "드론"
+  },
+  {
+    "selection_id": "SEL-032",
+    "company_name_official": "센서피아",
+    "cohort": 2,
+    "selection_year": 2023,
+    "field_official": "드론"
+  },
+  {
+    "selection_id": "SEL-033",
+    "company_name_official": "디브레인",
+    "cohort": 2,
+    "selection_year": 2023,
+    "field_official": "드론"
+  },
+  {
+    "selection_id": "SEL-034",
+    "company_name_official": "아이디케이",
+    "cohort": 2,
+    "selection_year": 2023,
+    "field_official": "기타"
+  },
+  {
+    "selection_id": "SEL-035",
+    "company_name_official": "심네트",
+    "cohort": 2,
+    "selection_year": 2023,
+    "field_official": "기타"
+  },
+  {
+    "selection_id": "SEL-036",
+    "company_name_official": "솔탑",
+    "cohort": 3,
+    "selection_year": 2024,
+    "field_official": "우주"
+  },
+  {
+    "selection_id": "SEL-037",
+    "company_name_official": "두시텍",
+    "cohort": 3,
+    "selection_year": 2024,
+    "field_official": "우주"
+  },
+  {
+    "selection_id": "SEL-038",
+    "company_name_official": "아이스펙",
+    "cohort": 3,
+    "selection_year": 2024,
+    "field_official": "우주"
+  },
+  {
+    "selection_id": "SEL-039",
+    "company_name_official": "코모텍",
+    "cohort": 3,
+    "selection_year": 2024,
+    "field_official": "우주"
+  },
+  {
+    "selection_id": "SEL-040",
+    "company_name_official": "펀진",
+    "cohort": 3,
+    "selection_year": 2024,
+    "field_official": "인공지능"
+  },
+  {
+    "selection_id": "SEL-041",
+    "company_name_official": "젠젠에이아이",
+    "cohort": 3,
+    "selection_year": 2024,
+    "field_official": "인공지능"
+  },
+  {
+    "selection_id": "SEL-042",
+    "company_name_official": "모라이",
+    "cohort": 3,
+    "selection_year": 2024,
+    "field_official": "인공지능"
+  },
+  {
+    "selection_id": "SEL-043",
+    "company_name_official": "코클",
+    "cohort": 3,
+    "selection_year": 2024,
+    "field_official": "인공지능"
+  },
+  {
+    "selection_id": "SEL-044",
+    "company_name_official": "마키나락스",
+    "cohort": 3,
+    "selection_year": 2024,
+    "field_official": "인공지능"
+  },
+  {
+    "selection_id": "SEL-045",
+    "company_name_official": "퓨리오사에이아이",
+    "cohort": 3,
+    "selection_year": 2024,
+    "field_official": "반도체"
+  },
+  {
+    "selection_id": "SEL-046",
+    "company_name_official": "옵토웰",
+    "cohort": 3,
+    "selection_year": 2024,
+    "field_official": "반도체"
+  },
+  {
+    "selection_id": "SEL-047",
+    "company_name_official": "웨이브로드",
+    "cohort": 3,
+    "selection_year": 2024,
+    "field_official": "반도체"
+  },
+  {
+    "selection_id": "SEL-048",
+    "company_name_official": "에이유",
+    "cohort": 3,
+    "selection_year": 2024,
+    "field_official": "로봇"
+  },
+  {
+    "selection_id": "SEL-049",
+    "company_name_official": "포멀웍스",
+    "cohort": 3,
+    "selection_year": 2024,
+    "field_official": "로봇"
+  },
+  {
+    "selection_id": "SEL-050",
+    "company_name_official": "유비파이",
+    "cohort": 3,
+    "selection_year": 2024,
+    "field_official": "드론"
+  },
+  {
+    "selection_id": "SEL-051",
+    "company_name_official": "소나테크",
+    "cohort": 3,
+    "selection_year": 2024,
+    "field_official": "드론"
+  },
+  {
+    "selection_id": "SEL-052",
+    "company_name_official": "유뱃",
+    "cohort": 3,
+    "selection_year": 2024,
+    "field_official": "드론"
+  },
+  {
+    "selection_id": "SEL-053",
+    "company_name_official": "아이티사이언스",
+    "cohort": 3,
+    "selection_year": 2024,
+    "field_official": "드론"
+  },
+  {
+    "selection_id": "SEL-054",
+    "company_name_official": "패리티",
+    "cohort": 3,
+    "selection_year": 2024,
+    "field_official": "드론"
+  },
+  {
+    "selection_id": "SEL-055",
+    "company_name_official": "위플로",
+    "cohort": 3,
+    "selection_year": 2024,
+    "field_official": "드론"
+  },
+  {
+    "selection_id": "SEL-056",
+    "company_name_official": "삼정오토메이션",
+    "cohort": 3,
+    "selection_year": 2024,
+    "field_official": "기타"
+  },
+  {
+    "selection_id": "SEL-057",
+    "company_name_official": "인텔릭스",
+    "cohort": 3,
+    "selection_year": 2024,
+    "field_official": "기타"
+  },
+  {
+    "selection_id": "SEL-058",
+    "company_name_official": "덕산넵코어스",
+    "cohort": 3,
+    "selection_year": 2024,
+    "field_official": "기타"
+  },
+  {
+    "selection_id": "SEL-059",
+    "company_name_official": "버넥트",
+    "cohort": 3,
+    "selection_year": 2024,
+    "field_official": "기타"
+  },
+  {
+    "selection_id": "SEL-060",
+    "company_name_official": "이오시스템",
+    "cohort": 3,
+    "selection_year": 2024,
+    "field_official": "기타"
+  },
+  {
+    "selection_id": "SEL-061",
+    "company_name_official": "휴라",
+    "cohort": 3,
+    "selection_year": 2024,
+    "field_official": "기타"
+  },
+  {
+    "selection_id": "SEL-062",
+    "company_name_official": "삼영기계",
+    "cohort": 3,
+    "selection_year": 2024,
+    "field_official": "기타"
+  },
+  {
+    "selection_id": "SEL-063",
+    "company_name_official": "스텝랩",
+    "cohort": 4,
+    "selection_year": 2025,
+    "field_official": "우주"
+  },
+  {
+    "selection_id": "SEL-064",
+    "company_name_official": "극동통신",
+    "cohort": 4,
+    "selection_year": 2025,
+    "field_official": "우주"
+  },
+  {
+    "selection_id": "SEL-065",
+    "company_name_official": "나라스페이스 테크놀로지",
+    "cohort": 4,
+    "selection_year": 2025,
+    "field_official": "우주"
+  },
+  {
+    "selection_id": "SEL-066",
+    "company_name_official": "스페이스맵",
+    "cohort": 4,
+    "selection_year": 2025,
+    "field_official": "우주"
+  },
+  {
+    "selection_id": "SEL-067",
+    "company_name_official": "텔레픽스",
+    "cohort": 4,
+    "selection_year": 2025,
+    "field_official": "인공지능"
+  },
+  {
+    "selection_id": "SEL-068",
+    "company_name_official": "인텔리빅스",
+    "cohort": 4,
+    "selection_year": 2025,
+    "field_official": "인공지능"
+  },
+  {
+    "selection_id": "SEL-069",
+    "company_name_official": "데이터메이커",
+    "cohort": 4,
+    "selection_year": 2025,
+    "field_official": "인공지능"
+  },
+  {
+    "selection_id": "SEL-070",
+    "company_name_official": "부전전자",
+    "cohort": 4,
+    "selection_year": 2025,
+    "field_official": "인공지능"
+  },
+  {
+    "selection_id": "SEL-071",
+    "company_name_official": "마크애니",
+    "cohort": 4,
+    "selection_year": 2025,
+    "field_official": "인공지능"
+  },
+  {
+    "selection_id": "SEL-072",
+    "company_name_official": "써로마인드",
+    "cohort": 4,
+    "selection_year": 2025,
+    "field_official": "인공지능"
+  },
+  {
+    "selection_id": "SEL-073",
+    "company_name_official": "아이쓰리시스템",
+    "cohort": 4,
+    "selection_year": 2025,
+    "field_official": "반도체"
+  },
+  {
+    "selection_id": "SEL-074",
+    "company_name_official": "딥엑스",
+    "cohort": 4,
+    "selection_year": 2025,
+    "field_official": "반도체"
+  },
+  {
+    "selection_id": "SEL-075",
+    "company_name_official": "라이온로보틱스",
+    "cohort": 4,
+    "selection_year": 2025,
+    "field_official": "로봇"
+  },
+  {
+    "selection_id": "SEL-076",
+    "company_name_official": "삼현",
+    "cohort": 4,
+    "selection_year": 2025,
+    "field_official": "로봇"
+  },
+  {
+    "selection_id": "SEL-077",
+    "company_name_official": "케이알엠",
+    "cohort": 4,
+    "selection_year": 2025,
+    "field_official": "로봇"
+  },
+  {
+    "selection_id": "SEL-078",
+    "company_name_official": "센서뷰",
+    "cohort": 4,
+    "selection_year": 2025,
+    "field_official": "드론"
+  },
+  {
+    "selection_id": "SEL-079",
+    "company_name_official": "유큐브",
+    "cohort": 4,
+    "selection_year": 2025,
+    "field_official": "드론"
+  },
+  {
+    "selection_id": "SEL-080",
+    "company_name_official": "비이아이랩",
+    "cohort": 4,
+    "selection_year": 2025,
+    "field_official": "드론"
+  },
+  {
+    "selection_id": "SEL-081",
+    "company_name_official": "모아컴코리아",
+    "cohort": 4,
+    "selection_year": 2025,
+    "field_official": "드론"
+  },
+  {
+    "selection_id": "SEL-082",
+    "company_name_official": "이루온",
+    "cohort": 4,
+    "selection_year": 2025,
+    "field_official": "드론"
+  },
+  {
+    "selection_id": "SEL-083",
+    "company_name_official": "유저스",
+    "cohort": 4,
+    "selection_year": 2025,
+    "field_official": "센서"
+  }
+]

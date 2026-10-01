@@ -1,0 +1,5 @@
+﻿cohort,patent_company_links,unique_applications,companies,coapplication_links,median_application_year,median_company_count,mean_company_count,min_company_count,max_company_count
+1,784,784,18,69,2020.0,34.0,43.55555555555556,6.0,138.0
+2,623,623,16,38,2021.0,27.0,38.9375,11.0,155.0
+3,1025,1025,26,83,2021.0,28.0,39.42307692307692,7.0,182.0
+4,1192,1192,21,129,2019.0,28.0,56.76190476190476,1.0,256.0

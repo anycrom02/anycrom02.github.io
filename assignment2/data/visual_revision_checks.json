@@ -1,0 +1,32 @@
+{
+  "selection_records": 83,
+  "cohort_counts": {
+    "1": 18,
+    "2": 17,
+    "3": 27,
+    "4": 21
+  },
+  "field_counts": {
+    "우주": 13,
+    "인공지능": 17,
+    "반도체": 9,
+    "로봇": 9,
+    "드론": 21,
+    "기타": 13,
+    "센서": 1
+  },
+  "ranked_companies": 81,
+  "ranked_company_links": 3624.0,
+  "diversity_median": 16,
+  "diversity_range": [
+    2,
+    43
+  ],
+  "observed_years": [
+    1996,
+    2026
+  ],
+  "preselection_count": 2978,
+  "other_count": 646,
+  "aggregation_changes": false
+}

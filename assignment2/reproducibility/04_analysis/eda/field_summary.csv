@@ -1,0 +1,8 @@
+﻿field_official,patent_company_links,unique_applications,companies,coapplication_links,median_application_year,median_company_count,mean_company_count,min_company_count,max_company_count
+기타,456,456,12,35,2019.0,20.0,38.0,9.0,100.0
+드론,710,710,20,76,2020.0,30.5,35.5,7.0,110.0
+로봇,355,355,9,37,2020.0,22.0,39.44444444444444,1.0,138.0
+반도체,549,549,9,22,2021.0,34.0,61.0,15.0,182.0
+센서,15,15,1,3,2017.0,15.0,15.0,15.0,15.0
+우주,286,283,13,43,2019.0,15.0,22.0,1.0,54.0
+인공지능,1253,1253,17,103,2021.0,53.0,73.70588235294117,13.0,256.0

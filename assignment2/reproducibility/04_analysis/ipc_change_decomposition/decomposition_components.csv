@@ -1,0 +1,9 @@
+﻿ipc_subclass,component,contribution_pp,share_of_change_pct
+G06N,within_common_firms,0.23978106830563045,2.5563483453340456
+G06N,reweighting_common_firms,6.405713137400011,68.29243982933977
+G06N,later_only_composition,2.7343334200281104,29.151211825326197
+G06N,earlier_only_composition,-0.0,-0.0
+G06T,within_common_firms,1.9275556888608092,42.563568248690366
+G06T,reweighting_common_firms,0.44395103561414245,9.803161751766035
+G06T,later_only_composition,2.1571448152608372,47.63326999954361
+G06T,earlier_only_composition,-0.0,-0.0
