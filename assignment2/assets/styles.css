@@ -25,3 +25,6 @@ body{line-height:1.7}.wrap{width:min(1080px,calc(100% - 40px))}h1,h2,h3{color:va
 @media(max-width:700px){.semantic-controls{grid-template-columns:1fr 1fr}.semantic-pipeline{grid-template-columns:1fr 1fr}.semantic-pipeline li:nth-child(2n):after{display:none}.semantic-insights,.semantic-cluster-grid{grid-template-columns:1fr}.semantic-canvas-wrap canvas{height:400px}.semantic-map-actions strong{margin-left:0;flex-basis:100%}.semantic-insight{padding:20px}.semantic-insight h3{font-size:21px}.semantic-kpi div:last-child strong{font-size:29px}}
 
 .semantic-matrix{min-width:1700px}.semantic-matrix th,.semantic-matrix td{width:80px}.semantic-matrix th:first-child{width:150px}.semantic-matrix th{white-space:normal;word-break:keep-all;overflow-wrap:anywhere;vertical-align:top}.semantic-matrix th small{display:block;max-width:100%;white-space:normal;font-size:10px;line-height:1.5;margin:5px 0 0;font-weight:400;letter-spacing:0;overflow-wrap:anywhere}.semantic-matrix th a{white-space:normal;overflow-wrap:anywhere}.semantic-cluster-card a{font-size:12px}
+
+.page-links{display:flex;flex-wrap:wrap;align-items:center;gap:18px 32px;margin-top:28px}.page-links .reading-link{margin-top:0}
+@media print{.page-links{display:none}}
